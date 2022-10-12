@@ -1,0 +1,16 @@
+---
+import ThemeSwitcher from "./ThemeSwitcher.svelte";
+---
+
+<header
+  class="fixed top-0 flex w-full h-16 bg-base-100 items-center justify-end px-6"
+>
+  <ul class="flex pr-6">
+    <li>
+      <a class="font-medium text-sm uppercase" href="/contributors"
+        >Pessoas contribuidoras</a
+      >
+    </li>
+  </ul>
+  <ThemeSwitcher client:load />
+</header>

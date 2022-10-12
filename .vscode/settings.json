@@ -1,0 +1,6 @@
+{
+  "conventionalCommits.scopes": [
+    "styling",
+    "ui"
+  ]
+}

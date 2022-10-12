@@ -1,64 +1,12 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
+import Layout from "../layouts/Layout.astro";
+import Hero from "../components/Hero.astro";
+import Navbar from "../components/Navbar.astro";
 ---
 
 <Layout title="Collab | Engenharia de software">
-	<main>
-		<h1>Boas vindas ao <span class="text-gradient">Collab</span></h1>
-		<p class="instructions">
-      O blog <strong>colaborativo</strong> da turma de Engenharia de Software II da Universidade Federal de Itajubá
-    </p>
-		<p class="wip">
-      🚧 Em construção 🚧
-    </p>
-	</main>
+  <Navbar />
+  <Hero />
+  <!-- <Posts></Posts> -->
+  <!-- <Footer></Footer> -->
 </Layout>
-
-<style>
-	main {
-		margin: auto;
-		padding: 1.5rem;
-		max-width: 66ch;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-	}
-	h1 {
-		font-size: 3rem;
-		font-weight: 800;
-		margin: 0;
-	}
-	.text-gradient {
-		background-image: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-		background-size: 400%;
-		background-position: 0%;
-	}
-	.instructions {
-		line-height: 1.6;
-		margin: 1rem 0;
-		padding: 1rem 0;
-	}
-
-  .wip {
-		line-height: 1.6;
-		margin: 1rem 0;
-		padding: 1rem;
-    font-size: 1.5rem;
-    text-align: center;
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
-
-	.link-card-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-		gap: 1rem;
-		padding: 0;
-	}
-</style>
