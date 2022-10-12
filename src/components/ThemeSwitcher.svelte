@@ -12,8 +12,8 @@
 
   function switchTheme() {
     if (currentTheme === "lofi") {
-      currentTheme = "night";
-      rootTag.setAttribute("data-theme", "night");
+      currentTheme = "black";
+      rootTag.setAttribute("data-theme", "black");
     } else {
       currentTheme = "lofi";
       rootTag.setAttribute("data-theme", "lofi");

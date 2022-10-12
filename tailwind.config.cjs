@@ -8,7 +8,7 @@ module.exports = {
   darkMode: "class",
   plugins: [require("@tailwindcss/typography"), require("daisyui")],
   daisyui: {
-    themes: ["lofi", "night"],
-    darkMode: ["night"],
+    themes: ["lofi", "black"],
+    darkMode: ["black"],
   },
 };
