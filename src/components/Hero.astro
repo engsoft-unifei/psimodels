@@ -1,3 +1,18 @@
+---
+const token = import.meta.env.PUBLIC_GITHUB_API_TOKEN;
+const request = await fetch(
+  "https://api.github.com/repos/engsoft-unifei/psimodels/contributors",
+  {
+    method: "GET",
+    headers: {
+      Accept: "application/vnd.github+json",
+      Authorization: `Bearer ${token}`,
+    },
+  }
+);
+const contributors = await request.json();
+---
+
 <main
   class="w-full p-6 flex items-center justify-center flex-col h-[680px] bg-base-200"
 >
@@ -7,10 +22,37 @@
       O blog colaborativo da turma de Engenharia de Softaware II - UNIFEI 2022.2
     </p>
   </div>
+
   <div class="mt-8 flex gap-4 flex-col sm:flex-row">
-    <a href="#posts" class="btn btn-primary">Postagens</a>
-    <a href="/psimodels/contributors" class="btn btn-primary btn-outline"
-      >Pessoas Contribuidoras</a
-    >
+    <a href="#posts" class="btn btn-primary">Acesse as postagens</a>
+  </div>
+
+  <div class="mt-14 flex flex-col items-center justify-center gap-4">
+    <div class="prose">
+      <h4>As pessoas autoras</h4>
+    </div>
+    <div class="avatar-group -space-x-5">
+      {
+        contributors.slice(0, 6).map((i) => {
+          return (
+            <div class="avatar !border-primary ">
+              <div class="w-10">
+                <img src={i.avatar_url} alt={i.login} />
+              </div>
+            </div>
+          );
+        })
+      }
+      {
+        contributors.length > 6 && (
+          <div class="avatar placeholder !border-primary ">
+            <div class="w-10 bg-neutral-content text-neutral-focus">
+              <span>+{contributors.length - 6}</span>
+            </div>
+          </div>
+        )
+      }
+    </div>
+    <a href="/psimodels/contributors" class="underline text-sm">Ver mais</a>
   </div>
 </main>
