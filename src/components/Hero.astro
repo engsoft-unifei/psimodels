@@ -11,6 +11,7 @@ const request = await fetch(
   }
 );
 const contributors = await request.json();
+const maxShownContributors = 6;
 ---
 
 <main
@@ -29,30 +30,32 @@ const contributors = await request.json();
 
   <div class="mt-14 flex flex-col items-center justify-center gap-4">
     <div class="prose">
-      <h4>As pessoas autoras</h4>
+      <h4 class="text-center">Postagens criadas em colaboração de</h4>
     </div>
-    <div class="avatar-group -space-x-5">
+    <div class="avatar-group -space-x-5 overflow-visible">
       {
-        contributors.slice(0, 6).map((i) => {
+        contributors.slice(0, maxShownContributors).map((i) => {
           return (
-            <div class="avatar !border-primary ">
+            <div class="avatar !border-primary ease-in-out duration-150 hover:scale-110 hover:-translate-y-1">
               <div class="w-10">
-                <img src={i.avatar_url} alt={i.login} />
+                <a href={i.html_url} target="_blank">
+                  <img title={i.login} src={i.avatar_url} alt={i.login} />
+                </a>
               </div>
             </div>
           );
         })
       }
       {
-        contributors.length > 6 && (
+        contributors.length > maxShownContributors && (
           <div class="avatar placeholder !border-primary ">
             <div class="w-10 bg-neutral-content text-neutral-focus">
-              <span>+{contributors.length - 6}</span>
+              <span>+{contributors.length - maxShownContributors}</span>
             </div>
           </div>
         )
       }
     </div>
-    <a href="/psimodels/contributors" class="underline text-sm">Ver mais</a>
+    <a href="/psimodels/contributors" class="underline text-sm"> Ver mais</a>
   </div>
 </main>

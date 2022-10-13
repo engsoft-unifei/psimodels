@@ -1,0 +1,42 @@
+---
+import Navbar from "../components/Navbar.astro";
+
+const { frontmatter } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{frontmatter.title}</title>
+  </head>
+  <body>
+    <Navbar title={frontmatter.title} goBack />
+    {
+      frontmatter.banner && (
+        <div
+          class:list={[frontmatter.banner || "bg-yellow-200", "w-full", "h-64"]}
+        />
+      )
+    }
+    <div
+      class="bg-base-200 !prose min-w-full p-4 py-16 sm:px-16 md:px-32 lg:px-64"
+    >
+      <slot />
+    </div>
+    <style is:global>
+      body,
+      html {
+        scroll-behavior: smooth;
+        @apply bg-base-200;
+      }
+
+      body {
+        @apply min-h-screen;
+      }
+    </style>
+  </body>
+</html>
