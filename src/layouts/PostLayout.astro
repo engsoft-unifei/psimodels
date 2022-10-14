@@ -1,4 +1,6 @@
 ---
+import dayjs from "dayjs";
+import Footer from "../components/Footer.astro";
 import Navbar from "../components/Navbar.astro";
 
 const { frontmatter } = Astro.props;
@@ -11,10 +13,10 @@ const { frontmatter } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>{frontmatter.title}</title>
+    <title>Collab | {frontmatter.title}</title>
   </head>
-  <body>
-    <Navbar title={frontmatter.title} goBack />
+  <body class="flex flex-col">
+    <Navbar goBack />
     {
       frontmatter.banner && (
         <div
@@ -23,10 +25,20 @@ const { frontmatter } = Astro.props;
       )
     }
     <div
-      class="bg-base-200 !prose min-w-full p-4 py-16 sm:px-16 md:px-32 lg:px-64"
+      class="min-w-full flex flex-col gap-4 p-4 pt-10 sm:px-16 md:px-32 lg:px-64"
+    >
+      <p class="text-lg font-semibold">Escrito por {frontmatter.author}</p>
+      <p class="text-xs uppercase font-medium">
+        Publicado em {dayjs(frontmatter.pubDate).format("DD/MM/YYYY")}
+      </p>
+    </div>
+    <div class="divider"></div>
+    <div
+      class="bg-base-200 flex-1 !prose min-w-full p-4 py-16 pt-8 sm:px-16 md:px-32 lg:px-64"
     >
       <slot />
     </div>
+    <Footer />
     <style is:global>
       body,
       html {

@@ -2,7 +2,6 @@
 import ThemeSwitcher from "./ThemeSwitcher.svelte";
 
 export interface Props {
-  title?: string;
   goBack?: boolean;
 }
 
@@ -10,7 +9,7 @@ const { goBack } = Astro.props;
 ---
 
 <header
-  class="fixed top-0 flex w-full h-16 bg-base-100 items-center justify-between"
+  class="fixed z-50 top-0 flex w-full h-16 bg-base-100 items-center justify-between"
 >
   <div class="flex items-center pl-6 sm:pl-16">
     {

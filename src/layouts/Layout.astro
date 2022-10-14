@@ -1,4 +1,5 @@
 ---
+import Footer from "../components/Footer.astro";
 import Navbar from "../components/Navbar.astro";
 
 export interface Props {
@@ -18,9 +19,10 @@ const { goBack, title } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
   </head>
-  <body>
+  <body class="flex flex-col">
     <Navbar goBack={goBack} />
     <slot />
+    <Footer />
     <style is:global>
       body,
       html {

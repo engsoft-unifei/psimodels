@@ -15,4 +15,4 @@ banner: "bg-yellow-200"
 
 ## Cheat sheet de Markdown
 
-[Markdown Cheatsheet](/psimodels/post/markdown-cheatsheet)
+[Markdown Cheatsheet](/psimodels/posts/markdown-cheatsheet)
