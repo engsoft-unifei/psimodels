@@ -1,0 +1,9 @@
+{
+  "name": "Engsoft Collab",
+  "short_name": "Collab",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "browser",
+  "scope": "https://engsoft-unifei.github.io/psimodels/",
+  "start_url": "/psimodels/"
+}
