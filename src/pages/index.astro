@@ -1,12 +1,12 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import Hero from "../components/Hero.astro";
-import Navbar from "../components/Navbar.astro";
+import Posts from "../components/Posts.astro";
 ---
 
 <Layout title="Collab | Engenharia de software">
-  <Navbar />
-  <Hero />
-  <!-- <Posts></Posts> -->
-  <!-- <Footer></Footer> -->
+  <div class="flex-1">
+    <Hero />
+    <Posts />
+  </div>
 </Layout>

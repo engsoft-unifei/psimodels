@@ -4,19 +4,25 @@
   import { onMount } from "svelte";
 
   let currentTheme = "lofi";
+  let _localStorage;
   let rootTag;
 
   onMount(() => {
+    _localStorage = localStorage;
     rootTag = window.document.documentElement;
+    currentTheme = localStorage.getItem("theme") || "lofi";
+    rootTag.setAttribute("data-theme", currentTheme);
   });
 
   function switchTheme() {
     if (currentTheme === "lofi") {
-      currentTheme = "night";
-      rootTag.setAttribute("data-theme", "night");
+      currentTheme = "black";
+      rootTag.setAttribute("data-theme", "black");
+      _localStorage.setItem("theme", "black");
     } else {
       currentTheme = "lofi";
       rootTag.setAttribute("data-theme", "lofi");
+      _localStorage.setItem("theme", "lofi");
     }
   }
 </script>

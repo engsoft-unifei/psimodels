@@ -1,16 +1,33 @@
 ---
 import ThemeSwitcher from "./ThemeSwitcher.svelte";
+
+export interface Props {
+  goBack?: boolean;
+}
+
+const { goBack } = Astro.props;
 ---
 
 <header
-  class="fixed top-0 flex w-full h-16 bg-base-100 items-center justify-end px-6"
+  class="fixed z-50 top-0 flex w-full h-16 bg-base-100 items-center justify-between"
 >
-  <ul class="flex pr-6">
-    <li>
-      <a class="font-medium text-sm uppercase" href="/contributors"
-        >Pessoas contribuidoras</a
-      >
-    </li>
-  </ul>
-  <ThemeSwitcher client:load />
+  <div class="flex items-center pl-6 sm:pl-16">
+    {
+      goBack && (
+        <a href="/psimodels/" class="text-xl font-bold block py-3 pr-3">
+          &larr;
+        </a>
+      )
+    }
+  </div>
+  <div class="flex items-center pr-6">
+    <ul class="flex pr-6">
+      <li>
+        <a class="font-medium text-sm uppercase" href="/psimodels/contributors"
+          >Estudantes</a
+        >
+      </li>
+    </ul>
+    <ThemeSwitcher client:load />
+  </div>
 </header>

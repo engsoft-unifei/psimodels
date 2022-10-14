@@ -1,21 +1,18 @@
 ---
+import dayjs from "dayjs";
 import Footer from "../components/Footer.astro";
 import Navbar from "../components/Navbar.astro";
 
-export interface Props {
-  title: string;
-  goBack?: boolean;
-}
-
-const { goBack, title } = Astro.props;
+const { frontmatter } = Astro.props;
 ---
 
 <!DOCTYPE html>
-<html lang="pt-BR" data-theme="lofi">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
     <link rel="manifest" href="/psimodels/manifest.json" />
     <link rel="robots" href="/psimodels/robots.txt" />
     <meta name="title" content="Engsoft Collab" />
@@ -35,17 +32,41 @@ const { goBack, title } = Astro.props;
       content="Joel Vitor Torres (joelvitortorres@gmail.com)"
     />
 
-    <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
+    <title>Collab | {frontmatter.title}</title>
   </head>
   <body class="flex flex-col">
-    <Navbar goBack={goBack} />
-    <slot />
+    <Navbar goBack />
+    {
+      frontmatter.banner && (
+        <div
+          class:list={[frontmatter.banner || "bg-yellow-200", "w-full", "h-64"]}
+        />
+      )
+    }
+    <div
+      class="min-w-full flex flex-col gap-4 p-4 pt-10 sm:px-16 md:px-32 lg:px-64"
+    >
+      <p class="text-lg font-semibold">Escrito por {frontmatter.author}</p>
+      <p class="text-xs uppercase font-medium">
+        Publicado em {dayjs(frontmatter.date).format("DD/MM/YYYY")}
+      </p>
+    </div>
+    <div class="divider"></div>
+    <div
+      class="bg-base-200 flex-1 !prose min-w-full p-4 py-16 pt-8 sm:px-16 md:px-32 lg:px-64"
+    >
+      <slot />
+    </div>
     <Footer />
     <style is:global>
       body,
       html {
         scroll-behavior: smooth;
+        @apply bg-base-200;
+      }
+
+      body {
+        @apply min-h-screen;
       }
     </style>
   </body>

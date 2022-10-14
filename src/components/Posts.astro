@@ -1,0 +1,58 @@
+---
+import dayjs from "dayjs";
+
+const allPosts = await Astro.glob("../pages/posts/*.md");
+const sortedPosts = allPosts
+  .sort(
+    (a, b) =>
+      new Date(a.frontmatter.date).valueOf() -
+      new Date(b.frontmatter.date).valueOf()
+  )
+  .reverse();
+---
+
+<div id="#posts" class="prose min-w-full">
+  <h2 class="text-center">Confira os posts</h2>
+</div>
+<div
+  class="flex flex-row items-center justify-center gap-6 flex-wrap p-4 py-16 pt-8 sm:px-16 md:px-32 lg:px-64"
+>
+  {
+    sortedPosts.map((post) => {
+      return (
+        <div class="card w-96 bg-base-100 shadow-xl flex-1 basis-96">
+          <figure>
+            <div
+              class:list={[
+                post.frontmatter.banner || "bg-yellow-200",
+                "w-full",
+                "h-14",
+                "flex",
+                "justify-center",
+                "items-center",
+              ]}
+            />
+          </figure>
+          <div class="card-body">
+            <div class="flex flex-col">
+              <p class="text-xs uppercase tracking-widest">
+                {post.frontmatter.author}
+              </p>
+              <h1 class="card-title">{post.frontmatter.title}</h1>
+            </div>
+            <p>{post.frontmatter.description}</p>
+            <div class="card-actions justify-between items-end">
+              <p class="text-xs uppercase tracking-widest">
+                {dayjs(post.frontmatter.date).format("DD/MM/YYYY")}
+              </p>
+
+              <a href={post.url} class="btn btn-primary mt-4">
+                Ver post
+              </a>
+            </div>
+          </div>
+        </div>
+      );
+    })
+  }
+</div>

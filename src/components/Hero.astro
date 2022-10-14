@@ -1,16 +1,58 @@
+---
+const token = import.meta.env.PUBLIC_GITHUB_API_TOKEN;
+const request = await fetch(
+  "https://api.github.com/repos/engsoft-unifei/psimodels/contributors",
+  {
+    method: "GET",
+    headers: {
+      Accept: "application/vnd.github+json",
+      Authorization: `Bearer ${token}`,
+    },
+  }
+);
+const contributors = await request.json();
+const maxShownContributors = 6;
+---
+
 <main
   class="w-full p-6 flex items-center justify-center flex-col h-[680px] bg-base-200"
 >
   <div class="prose">
     <h1 class="text-center">Boas vindas ao Collab</h1>
-    <p class="text-center text-lg">
-      O blog colaborativo da turma de Engenharia de Softaware II - UNIFEI 2022.2
-    </p>
+    <h2 class="text-center text-lg font-normal">
+      O blog colaborativo da turma de Engenharia de Softaware II - UNIFEI
+      2022.2. Posts criados pelas pessoas estudantes.
+    </h2>
   </div>
-  <div class="mt-8 flex gap-4 flex-col sm:flex-row">
-    <a href="#posts" class="btn btn-primary">Postagens</a>
-    <a href="/contributors" class="btn btn-primary btn-outline"
-      >Pessoas Contribuidoras</a
-    >
+
+  <div class="mt-6 flex flex-col items-center justify-center gap-4">
+    <div class="prose">
+      <h3 class="text-center font-medium text-base">Em colaboração de</h3>
+    </div>
+    <div class="avatar-group -space-x-5 overflow-visible">
+      {
+        contributors.slice(0, maxShownContributors).map((i) => {
+          return (
+            <div class="avatar !border-primary ease-in-out duration-150 hover:scale-110 hover:-translate-y-1">
+              <div class="w-10">
+                <a href={i.html_url} target="_blank">
+                  <img title={i.login} src={i.avatar_url} alt={i.login} />
+                </a>
+              </div>
+            </div>
+          );
+        })
+      }
+      {
+        contributors.length > maxShownContributors && (
+          <div class="avatar placeholder !border-primary ">
+            <div class="w-10 bg-neutral-content text-neutral-focus">
+              <span>+{contributors.length - maxShownContributors}</span>
+            </div>
+          </div>
+        )
+      }
+    </div>
+    <a href="/psimodels/contributors" class="underline text-sm"> Ver mais</a>
   </div>
 </main>
