@@ -28,20 +28,22 @@ const contributors = await request.json();
     >
       {
         contributors.map((i) => {
-          return (
+          const template = (
             <a
               href={i.html_url}
               target="_blank"
               class="student flex flex-col items-center justify-center gap-2 ease-in-out duration-150 hover:scale-110"
+              title={i.login}
             >
               <div class="avatar">
                 <div class="w-16 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
                   <img src={i.avatar_url} alt={i.login} />
                 </div>
               </div>
-              <p class="text-center">@{i.login}</p>
             </a>
           );
+
+          return template;
         })
       }
     </div>
