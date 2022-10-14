@@ -5,5 +5,5 @@
   "background_color": "#000000",
   "display": "browser",
   "scope": "https://engsoft-unifei.github.io/psimodels/",
-  "start_url": "/psimodels/"
+  "start_url": "https://engsoft-unifei.github.io/psimodels/"
 }
