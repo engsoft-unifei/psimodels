@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Tutorial"
 description: "Aprenda a fazer um post no blog"
 author: "Joel, Joelzinho e Joelzao"
-date: "12 Out 2022"
+date: "14 Oct 2022"
 banner: "bg-yellow-200"
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Markdown Cheat Sheet"
 description: "Breve resumo de como escrever markdown"
 author: "Tchapi"
-date: "12 Out 2022"
+date: "14 Oct 2022"
 banner: "bg-emerald-400"
 ---
 

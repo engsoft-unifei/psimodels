@@ -29,7 +29,7 @@ const { frontmatter } = Astro.props;
     >
       <p class="text-lg font-semibold">Escrito por {frontmatter.author}</p>
       <p class="text-xs uppercase font-medium">
-        Publicado em {dayjs(frontmatter.pubDate).format("DD/MM/YYYY")}
+        Publicado em {dayjs(frontmatter.date).format("DD/MM/YYYY")}
       </p>
     </div>
     <div class="divider"></div>

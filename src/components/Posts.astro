@@ -2,11 +2,13 @@
 import dayjs from "dayjs";
 
 const allPosts = await Astro.glob("../pages/posts/*.md");
-const sortedPosts = allPosts.sort(
-  (a, b) =>
-    new Date(a.frontmatter.pubDate).valueOf() -
-    new Date(b.frontmatter.pubDate).valueOf()
-);
+const sortedPosts = allPosts
+  .sort(
+    (a, b) =>
+      new Date(a.frontmatter.date).valueOf() -
+      new Date(b.frontmatter.date).valueOf()
+  )
+  .reverse();
 ---
 
 <div id="#posts" class="prose min-w-full">
@@ -41,7 +43,7 @@ const sortedPosts = allPosts.sort(
             <p>{post.frontmatter.description}</p>
             <div class="card-actions justify-between items-end">
               <p class="text-xs uppercase tracking-widest">
-                {dayjs(post.frontmatter.pubDate).format("DD/MM/YYYY")}
+                {dayjs(post.frontmatter.date).format("DD/MM/YYYY")}
               </p>
 
               <a href={post.url} class="btn btn-primary mt-4">
