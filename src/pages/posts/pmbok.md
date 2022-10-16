@@ -162,6 +162,18 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 ## Benefícios e desafios
 
 ## Certificações
+O PMBOK em si não possui certificado, sendo ele apenas um guia que serve como  base para os certificados PMP, CAPM entre outros certificados de gestão, disponibilizados pelo PMI (Project Management Institute).Além disso, os certificados são individuais concedidos a pessoas que tenham feito o treinamento e não a empresas.
+<br>
+	No Brasil é possível obter um certificado PMP através do próprio site do PMI.(1)
+<br>
+	Para uma certificação PMP é necessário:
+- ensino médio completo + 7.500 horas de liderança e gestão de projetos +  35 horas de treinamento em gestão de projetos ou certificado CAPM.
+<br>
+Ou 
+<br>
+- Graduação de 4 anos + 4.500 horas de liderança e gestão de projetos + 35 horas de treinamento em gestão de projetos ou certificado CAPM.
+
+Algumas empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Telemar,  Oi,  Andrade Gutierrez,  HP,  Microsoft e  TIM.
 
 ## Relatos de experiência
 
