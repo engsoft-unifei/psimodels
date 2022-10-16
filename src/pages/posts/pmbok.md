@@ -16,6 +16,8 @@ banner: "bg-blue-200"
 
 ## Etapas e estratégias do PMBOK 📝
 
+O guia PMBOK trabalha com estratégia de definição de gerenciamento de programa ou processos, de ciclos de vida e áreas de conhecimento.
+
 ### Gerenciamento de programa
 
 O uso de técnicas, ferramentas e processos de gerenciamento de projetos fornece uma base sólida para as organizações atingirem suas metas e objetivos.
@@ -76,7 +78,7 @@ Embora sejam inter-relacionadas, as Áreas de Conhecimento são definidas separa
 
 ### Grupo de processos de gerenciamento de projetos e mapeamento das áreas de conhecimento
 
-As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde. A tabela abaixo mapeia os Grupos de Processos de Gerenciamento de Projetos e as Áreas de Conhecimento descritos nas seções 4 a 13 presentes na sexta edição do guia.
+As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde. A tabela abaixo mapeia os Grupos de Processos de Gerenciamento de Projetos e as Áreas de Conhecimento descritos nas seções 4 a 13 presentes na sexta edição do guia [¹][1].
 
 | **_Gerenciamento de projeto x Áreas de conhecimento_**	|    **1.Grupo de processos de iniciação**   	|                                                                         **2.Grupo de processos de planejamento**                                                                        	|                       **3.Grupo de processos de execução**                       	|                   **4.Grupo de processos de monitoramento e controle**                  	| **5.Grupo de processos de encerramento** 	|
 |:--------------------------------------------------------:	|:------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------:	|:----------------------------------------:	|
@@ -121,8 +123,8 @@ seu poder, influência, competência, liderança e capacidades políticas para c
 ### Escritório de gerenciamento de projetos (EGP)
 
 Um escritório de gerenciamento de projetos (EGP) é uma estrutura organizacional que padroniza os processos de governança relacionados a projetos e facilita o compartilhamento de recursos, metodologias, ferramentas, e técnicas. As responsabilidades de um EGP podem variar, desde o fornecimento de funções de apoio ao gerenciamento de projetos até o gerenciamento direto de um ou mais projetos.
-`<br>`
-`<br>`
+<br>
+<br>
 Um EGP pode ter a autoridade para atuar como uma parte interessada integral e um importante decisor ao longo do ciclo de vida de cada projeto, para mantê-lo alinhado aos objetivos do negócio. O EGP pode:
 
 - Fazer recomendações;
@@ -164,15 +166,15 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 ## Certificações
 
 O PMBOK em si não possui certificado, sendo ele apenas um guia que serve como  base para os certificados PMP, CAPM entre outros certificados de gestão, disponibilizados pelo PMI (Project Management Institute).Além disso, os certificados são individuais concedidos a pessoas que tenham feito o treinamento e não a empresas.
-`<br>`
+<br>
 	No Brasil é possível obter um certificado PMP através do próprio site do PMI.(1)
-`<br>`
+<br>
 	Para uma certificação PMP é necessário:
 
 - ensino médio completo + 7.500 horas de liderança e gestão de projetos +  35 horas de treinamento em gestão de projetos ou certificado CAPM.
-  `<br>`
+  <br>
   Ou
-  `<br>`
+  <br>
 - Graduação de 4 anos + 4.500 horas de liderança e gestão de projetos + 35 horas de treinamento em gestão de projetos ou certificado CAPM.
 
 Algumas empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Telemar,  Oi,  Andrade Gutierrez,  HP,  Microsoft e  TIM.
