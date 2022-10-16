@@ -167,8 +167,8 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 b
 
-## Material completar
+## Material complementar
 
-A
+O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão predente, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico ""Metodologia de Gerenciamento de Projetos"" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública.
 
 ## Área de referências
