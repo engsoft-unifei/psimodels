@@ -16,6 +16,8 @@ banner: "bg-blue-200"
 
 ## Etapas e estratégias do PMBOK 📝
 
+O guia PMBOK trabalha com estratégia de definição de gerenciamento de programa ou processos, de ciclos de vida e áreas de conhecimento.
+
 ### Gerenciamento de programa
 
 O uso de técnicas, ferramentas e processos de gerenciamento de projetos fornece uma base sólida para as organizações atingirem suas metas e objetivos.
@@ -76,7 +78,7 @@ Embora sejam inter-relacionadas, as Áreas de Conhecimento são definidas separa
 
 ### Grupo de processos de gerenciamento de projetos e mapeamento das áreas de conhecimento
 
-As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde. A tabela abaixo mapeia os Grupos de Processos de Gerenciamento de Projetos e as Áreas de Conhecimento descritos nas seções 4 a 13 presentes na sexta edição do guia.
+As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde. A tabela abaixo mapeia os Grupos de Processos de Gerenciamento de Projetos e as Áreas de Conhecimento descritos nas seções 4 a 13 presentes na sexta edição do guia [¹][1].
 
 | **_Gerenciamento de projeto x Áreas de conhecimento_**	|    **1.Grupo de processos de iniciação**   	|                                                                         **2.Grupo de processos de planejamento**                                                                        	|                       **3.Grupo de processos de execução**                       	|                   **4.Grupo de processos de monitoramento e controle**                  	| **5.Grupo de processos de encerramento** 	|
 |:--------------------------------------------------------:	|:------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------:	|:----------------------------------------:	|
