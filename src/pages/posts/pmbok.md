@@ -214,6 +214,6 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 ## Área de referências
 
 ¹
-https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en
+https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en  
 ²
 https://www.pmi.org/brasil/tipos-de-certificacao
