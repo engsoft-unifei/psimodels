@@ -181,11 +181,11 @@ Algumas empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Tel
 
 ## Relatos de experiência
 
-No próprio site do PMI (Organização criadora do PMBOK) [¹]#Área-de-Referências "Vai para seção de referências") existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
-	projetos utilizando de produtos, programas e princípios do PMBOK. Dentre os casos gostaria de 
-	destacar a utilização pela AstraZeneca para gerenciar os testes clínicos e o aumento da 
-	capacidade de produção de vacinas durante a pandemia, utilizando da rápida instalação do 
-	primeiro escritório de gerenciamento de projetos usando dos princípios do PMBOK.
+No próprio site do PMI (Organização criadora do PMBOK) [¹](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
+projetos utilizando de produtos, programas e princípios do PMBOK. Dentre os casos gostaria de 
+destacar a utilização pela AstraZeneca para gerenciar os testes clínicos e o aumento da 
+capacidade de produção de vacinas durante a pandemia, utilizando da rápida instalação do 
+primeiro escritório de gerenciamento de projetos usando dos princípios do PMBOK.
 
 
 ### Astranezeca 🏥
