@@ -16,7 +16,7 @@ banner: "bg-blue-200"
 
 ## Etapas e estratégias do PMBOK 📝
 
-O guia PMBOK trabalha com estratégia de definição de gerenciamento de programa ou processos, de ciclos de vida e áreas de conhecimento.
+O guia PMBOK trabalha com estratégia de definição de gerenciamento de programa ou processos, de ciclos de vida e áreas de conhecimento[²](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/).
 
 ### Gerenciamento de programa
 
@@ -78,7 +78,7 @@ Embora sejam inter-relacionadas, as Áreas de Conhecimento são definidas separa
 
 ### Grupo de processos de gerenciamento de projetos e mapeamento das áreas de conhecimento
 
-As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde. A tabela abaixo mapeia os Grupos de Processos de Gerenciamento de Projetos e as Áreas de Conhecimento descritos nas seções 4 a 13 presentes na sexta edição do guia.
+As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde. A tabela abaixo mapeia os Grupos de Processos de Gerenciamento de Projetos e as Áreas de Conhecimento descritos nas seções 4 a 13 presentes na sexta edição do guia [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf).
 
 | **_Gerenciamento de projeto x Áreas de conhecimento_**	|    **1.Grupo de processos de iniciação**   	|                                                                         **2.Grupo de processos de planejamento**                                                                        	|                       **3.Grupo de processos de execução**                       	|                   **4.Grupo de processos de monitoramento e controle**                  	| **5.Grupo de processos de encerramento** 	|
 |:--------------------------------------------------------:	|:------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------:	|:----------------------------------------:	|
@@ -123,8 +123,7 @@ seu poder, influência, competência, liderança e capacidades políticas para c
 ### Escritório de gerenciamento de projetos (EGP)
 
 Um escritório de gerenciamento de projetos (EGP) é uma estrutura organizacional que padroniza os processos de governança relacionados a projetos e facilita o compartilhamento de recursos, metodologias, ferramentas, e técnicas. As responsabilidades de um EGP podem variar, desde o fornecimento de funções de apoio ao gerenciamento de projetos até o gerenciamento direto de um ou mais projetos.
-<br>
-<br>
+
 Um EGP pode ter a autoridade para atuar como uma parte interessada integral e um importante decisor ao longo do ciclo de vida de cada projeto, para mantê-lo alinhado aos objetivos do negócio. O EGP pode:
 
 - Fazer recomendações;
@@ -165,7 +164,7 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 ## Certificações
 O PMBOK em si não possui certificado, sendo ele apenas um guia que serve como  base para os certificados PMP, CAPM entre outros certificados de gestão, disponibilizados pelo PMI (Project Management Institute).Além disso, os certificados são individuais concedidos a pessoas que tenham feito o treinamento e não a empresas.  
-	No Brasil é possível obter certificados PMP e CAPM através do próprio site do PMI.Assim como o guia do PMBOK que pode ser adquirido lá também.[²](https://www.pmi.org/brasil/tipos-de-certificacao)  
+	No Brasil é possível obter certificados PMP e CAPM através do próprio site do PMI.Assim como o guia do PMBOK que pode ser adquirido lá também.[⁴](https://www.pmi.org/brasil/tipos-de-certificacao)  
     Não existem requisitos para adquirir o guia PMBOK já
 	os requisitos para os certificados variam, para participar da certificação PMP por exemplo, são necessários:
 - ensino médio completo + 7.500 horas de liderança e gestão de projetos +  35 horas de treinamento em gestão de projetos ou certificado CAPM.  
@@ -179,7 +178,7 @@ Algumas das empresas com gestores certificados  PMP  no Brasil são  Volkswagen 
 
 ## Relatos de experiência
 
-No próprio site do PMI (Organização criadora do PMBOK) [¹](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
+No próprio site do PMI (Organização criadora do PMBOK) [⁵](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
 projetos utilizando de produtos, programas e princípios do PMBOK. Dentre os casos gostaria de 
 destacar a utilização pela AstraZeneca para gerenciar os testes clínicos e o aumento da 
 capacidade de produção de vacinas durante a pandemia, utilizando da rápida instalação do 
@@ -197,7 +196,6 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 	PMO da Astrazeneca foram: Integração do calendário e orçamento, gerenciamento de 
 	contratos, orientação dos processos da equipe e gerenciamento de risco.  
 
-
 	Pode-se observar que o PMBOK não foi seguido à risca, pois ele deve ser adaptado para 
 	cada tipo de projeto, com seus prazos e orçamentos específicos, essa que foi a principal lição 
 	tirada pela Astrazeneca com essa experiência. A adaptação é o principal desafio ao se gerenciar 
@@ -213,7 +211,18 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 
 ## Área de referências
 
-¹
-https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en  
-²
-https://www.pmi.org/brasil/tipos-de-certificacao
+¹ ref1
+
+² [Organização do PMBOK](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/)
+
+³ [Guia PMBOK](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+
+⁴ [Estudo de caso Astrazeneca](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en)
+
+⁵ [Tipos de certificação](https://www.pmi.org/brasil/tipos-de-certificacao)
+
+⁶ ref6
+
+⁷ ref7
+
+⁸ ref8
