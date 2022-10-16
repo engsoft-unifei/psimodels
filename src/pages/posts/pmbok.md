@@ -165,13 +165,15 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 ## Certificações
 O PMBOK em si não possui certificado, sendo ele apenas um guia que serve como  base para os certificados PMP, CAPM entre outros certificados de gestão, disponibilizados pelo PMI (Project Management Institute).Além disso, os certificados são individuais concedidos a pessoas que tenham feito o treinamento e não a empresas.  
-	No Brasil é possível obter um certificado PMP através do próprio site do [PMI](https://www.pmi.org/brasil/tipos-de-certificacao).  
-	Para uma certificação PMP é necessário:
+	No Brasil é possível obter certificados PMP e CAPM através do próprio site do PMI.Assim como o guia do PMBOK que pode ser adquirido lá também.[²](https://www.pmi.org/brasil/tipos-de-certificacao)  
+    Não existem requisitos para adquirir o guia PMBOK já
+	os requisitos para os certificados variam, para participar da certificação PMP por exemplo, são necessários:
 - ensino médio completo + 7.500 horas de liderança e gestão de projetos +  35 horas de treinamento em gestão de projetos ou certificado CAPM.  
 
 Ou   
 
 - Graduação de 4 anos + 4.500 horas de liderança e gestão de projetos + 35 horas de treinamento em gestão de projetos ou certificado CAPM.  
+
 
 Algumas das empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Telemar,  Oi,  Andrade Gutierrez,  HP,  Microsoft e  TIM.
 
@@ -213,3 +215,5 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 
 ¹
 https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en
+²
+https://www.pmi.org/brasil/tipos-de-certificacao
