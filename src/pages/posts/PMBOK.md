@@ -49,7 +49,7 @@ vida. Os ciclos de vida preditivos são também chamados de ciclos de vida em ca
 
 Cabe à equipe de gerenciamento do projeto determinar o melhor ciclo de vida de cada projeto. A figura abaixo ilustra o processo de ciclo de vida de um projeto orientado pelo PMBOK.
 
-<div style="text-align:center"><img src="https://imgur.com/diDSTl4.png" /></div>
+<div align="center"><img src="https://imgur.com/diDSTl4.png" /></div>
 
 ### Grupos de processos de gerenciamento de projetos
 
@@ -126,7 +126,7 @@ Para simplificar tudo isso:
 - A adaptação deve abordar as restrições simultâneas de escopo, cronograma, custos, recursos, qualidade e risco.
 
 A figura abaixo busca ilustrar um ciclo de vida de projeto genérico com algumas fases.
-<div style="text-align:center"><img src="https://imgur.com/mpHTVF5.png"  /></div>
+<div align="center"><img src="https://imgur.com/mpHTVF5.png"  /></div>
 
 ### Sistemas organizacionais
 
@@ -162,7 +162,7 @@ O papel do gerente de projetos é diferente do papel de um gerente funcional ou 
 
 O gerente de projeto é a pessoa designada pela organização executora para liderar a equipe responsável por alcançar os objetivos do projeto. Os gerentes de projetos cumprem inúmeras funções em sua esfera de influência. Essas funções refletem as capacidades do gerente de projetos e representam o valor e as contribuições da profissão de gerenciamento de projetos. A figura abaixo ilustra a esfera de influência de um gerente de projetos.
 
-<div style="text-align:center"><img src="https://imgur.com/1XbaDOr.png"  /></div>
+<div align="center"><img src="https://imgur.com/1XbaDOr.png"  /></div>
 
 #### Competência do gerente de projeto
 
@@ -171,6 +171,6 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 2. Liderança. Conhecimento, habilidades e comportamentos necessários para orientar, motivar e dirigir uma equipe, para ajudar a organização a atingir suas metas de negócio.
 3. Gerenciamento estratégico e de negócios. Conhecimento e expertise no setor e na organização, de forma a melhorar o desempenho e fornecer melhor os resultados do negócio.
 
-<div style="text-align:center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
+<div align="center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
 
 
