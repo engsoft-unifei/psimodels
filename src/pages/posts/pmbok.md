@@ -6,6 +6,13 @@ author: "Augusto, Breno, Lucas, Matheus Araujo, Matheus Bonete, Matheus Martins"
 date: "19 Oct 2022"
 banner: "bg-blue-200"
 ---
+# PMBOK
+
+## O que é o PMBOK?
+
+## Como o PMBOK surgiu
+
+## Objetivos PMBOK
 
 ## Etapas e estratégias do PMBOK 📝
 
@@ -178,4 +185,12 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 <div align="center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
 
+## Benefícios e desafios
 
+## Certificações
+
+## Relatos de experiência
+
+## Material completar
+
+## Área de referências
