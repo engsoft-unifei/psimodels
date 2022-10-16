@@ -191,6 +191,8 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 ## Relatos de experiência
 
+b
+
 ## Material completar
 
 ## Área de referências
