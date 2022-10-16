@@ -162,15 +162,17 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 ## Benefícios e desafios
 
 ## Certificações
+
 O PMBOK em si não possui certificado, sendo ele apenas um guia que serve como  base para os certificados PMP, CAPM entre outros certificados de gestão, disponibilizados pelo PMI (Project Management Institute).Além disso, os certificados são individuais concedidos a pessoas que tenham feito o treinamento e não a empresas.
-<br>
+`<br>`
 	No Brasil é possível obter um certificado PMP através do próprio site do PMI.(1)
-<br>
+`<br>`
 	Para uma certificação PMP é necessário:
+
 - ensino médio completo + 7.500 horas de liderança e gestão de projetos +  35 horas de treinamento em gestão de projetos ou certificado CAPM.
-<br>
-Ou 
-<br>
+  `<br>`
+  Ou
+  `<br>`
 - Graduação de 4 anos + 4.500 horas de liderança e gestão de projetos + 35 horas de treinamento em gestão de projetos ou certificado CAPM.
 
 Algumas empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Telemar,  Oi,  Andrade Gutierrez,  HP,  Microsoft e  TIM.
@@ -205,10 +207,9 @@ sim, utilizá-los como uma base de boas práticas para que o seu projeto seja ma
 que não vai ter que planejar o gerenciamento do zero, e evitando problemas que poderiam 
 surgir no desenvolvimento dos conceitos iniciais do projeto.
 
+## Material complementar
 
-## Material completar
-
-A
+    O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão pretende, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico "Metodologia de Gerenciamento de Projetos" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública. A MGP-SISP tem como objetivo auxiliar os órgãos do SISP no gerenciamento de seus projetos com a devida flexibilidade para adaptar a realidade de cada orgão. O guia tem como base téorica o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®), 4ª edição. Está disponível publicamente.
 
 ## Área de referências
 
