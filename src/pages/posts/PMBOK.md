@@ -125,8 +125,13 @@ Para simplificar tudo isso:
 
 - A adaptação deve abordar as restrições simultâneas de escopo, cronograma, custos, recursos, qualidade e risco.
 
-A figura abaixo busca ilustrar um ciclo de vida de projeto genérico com algumas fases.
+As figuras abaixo buscam ilustrar, respectivamente, um ciclo de vida de projeto genérico com algumas fases e um input de gerenciamento de projeto.
 <div align="center"><img src="https://imgur.com/mpHTVF5.png"  /></div>
+
+***
+
+<div align="center"><img src="https://imgur.com/5wzv7gS.png"  /></div>
+
 
 ### Sistemas organizacionais
 
