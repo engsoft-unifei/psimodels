@@ -29,7 +29,12 @@ E foi ali que as raízes do PMBOK foram plantadas, nos Estados Unidos, na Pensil
 
 ## Objetivos PMBOK
 
-O propósito do PMBOK é clarear o entendimento sobre o orçamento, qualidade, aquisição, cronograma e outras competências dentro de um mesmo projeto. Também, um outro objetivo do PMBOK seria o gerenciamento de projetos, seja no âmbito da criação de novos produtos, seja na implementação de uma nova fábrica, por exemplo. Além disso, as diretrizes do guia servem para aumentar a eficiência da empresa e a geração de valor e satisfazer melhor as necessidades de seus clientes.
+O propósito do PMBOK é clarear o entendimento sobre o orçamento, qualidade, aquisição, cronograma e outras competências dentro de um mesmo projeto. Também, um outro objetivo do PMBOK seria o gerenciamento de projetos, seja no âmbito da criação de novos produtos, seja na implementação de uma nova fábrica, por exemplo. Além disso, as diretrizes do guia servem para aumentar a eficiência da empresa e a geração de valor e satisfazer melhor as necessidades de seus clientes.  
+Os outros objetivos também podem ser:
+
+- Gerar conhecimento por meio da investigação
+- Formar padrões de gestão de projetos
+- Promover a gestão de projetos como uma profissão formalizada através de programas com certificação
 
 ## Etapas e estratégias do PMBOK 📝
 
