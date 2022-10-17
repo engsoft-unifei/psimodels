@@ -13,7 +13,7 @@ O GUIA PMBOK® (Project Management Body of Knowledge) é um guia de boas prátic
 desempenho e os resultados de seus negócios. Conhecido como a “bíblia do gerenciamento de projetos”, o guia atualmente é seguido por empresas de todos os
 portes e de diversos mercados de atuação ao redor do mundo. O PMBOK é um guia de conceitos e ferramentas para descrever e fazer a gestão do “ciclo de vida”
 de um projeto, podendo ser utilizado em qualquer segmento. O PMBOK® é umaespécie de enciclopédia sobre gerenciamento de projetos publicada. Sua publicação
-é regularmente revisada pelo PMI (Project Management Institute) a cada 4 anos, aproximadamente. Atualmente o Guia se encontra na 7a. Edição.
+
 
 
 
