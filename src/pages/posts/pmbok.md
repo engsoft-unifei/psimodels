@@ -23,7 +23,9 @@ próprio Guia PMBOK® ratifica esta posição no seu primeiro capítulo, quando 
 
 ## Como o PMBOK surgiu
 
-A história do Guia PMBOK® não é tão remota como a da Bíblia, mas tem suas particularidades. Através do Congresso do PMI (Project Management Institute) em Montreal no Canadá, realizado em 1976 surgiu a ideia que as práticas em gerenciamento de projetos deveriam ser documentadas. O Guia de Conhecimento em Gerenciamento de Projetos (PMBOK) é uma publicação do Project Management Institute (PMI). A primeira certificação que o PMI emitiu e começou a oferecer publicamente foi a PMP (Project Management Professional), em 1984.
+A história do Guia PMBOK® não é tão remota como a da Bíblia, mas tem suas particularidades. Através do Congresso do PMI (Project Management Institute) em Montreal no Canadá, realizado em 1976 surgiu a ideia que as práticas em gerenciamento de projetos deveriam ser documentadas. O Guia de Conhecimento em Gerenciamento de Projetos (PMBOK) é uma publicação do Project Management Institute (PMI). A primeira certificação que o PMI emitiu e começou a oferecer publicamente foi a PMP (Project Management Professional), em 1984. 
+
+E foi ali que as raízes do PMBOK foram plantadas, nos Estados Unidos, na Pensilvânia. Em 1983 surgiu o embrião do Guia PMBOK® com seis áreas de conhecimento: gerenciamento do escopo, tempo, custos, qualidade, recursos humanos e comunicação. Em 1986, uma versão revisada incluía o gerenciamento das aquisições e de riscos. 
 
 ## Objetivos PMBOK
 
