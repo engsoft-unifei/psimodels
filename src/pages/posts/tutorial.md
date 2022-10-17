@@ -37,6 +37,7 @@ Para escrever e publicar um post, é necessário:
 - Conhecimento básico de git
 - O git instalado em sua máquina
 - Uma conta no Github (para posteriormente fazer um _pull request_)
+- [Repositório do blog para fazer o fork e o clone](https://github.com/engsoft-unifei/psimodels) 
 
 ## Criando um post
 
@@ -69,6 +70,8 @@ Você pode adicionar imagens ao seu post, para isso, publique a imagem desejada 
 ![Thumbs up boy](https://media.tenor.com/spSgkqK707kAAAAd/ok-all.gif)
 
 > Gifs também funcionam
+
+> Vídeos não são suportados em markdown puro. Para adicionar o vídeo de apresentação do trabalho, faça o upload no youtube e adicione o link ao post.
 
 ### Frontmatter
 
@@ -113,7 +116,9 @@ Co-authored-by: ApelidoDoGithub email@doGithub.com"
 
 > IMPORTANTE: O espaço entre a mensagem de commit e o Co-authored-by é obrigatório. O email do co-autor deve ser o mesmo email da conta do Github do co-autor.
 
-Em seguida, na interface do Github no navegador, vá até o seu fork e clique no botão verde "New pull request". (Em caso de dúvida, siga o [passo a passo](https://docs.github.com/pt/get-started/quickstart/contributing-to-projects#making-a-pull-request)).
+Em seguida, na interface do Github no navegador, vá até o seu fork e observe que seu fork possui alterações mais recentes que o repositório original. O Github pode te sugerir fazer um pull request, faça-o.
+
+Pode acontecer de o Github não sugerir fazer o pull request, nesse caso, procure pela opção "Contribuir" logo acima dos arquivos do fork, e então faça o pull request (Em caso de dúvida, siga o [passo a passo](https://docs.github.com/pt/get-started/quickstart/contributing-to-projects#making-a-pull-request)).
 
 Complete o pull request adicionando os detalhes necessários e aguarde a revisão do seu post. Se tudo estiver ok, seu post será publicado em breve!
 
