@@ -196,6 +196,19 @@ A metodologia do guia do PMBOK inclue vários tópicos importantes para os geren
 7. planejamento detalhado;[10](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
 8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento;[10](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
 
+###Desafios:
+Como o PMBOK funciona mais como um guia de boas práticas e padronização de projetos suas dificuldades de implementação geralmente envolvem o tipo e as limitações do projeto, bem como o entendimento de seu uso por participantes do projeto. 
+As dificuladades mais encontradas para sua implementação são encontradas na forma de:
+
+1. O PMBOK pode ser muito complexo para projetos pequenos,[¹¹](https://www.12manage.com/methods_pmi_pmbok.html) devido ao fato ter de planejar desde o começo ao fim do projeto, uma metodologia menos rigorosa pode-se mostrar mais eficiente.
+2. Pode ser necessário livros e teorias complementares por ter framework genérico[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), 
+3. A comunicação entre o time pode ser dificil[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), visto que o PMBOK valoriza a eficiencia sobre a comunicação.
+4. O PMBOK é um framework de boas praticas e pode ser aplicado de diversos modos no mercado o que pode causar conflito,[¹³]( https://periodicos.uninove.br/gep/article/viewFile/9556/4300) entre equipes de lugares diferentes do mercado devido a necessidade de se usar literaturas complementares em alguns casos.
+
+
+
+
+
 
 ## Certificações :bookmark_tabs:
 
@@ -272,4 +285,12 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 9[Qual o papel do PMBOK na gerencia de progeto e como utiliza-lo](https://mockitt.wondershare.com/product-management/pmbok.html)
 
 10[Vantagens da gerencia de projeto baseado no PMBOK](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
+
+11[Resumo, forum, boas práticas, dicas experts e fonte de informações](https://www.12manage.com/methods_pmi_pmbok.html)
+
+12[Limitações do PMBOK e como supera-las](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/)
+
+13[Comparação e contraste das metodologias de gerencias de projeto PMBOK e SCRUM](https://www.researchgate.net/profile/Santiago-Obrutsky/publication/305969672_Comparison_and_contrast_of_project_management_methodologies_PMBOK_and_SCRUM/links/57a7a9cc08ae455e8546d244/Comparison-and-contrast-of-project-management-methodologies-PMBOK-and-SCRUM.pdf)
+
+14[Gerenciamento de projetos segundo o guia PMBOK: desafios para os gestores](https://periodicos.uninove.br/gep/article/viewFile/9556/4300) 
 
