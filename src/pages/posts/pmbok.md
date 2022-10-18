@@ -185,6 +185,17 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 <div align="center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
 
 ## Benefícios e desafios :chart_with_downwards_trend:
+###Benefícios:
+A metodologia do guia do PMBOK inclue vários tópicos importantes para os gerentes de projetos como  um recurso de informações, boas práticas e padronizações para a definição das diretrizes dos projetos.[9](https://mockitt.wondershare.com/product-management/pmbok.html). As principais vantagens de utiliza-lo são: 
+1. É um padrão reconhecido e usado mundialmente;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+2. Possui o conhecimento acumulado de boas práticas de diversos gerentes de projetos; [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+3. É um método orientado a processo;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+4. Projetos de qualquer industria podem ser totalmente ou pelo menos parcialmente gerenciados usando o PMBOK;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+5. Todo o processo dos projetos é definido com suas entradas, saidas, ferramentas e tecnicas; [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+6. providencia documentação;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+7. planejamento detalhado;[10](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
+8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento;[10](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
+
 
 ## Certificações :bookmark_tabs:
 
@@ -258,4 +269,7 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 
 ⁸ [PMBOK: Por que esse guia é tão importante?](https://www.planningiscool.com.br/pmbok/)
 
+9[Qual o papel do PMBOK na gerencia de progeto e como utiliza-lo](https://mockitt.wondershare.com/product-management/pmbok.html)
+
+10[Vantagens da gerencia de projeto baseado no PMBOK](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
 
