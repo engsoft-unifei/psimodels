@@ -256,4 +256,6 @@ Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
 
 ⁷ [Desafios para Gestores](https://periodicos.uninove.br/gep/article/view/9556/4300)
 
-⁸ ref8
+⁸ [PMBOK: Por que esse guia é tão importante?](https://www.planningiscool.com.br/pmbok/)
+
+
