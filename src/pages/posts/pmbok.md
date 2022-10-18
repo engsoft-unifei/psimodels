@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "PMBOK"
 description: "Post para apresentação da norma PMBOK"
-author: "Augusto, Breno, Lucas, Matheus Araujo, Matheus Bonete e Matheus Martins"
+author: "Augusto, Breno, Lucas, Matheus Araujo, Mateus Bonette e Matheus Martins"
 date: "19 Oct 2022"
 banner: "bg-blue-200"
 ---
