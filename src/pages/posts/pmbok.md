@@ -7,12 +7,12 @@ date: "19 Oct 2022"
 banner: "bg-blue-200"
 ---
 # PMBOK - Sumário
-- [O que é o PMBOK?](#o-que-é-o-pmbok)
+- [O que é o PMBOK?](#o-que-é-o-pmbok-🤔)
 - [Etapas e estratégias do PMBOK](#etapas-e-estratégias-do-pmbok-📝)
-- [Beneficios e desafios](#benefícios-e-desafios)
-- [Certificações](#certificações)
-- [Relatos de experiência](#relatos-de-experiência)
-- [Material complementar](#material-complementar)
+- [Beneficios e desafios](#benefícios-e-desafios-⚒️)
+- [Certificações](#certificações-bookmark_tabs)
+- [Relatos de experiência](#relatos-de-experiência-🕵️‍♂️)
+- [Material complementar](#material-complementar-📚)
 
 ## O que é o PMBOK? 🤔
 
