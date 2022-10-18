@@ -6,6 +6,7 @@ author: "Guilherme Vieira, "
 date: "17 Oct 2022"
 banner: "bg-yellow-200"
 ---
+
 - [Introdução](#introdução)
 - [História e Objetivo](#história-e-objetivo)
 - [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#etapas-estratégias-organização-da-norma-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
@@ -20,7 +21,30 @@ banner: "bg-yellow-200"
 
 ## Introdução
 
+<p>A ISO/IEC 12207 tem como objetivo estabelecer uma estrutura co-
+mum para o processo de ciclo de vida de software. Este artigo descreve seus
+processos, atividades e tarefas, a hist ́oria de sua criação, benef ́ıcios, desafios
+comuns para sua implementação, seu processo de certificação no Brasil e es-
+tudo de caso sobre sua utilização</p>
+
 ## História e Objetivo
+
+<p>
+A primeira vers ̃ao da ISO/IEC 12207 foi publicada em primeiro de julho de 1995, pela In-
+ternational Organization for Standardization, com o objetivo de estabelecer padr ̃oes para
+o processo de ciclo de vida de software [ISO 12207:2017(E) 2017]. Ela foi o primeiro
+padr ̃ao a fornecer um conjunto t ̃ao abrangente de definic ̧  ̃oes a respeito do ciclo de vida
+de software, suas atividades, tarefas e processos. A vers ̃ao mais recente desta norm ́a  ́e
+a ISO/IEC/IEEE 12207: 2017 Systems and software engineering — Software life cycle
+processes.
+</p>
+<p>
+Sua idealizac ̧  ̃ao, assim como outras normas e padr ̃oes da mesma  ́epoca, foi
+motivada pelo fenˆomeno conhecido como crise do software. O termo crise do soft-
+ware  ́e utilizado para descrever a dificuldade de se fazer estimativas de tempo e escopo
+para projetos de softwares cuja complexidade e tamanho escalam de forma exponencial
+[Fitzgerald 2012].
+</p>
 
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
 
@@ -56,7 +80,7 @@ banner: "bg-yellow-200"
     <li> agilizar ao máximo o trabalho dos desenvolvedores com as soluções de infra-estrutura</li>
   </ul>
 </details>
-  
+
 
 <details>
   <summary>As principais vantagens buscadas com a adoção da nova tecnologia</summary>
@@ -67,7 +91,6 @@ banner: "bg-yellow-200"
     <li>reusabilidade</li>
   </ul>
 </details>
-
 
 ### Preparação para adaptação a norma
 
@@ -137,7 +160,6 @@ banner: "bg-yellow-200"
   </ul>
 </details>
 
-
 <details>
   <summary>Repercussões positivas com a implantação</summary>
   <ul>
@@ -151,6 +173,5 @@ banner: "bg-yellow-200"
     <li>melhoria da imagem do Banco Central frente à sociedade.</li>
   </ul>
 </details>
-
 
 ## Conclusão
