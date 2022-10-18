@@ -7,14 +7,15 @@ date: "19 Oct 2022"
 banner: "bg-blue-200"
 ---
 # PMBOK - Sumário
-- [O que é o PMBOK?](#o-que-é-o-pmbok-🤔)
-- [Etapas e estratégias do PMBOK](#etapas-e-estratégias-do-pmbok-📝)
-- [Beneficios e desafios](#benefícios-e-desafios-⚒️)
+- [O que é o PMBOK?](#o-que-é-o-pmbok-thinking)
+- [Etapas e estratégias do PMBOK](#etapas-e-estratégias-do-pmbok-pencil)
+- [Beneficios e desafios](#benefícios-e-desafios-chart_with_downwards_trend)
 - [Certificações](#certificações-bookmark_tabs)
-- [Relatos de experiência](#relatos-de-experiência-🕵️‍♂️)
-- [Material complementar](#material-complementar-📚)
+- [Relatos de experiência](#relatos-de-experiência-detective)
+- [Material complementar](#material-complementar-books)
+- [Área de referência](#área-de-referências-link)
 
-## O que é o PMBOK? 🤔
+## O que é o PMBOK? :thinking:
 
 O GUIA PMBOK® (Project Management Body of Knowledge) é um guia de boas práticas, ou seja, essencial para gerentes de projetos que desejam melhorar o desempenho e os resultados de seus negócios. Conhecido como a “bíblia do gerenciamento de projetos”, o guia atualmente é seguido por empresas de todos os portes e de diversos mercados de atuação ao redor do mundo. O PMBOK é um guia de conceitos e ferramentas para descrever e fazer a gestão do “ciclo de vida” de um projeto, podendo ser utilizado em qualquer segmento. O PMBOK® é umaespécie de enciclopédia sobre gerenciamento de projetos publicada. Sua publicação é regularmente revisada pelo PMI (Project Management Institute) a cada 4 anos, aproximadamente. Atualmente o Guia se encontra na 7a. Edição.
 
@@ -37,7 +38,7 @@ Os outros objetivos também podem ser:
 - Formar padrões de gestão de projetos
 - Promover a gestão de projetos como uma profissão formalizada através de programas com certificação
 
-## Etapas e estratégias do PMBOK 📝
+## Etapas e estratégias do PMBOK :pencil:
 
 O guia PMBOK trabalha com estratégia de definição de gerenciamento de programa ou processos, de ciclos de vida e áreas de conhecimento[²](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/).
 
@@ -183,7 +184,7 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 <div align="center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
 
-## Benefícios e desafios ⚒️
+## Benefícios e desafios :chart_with_downwards_trend:
 
 ## Certificações :bookmark_tabs:
 
@@ -203,7 +204,7 @@ Ou
 
 Algumas das empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Telemar,  Oi,  Andrade Gutierrez,  HP,  Microsoft e  TIM.
 
-## Relatos de experiência 🕵️‍♂️
+## Relatos de experiência :detective:
 
 No próprio site do PMI (Organização criadora do PMBOK) [⁵](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
 projetos utilizando de produtos, programas e princípios do PMBOK. Dentre os casos gostaria de 
@@ -232,11 +233,11 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 	que não vai ter que planejar o gerenciamento do zero, e evitando problemas que poderiam 
 	surgir no desenvolvimento dos conceitos iniciais do projeto.
 
-## Material complementar 📚
+## Material complementar :books:
 
     O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão pretende, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico "Metodologia de Gerenciamento de Projetos" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública. A MGP-SISP tem como objetivo auxiliar os órgãos do SISP no gerenciamento de seus projetos com a devida flexibilidade para adaptar a realidade de cada orgão. O guia tem como base téorica o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®), 4ª edição. Está disponível publicamente.
 
-## Área de referências 🔗
+## Área de referências :link:
 
 ¹ ref1
 
