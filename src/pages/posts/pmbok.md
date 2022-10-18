@@ -206,7 +206,7 @@ Algumas das empresas com gestores certificados  PMP  no Brasil são  Volkswagen 
 
 ## Relatos de experiência :detective:
 
-No próprio site do PMI (Organização criadora do PMBOK) [⁵](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
+No próprio site do PMI (Organização criadora do PMBOK)[⁵](https://www.pmi.org/business-solutions/case-studies) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
 projetos utilizando de produtos, programas e princípios do PMBOK. Dentre os casos gostaria de 
 destacar a utilização pela AstraZeneca para gerenciar os testes clínicos e o aumento da 
 capacidade de produção de vacinas durante a pandemia, utilizando da rápida instalação do 
@@ -215,23 +215,15 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 
 ### Astranezeca 🏥
 
-	O caso da Astrazeneca foi de complexidade e risco enormes, tendo em vista que a 
-	demanda pelas vacinas era enorme e a alta velocidade de produção evitaria mortes, além disso, 
-	cada governo possuía suas próprias regulamentações para cada vacina. Tendo em vista o 
-	tamanho do problema e a complexidade do que deveria ser gerenciado, foi criado um escritório 
-	de gerenciamento de projetos (PMO), tomando o PMBOK como base, porém com 
-	funcionalidades limitadas, uma vez que o prazo era extremamente curto. Os quatro focos do
-	PMO da Astrazeneca foram: Integração do calendário e orçamento, gerenciamento de 
-	contratos, orientação dos processos da equipe e gerenciamento de risco.  
+O caso da Astrazeneca[⁶](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en) foi de complexidade e risco enormes, tendo em vista que a 
+demanda pelas vacinas era enorme e a alta velocidade de produção evitaria mortes, além disso, 
+cada governo possuía suas próprias regulamentações para cada vacina. Tendo em vista o tamanho do problema e a complexidade do que deveria ser gerenciado, foi criado um escritório de gerenciamento de projetos (PMO), tomando o PMBOK como base, porém com funcionalidades limitadas, uma vez que o prazo era extremamente curto. Os quatro focos do PMO da Astrazeneca foram: Integração do calendário e orçamento, gerenciamento de contratos, orientação dos processos da equipe e gerenciamento de risco.  
 
-	Pode-se observar que o PMBOK não foi seguido à risca, pois ele deve ser adaptado para 
-	cada tipo de projeto, com seus prazos e orçamentos específicos, essa que foi a principal lição 
-	tirada pela Astrazeneca com essa experiência. A adaptação é o principal desafio ao se gerenciar 
-	um projeto, mesmo em projetos complexos em que a qualidade do resultado impacta 
-	diretamente na vida de milhões de pessoas não se deve seguir os princípios cegamente, mas 
-	sim, utilizá-los como uma base de boas práticas para que o seu projeto seja mais ágil, uma vez 
-	que não vai ter que planejar o gerenciamento do zero, e evitando problemas que poderiam 
-	surgir no desenvolvimento dos conceitos iniciais do projeto.
+Pode-se observar que o PMBOK não foi seguido à risca, pois ele deve ser adaptado para cada tipo de projeto, com seus prazos e orçamentos específicos, essa que foi a principal lição tirada pela Astrazeneca com essa experiência. A adaptação é o principal desafio ao se gerenciar 
+um projeto, mesmo em projetos complexos em que a qualidade do resultado impacta diretamente na vida de milhões de pessoas não se deve seguir os princípios cegamente, mas 
+sim, utilizá-los como uma base de boas práticas para que o seu projeto seja mais ágil, uma vez 
+que não vai ter que planejar o gerenciamento do zero, e evitando problemas que poderiam 
+surgir no desenvolvimento dos conceitos iniciais do projeto.
 
 ## Material complementar :books:
 
@@ -245,11 +237,11 @@ primeiro escritório de gerenciamento de projetos usando dos princípios do PMBO
 
 ³ [Guia PMBOK](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
 
-⁴ [Estudo de caso Astrazeneca](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en)
+⁴ [Tipos de certificação](https://www.pmi.org/brasil/tipos-de-certificacao)
 
-⁵ [Tipos de certificação](https://www.pmi.org/brasil/tipos-de-certificacao)
+⁵ [Estudos de caso](https://www.pmi.org/business-solutions/case-studies)
 
-⁶ ref6
+⁶ [Estudo de caso Astrazeneca](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en)
 
 ⁷ ref7
 
