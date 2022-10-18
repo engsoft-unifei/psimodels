@@ -23,13 +23,13 @@ Antes de continuarmos, é importante explicar o que é PMI. O Project Management
 
 O PMBOK® é a base de conhecimento do PMI, tendo se tornado em nível mundial como um “padrão de fato”, devido à sua divulgação e penetração em praticamente todo o planeta. O PMI tem hoje mais de 500.000 associados em 185 países. Pode-se afirmar que o Guia PMBOK® é um conjunto de processos e práticas na área de gerenciamento de projetos; entretanto, não se constitui em uma metodologia como muitos ainda insistem equivocadamente em afirmar. Aliás, o próprio Guia PMBOK® ratifica esta posição no seu primeiro capítulo, quando se intitula como sendo um “guia” e não como uma “metodologia”.
 
-### Como o PMBOK surgiu
+### Como surgiu?
 
 A história do Guia PMBOK® não é tão remota como a da Bíblia, mas tem suas particularidades. Através do Congresso do PMI (Project Management Institute) em Montreal no Canadá, realizado em 1976 surgiu a ideia que as práticas em gerenciamento de projetos deveriam ser documentadas. O Guia de Conhecimento em Gerenciamento de Projetos (PMBOK) é uma publicação do Project Management Institute (PMI). A primeira certificação que o PMI emitiu e começou a oferecer publicamente foi a PMP (Project Management Professional), em 1984. 
 
 E foi ali que as raízes do PMBOK foram plantadas, nos Estados Unidos, na Pensilvânia. Em 1983 surgiu o embrião do Guia PMBOK® com seis áreas de conhecimento: gerenciamento do escopo, tempo, custos, qualidade, recursos humanos e comunicação. Em 1986, uma versão revisada incluía o gerenciamento das aquisições e de riscos. Mas, somente em 1987 surgiu a primeira versão oficial do Guia PMBOK®. As edições seguintes em 2000 (segunda edição), 2004 (terceira) e 2008 (quarta edição) trouxeram novas implementações de conteúdos, revisões na abordagem e melhorias. Isto demonstra que o Guia PMBOK® é um instrumento vivo e atual. Além da língua inglesa, o Guia PMBOK® está disponível em outros dez idiomas: alemão, árabe, chinês, coreano, espanhol, francês, italiano, japonês, português e russo. Além disto, o Guia PMBOK® é a base para realização do exame de certificação PMP (Project Management Professional), que conta hoje com 230.000 profissionais certificados em 165 países.
 
-### Objetivos PMBOK
+### Objetivos
 
 O propósito do PMBOK é clarear o entendimento sobre o orçamento, qualidade, aquisição, cronograma e outras competências dentro de um mesmo projeto. Também, um outro objetivo do PMBOK seria o gerenciamento de projetos, seja no âmbito da criação de novos produtos, seja na implementação de uma nova fábrica, por exemplo. Além disso, as diretrizes do guia servem para aumentar a eficiência da empresa e a geração de valor e satisfazer melhor as necessidades de seus clientes.  
 Os outros objetivos também podem ser:
