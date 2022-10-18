@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "PMBOK"
 description: "Post para apresentação da norma PMBOK"
-author: "Augusto, Breno, Lucas, Matheus Araujo, Matheus Bonete e Matheus Martins"
+author: "Augusto, Breno, Lucas, Matheus Araujo, Mateus Bonette e Matheus Martins"
 date: "19 Oct 2022"
 banner: "bg-blue-200"
 ---
@@ -256,4 +256,6 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 
 ⁷ [Desafios para Gestores](https://periodicos.uninove.br/gep/article/view/9556/4300)
 
-⁸ ref8
+⁸ [PMBOK: Por que esse guia é tão importante?](https://www.planningiscool.com.br/pmbok/)
+
+
