@@ -225,6 +225,17 @@ sim, utilizá-los como uma base de boas práticas para que o seu projeto seja ma
 que não vai ter que planejar o gerenciamento do zero, e evitando problemas que poderiam 
 surgir no desenvolvimento dos conceitos iniciais do projeto.
 
+
+###	Relatos de Gestores
+
+Além dos casos de estudo do PMBOK, também é de grande importância relatos de gestores que são certificados pelo PMP, como no artigo "PROJECT MANAGEMENT BY PMBOK GUIDE: CHALLENGES FOR MANAGERS" [⁷](https://periodicos.uninove.br/gep/article/view/9556/4300), o qual documenta uma pesquisa quantitativa com 33 gestores certificados em PMP acerca dos desafios em se aplicar o PMBOK.
+
+Pode ser observado que as dificuldades dos gestores de maior e menor experiência variam, tendo os gestores menos experientes mais dificuldade na área de qualidade, problema que não é visto nos gestores que trabalham com o PMBOK por mais tempo. Porém, o maior desafio para todos os gerentes é a comunicação, não só em projetos que seguem as diretrizes do PMBOK, mas eu qualquer projeto, a boa comunicação entre a equipe se faz necessária e é crucial para o sucesso do projeto.
+
+Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
+<div align="center"><img src="https://imgur.com/gt9bKOl.png"  /></div> 
+
+
 ## Material complementar :books:
 
     O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão pretende, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico "Metodologia de Gerenciamento de Projetos" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública. A MGP-SISP tem como objetivo auxiliar os órgãos do SISP no gerenciamento de seus projetos com a devida flexibilidade para adaptar a realidade de cada orgão. O guia tem como base téorica o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®), 4ª edição. Está disponível publicamente.
@@ -243,6 +254,6 @@ surgir no desenvolvimento dos conceitos iniciais do projeto.
 
 ⁶ [Estudo de caso Astrazeneca](https://www.pmi.org/-/media/pmi/documents/public/pdf/case-study/astrazeneca-case-study.pdf?v=0f58ca3a-8e50-4714-8bf8-caef06d3ebaa&sc_lang_temp=en)
 
-⁷ ref7
+⁷ [Desafios para Gestores](https://periodicos.uninove.br/gep/article/view/9556/4300)
 
 ⁸ ref8
