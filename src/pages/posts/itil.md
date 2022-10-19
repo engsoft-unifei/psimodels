@@ -54,7 +54,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 - Coordenar a entrega de bens e serviços em toda a rede de valores.
 - Otimize e reduza custos.
 
-# HISTÓRIA DA CRIAÇÃO DA NORMA
+# História da criação da norma ITIL
 
 <p>
  A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
@@ -171,7 +171,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 - Suporte ao plano de melhoria contínua dos processos.
 - Como medir, interpretar e agir.
 
-# DESAFIOS AO IMPLEMENTAR A NORMA
+# Desafios ao implementar a norma
 
 **Auxílio dos gestores**
 
@@ -194,24 +194,27 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 <p>A empresa deve investir no processo de certificação do ITIL, tais como treinamentos e capacitações, desse modo os funcionários ficarão aptos a adquirir os certificados ITIL. Para obter o certificado ITIL Foundation é necessário fazer uma prova de 40 questões de múltipla escolha, obtendo 65% de aproveitamento.
 </p>
 
-# EMPRESAS COM CERTIFICAÇÕES NO BRASIL E O QUE É NECESSÁRIO PARA OBTER A CERTIFICAÇÃO.
+# Empresas com certificação no brasi e o que é necessário para obter a certificação.
 
 <p> A ITIL é adotada por milhares de organizações no mundo todo, em empresas como a Microsoft, IBM (International Business Machines Corporation), HP (Hewlett-Packard Company), HSBC (Hong Kong and Shanghai Banking Corporation). Entretanto, no Brasil, o número de empresas que utilizam ITIL é bem menor, mas ainda assim, uma pesquisa feita pelo COMPUTERWORLD no ano de 2005, mostrou que o uso dessa prática já estava acontecendo em 69% das companhias pesquisadas - sendo que em 37% delas era possível notar resultados, enquanto em 31%, o procedimento estava apenas no início.
 Hoje, temos empresas como Carrefour e Makro que já adotaram o ITIL no Brasil, além de Tribunais de Justiça de diversos estados.
 
 Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Foundation, é de US $395, preço que pode sofrer variações de acordo com a região, cotação do dólar e impostos adicionais. Para obter a certificação, é necessário passar por provas a cada nível, além de, em caso de níveis maiores, ter conhecimento prévio. Para o nível Executive por exemplo (o último), o profissional deve ter 5 anos em função superior, o certificado ITIL Foundation em Gerenciamento de Serviço de TI e ainda apresentar para uma banca avaliativa.</p>
-<br>
 
-# RELATO DE EXPERIÊNCIA DE EMPRESAS CERTIFICADAS OU EM PROCESSO DE CERTIFICAÇÃO
+# Relato de experiência de empresas certificadas ou em processo de certificação.
 
 <p> Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível.
+</p>
 
-# MATERIAIS COMPLEMENTARES, E LISTA DE REFERÊNCIAS UTILIZADOS NA PESQUISA
+# Materiais complementares, e lista de referências utilizados na pesquisa.
 
-<p> Gërvalla, Preniqi e Kopacek, Muhamet, Naim e Peter. IT Infrastructure Library (ITIL) framework approach to IT Governance. Sciencedirect, 2018. Disponível em:  < https://www.sciencedirect.com/science/article/pii/S2405896318329562/>. Acesso em: 13 de outubro de 2022
+Gërvalla, Preniqi e Kopacek, Muhamet, Naim e Peter. IT Infrastructure Library (ITIL) framework approach to IT Governance. Sciencedirect, 2018. Disponível em:  <https://www.sciencedirect.com/science/article/pii/S2405896318329562/>. Acesso em: 13 de outubro de 2022
 
 Desafios para implantar ITIL na operação de T.I. microserviceit, Disponível em: <https://www.microserviceit.com.br/desafios-para-implantar-itil/>. Acesso em: 14/10/2022.
 
 Chiari, Renê. Certificação ITIL: entenda os seus benefícios. Disponível em: <https://www.itsmnapratica.com.br/certificacao-itil/>. Acesso em: 17 de outubro de 2022.
 
 Palma, Fernando. O que é ITIL?. Portalgsti, 2017. Disponível em: <https://www.portalgsti.com.br/itil/sobre/>. Acesso em: 14 de outubro de 2022
+
+# Apresentação do trabalho
+Link do video: <https://www.youtube.com/watch?v=0kGQtQdfMGU/>
