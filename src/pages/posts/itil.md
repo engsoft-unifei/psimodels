@@ -10,13 +10,12 @@ banner: "bg-rose-800"
 - [Objetivo](#Objetivos-da-norma-ITIL)
 - [História da criação da norma](#História-da-criação-da-norma-ITIL)
 - [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#Etapas-estratégias-e-organização-da-norma-ITIL-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
-- [Benefícios de usar a norma](#)
-- [Desafios ao implementar a norma](#)
-- [O que uma empresa deve fazer para obter a certificação na norma](#)
-- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma](#)
-- [Relato de experiência de alguma empresa certificada ou em processo de certificação](#)
-- [Material complementar](#)
-- [Vídeo da apresentação](#)
+- [Desafios ao implementar a norma](#Desafios-ao-implementar-a-norma)
+- [O que uma empresa deve fazer para obter a certificação na norma](#O-que-uma-empresa-deve-fazer-para-obter-certificação?)
+- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma](#Empresas-com-certificação-no-Brasil-e-o-que-é-necessário-para-obter-a-certificação)
+- [Relato de experiência de alguma empresa certificada ou em processo de certificação](#Relato-de-experiência-de-empresas-certificadas-ou-em-processo-de-certificação)
+- [Material complementar](#Materiais-complementares-e-lista-de-referências-utilizados-na-pesquisa)
+- [Vídeo da apresentação](#Apresentação-do-trabalho)
 
 # Objetivos da norma ITIL
 
@@ -31,9 +30,9 @@ banner: "bg-rose-800"
 
 ## Objetivo:
 
-<p>Garantir que os serviços de TI sejam entregues de forma eficaz e eficiente. A fase do ciclo de vida da Operação de Serviço inclui o cumprimento das solicitações do usuário, a resolução de falhas no serviço, a correção de problemas, bem como a realização de tarefas operacionais rotineiras.
-</p>
-<p>ITIL contribui com valor para a organização por meio do alinhamento da TI para o Negócio. Ao utilizar o serviço ITIL, a qualidade pode ser melhorada, maior disponibilidade, reduções graduais de custos e melhor justificativa de custos. Melhorar a eficácia para atender aos requisitos de qualidade, aumentar a flexibilidade e a adaptabilidade (Adote & Adapte).</p>
+Garantir que os serviços de TI sejam entregues de forma eficaz e eficiente. A fase do ciclo de vida da Operação de Serviço inclui o cumprimento das solicitações do usuário, a resolução de falhas no serviço, a correção de problemas, bem como a realização de tarefas operacionais rotineiras.
+
+ITIL contribui com valor para a organização por meio do alinhamento da TI para o Negócio. Ao utilizar o serviço ITIL, a qualidade pode ser melhorada, maior disponibilidade, reduções graduais de custos e melhor justificativa de custos. Melhorar a eficácia para atender aos requisitos de qualidade, aumentar a flexibilidade e a adaptabilidade (Adote & Adapte).
 
 ## O ITIL ajudas as organizações em:
 
@@ -43,19 +42,20 @@ banner: "bg-rose-800"
 - Aumento da produtividade.
 - A ITIL fornece uma comunicação clara e eficaz.
 - A ITIL adota uma abordagem prática para a gestão de serviços fazer o que funciona.
-<p>O que funciona é adaptar um quadro comum de práticas que unem todas as áreas da prestação de serviços de TI para um único objetivo de entregar valor ao negócio.
-</p>
+
+O que funciona é adaptar um quadro comum de práticas que unem todas as áreas da prestação de serviços de TI para um único objetivo de entregar valor ao negócio.
+
 
 ## A lista a seguir define as principais características da ITIL que contribuem para o seu sucesso global:
 
 - As práticas de gerenciamento de serviços ITIL neutras para fornecedores são aplicáveis em qualquer organização de TI porque não são baseadas em nenhuma plataforma tecnológica ou tipo de indústria em particular.
 - A ITIL pertence ao governo britânico e não está vinculada a nenhuma prática ou solução comercial proprietária.
 - A ITIL não prescritiva oferece práticas robustas, maduras e testadas no tempo que têm aplicabilidade a todos os tipos de organização de serviços.
-<p>Continua sendo útil e relevante nos setores público e privado, prestadores de serviços internos e externos, pequenas, médias e grandes empresas, bem como dentro de qualquer ambiente técnico.
+
+Continua sendo útil e relevante nos setores público e privado, prestadores de serviços internos e externos, pequenas, médias e grandes empresas, bem como dentro de qualquer ambiente técnico.
 As organizações devem adotar o ITIL e adaptá-lo para atender às necessidades da organização de TI e de seus clientes.
 As melhores práticas ITIL representam as experiências de aprendizagem e a liderança do pensamento dos melhores provedores de serviços do mundo.
 Em constante evolução: A ITIL é bem sucedida porque descreve práticas que permitem às organizações oferecer benefícios, retornar ao investimento e sustentar o sucesso.
-</p>
 
 ## A ITIL é adotada pelas organizações para habilitá-las:
 
@@ -67,12 +67,11 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 # História da criação da norma ITIL
 
-<p>
- A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
- </p>
 
- <p>Com o passar do tempo, outras empresas e entidades do governo perceberam que as práticas sugeridas pela ITIL poderiam ser aplicadas em seus processos de TI também. Assim, na década de 1990, a biblioteca tornou-se um padrão ganhando várias adaptações de grandes empresas como Microsoft, IBM e HP.
-</p>
+ A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
+
+Com o passar do tempo, outras empresas e entidades do governo perceberam que as práticas sugeridas pela ITIL poderiam ser aplicadas em seus processos de TI também. Assim, na década de 1990, a biblioteca tornou-se um padrão ganhando várias adaptações de grandes empresas como Microsoft, IBM e HP.
+
 
 **Os livros são:**
 
@@ -94,9 +93,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 ## Etapas da ITIL
 
- <p>
  A estrutura da ITIL é baseada em um ciclo de vida de serviço e é composta por cinco etapas que oferecem as melhores práticas através de seus processos, papéis e funções.
- </p>
 
  ![Imgur](https://i.imgur.com/Gs7MUps.png "Ciclo de vida do serviço de TI - ITIL (Axelos)")
  
@@ -111,8 +108,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 <u>Etapa 1- Estratégia de Serviços de TI</u>
 
- <p>É a fase do ciclo de vida que contempla as boas práticas de mercado referentes à concepção do serviço novo ou alterado. O propósito da estratégia é criar valor para os Clientes através de serviços, transformando o gerenciamento de serviços em um ativo estratégico.
-</p>
+É a fase do ciclo de vida que contempla as boas práticas de mercado referentes à concepção do serviço novo ou alterado. O propósito da estratégia é criar valor para os Clientes através de serviços, transformando o gerenciamento de serviços em um ativo estratégico.
 
 **Os Processos da Estratégia de Serviços são:**
 
@@ -124,7 +120,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 <u>Etapa 2- Desenho de Serviços de TI</u>
 
-<p>É a fase em que o serviço de TI é desenhado para que cumpra seu objetivo durante todo o ciclo de vida. Tem como principal objetivo garantir uma abordagem holística em todos os aspectos do Desenho de Serviço: Funcional; Gerencial e Operacional.</p>
+É a fase em que o serviço de TI é desenhado para que cumpra seu objetivo durante todo o ciclo de vida. Tem como principal objetivo garantir uma abordagem holística em todos os aspectos do Desenho de Serviço: Funcional; Gerencial e Operacional.
 
 **Os Processos do Desenho de Serviços são:**
 
@@ -139,9 +135,9 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 <u>Etapa 3- Transição de Serviços de TI</u>
 
-<p>O valor do serviço de TI é concebido na etapa Estratégica de Desenho de serviço de TI, e será percebido quando os efeitos no negócio acontecerem.</p>
+O valor do serviço de TI é concebido na etapa Estratégica de Desenho de serviço de TI, e será percebido quando os efeitos no negócio acontecerem.
 
-<p>A transição visa garantir que grandes volumes de mudanças possam ser tratadas com menor impacto, minimizando os riscos envolvidos com implantação de novos serviços e com a modificação do trabalho.</p>
+A transição visa garantir que grandes volumes de mudanças possam ser tratadas com menor impacto, minimizando os riscos envolvidos com implantação de novos serviços e com a modificação do trabalho.
 
 **Os Processos da Transição de Serviços são:**
 
@@ -155,7 +151,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 <u>Etapa 4- Operação de Serviços de TI</u>
 
-<p>A operação de serviço coordena e desempenha as atividades e os processos requeridos para entregar e gerenciar serviços para os usuários.A principal responsabilidade da operação é garantir a estabilidade dos serviços de TI para que agreguem valor ao negócio.</p>
+A operação de serviço coordena e desempenha as atividades e os processos requeridos para entregar e gerenciar serviços para os usuários.A principal responsabilidade da operação é garantir a estabilidade dos serviços de TI para que agreguem valor ao negócio.
 
 **Os Processos da Operação de Serviços são:**
 
@@ -174,7 +170,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 <u>Etapa 5- Melhoria Contínua dos Serviços</u>
 
-<p>É uma etapa que documenta as melhores práticas requeridas para melhorar a eficácia e a eficiência dos processos e serviços, bem como sua relação custo-benefício, assim, Fornecendo um método de implementação de um programa de melhoria contínua, para que processos e serviços possam ser definidos, implementados e melhorados continuamente.</p>
+É uma etapa que documenta as melhores práticas requeridas para melhorar a eficácia e a eficiência dos processos e serviços, bem como sua relação custo-benefício, assim, Fornecendo um método de implementação de um programa de melhoria contínua, para que processos e serviços possam ser definidos, implementados e melhorados continuamente.
 
 **Escopo da Melhoria Contínua de Serviços:**
 
@@ -184,6 +180,20 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 - Amadurecimento dos processos de TI que suportam cada serviço dentro do modelo ciclo de vida.
 - Suporte ao plano de melhoria contínua dos processos.
 - Como medir, interpretar e agir.
+
+**Benefícios da ITIL**
+
+
+* Conhecimento acumulado, praticado e discutido há mais de 20 anos.
+* A estrutura da ITIL garante proteção aos investimentos.
+* Oferece um esquema de certificações profissionais que são amplamente requisitadas pelo mercado.
+* É uma linguagem em comum: seus termos, conceitos e processos estão se tornando padrão de mercado.
+* Esquema de certificação empresarial.
+* Um dos objetivos implícitos da ITIL é transformar a Tecnologia da Informação e o Gerenciamento de Serviços numa vantagem competitiva para a empresa.
+* Uma vez que, geralmente, as tecnologias estão disponíveis para todas as empresas, a vantagem competitiva para o negócio está na habilidade de seus profissionais e/ou fornecedores em aplicar a tecnologia.
+* Orientações sobre como gerar mais Valor com TI e Serviços.
+* Orientações para melhorar a eficiência de custos de TI.
+
 
 # Desafios ao implementar a norma
 
@@ -208,20 +218,19 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 <p>A empresa deve investir no processo de certificação do ITIL, tais como treinamentos e capacitações, desse modo os funcionários ficarão aptos a adquirir os certificados ITIL. Para obter o certificado ITIL Foundation é necessário fazer uma prova de 40 questões de múltipla escolha, obtendo 65% de aproveitamento.
 </p>
 
-# Empresas com certificação no brasi e o que é necessário para obter a certificação.
+# Empresas com certificação no Brasil e o que é necessário para obter a certificação.
 
-<p> A ITIL é adotada por milhares de organizações no mundo todo, em empresas como a Microsoft, IBM (International Business Machines Corporation), HP (Hewlett-Packard Company), HSBC (Hong Kong and Shanghai Banking Corporation). Entretanto, no Brasil, o número de empresas que utilizam ITIL é bem menor, mas ainda assim, uma pesquisa feita pelo COMPUTERWORLD no ano de 2005, mostrou que o uso dessa prática já estava acontecendo em 69% das companhias pesquisadas - sendo que em 37% delas era possível notar resultados, enquanto em 31%, o procedimento estava apenas no início.
+A ITIL é adotada por milhares de organizações no mundo todo, em empresas como a Microsoft, IBM (International Business Machines Corporation), HP (Hewlett-Packard Company), HSBC (Hong Kong and Shanghai Banking Corporation). Entretanto, no Brasil, o número de empresas que utilizam ITIL é bem menor, mas ainda assim, uma pesquisa feita pelo COMPUTERWORLD no ano de 2005, mostrou que o uso dessa prática já estava acontecendo em 69% das companhias pesquisadas - sendo que em 37% delas era possível notar resultados, enquanto em 31%, o procedimento estava apenas no início.
 Hoje, temos empresas como Carrefour e Makro que já adotaram o ITIL no Brasil, além de Tribunais de Justiça de diversos estados.
 
-Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Foundation, é de US $395, preço que pode sofrer variações de acordo com a região, cotação do dólar e impostos adicionais. Para obter a certificação, é necessário passar por provas a cada nível, além de, em caso de níveis maiores, ter conhecimento prévio. Para o nível Executive por exemplo (o último), o profissional deve ter 5 anos em função superior, o certificado ITIL Foundation em Gerenciamento de Serviço de TI e ainda apresentar para uma banca avaliativa.</p>
+Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Foundation, é de US $395, preço que pode sofrer variações de acordo com a região, cotação do dólar e impostos adicionais. Para obter a certificação, é necessário passar por provas a cada nível, além de, em caso de níveis maiores, ter conhecimento prévio. Para o nível Executive por exemplo (o último), o profissional deve ter 5 anos em função superior, o certificado ITIL Foundation em Gerenciamento de Serviço de TI e ainda apresentar para uma banca avaliativa.
 
 ![Imgur](https://i.imgur.com/o3k8PLR.png "Esquema de Certificação ITIL4. Copyright © AXELOS Limited 2016. Used under permission of AXELOS Limited. All rights reserved.
 ")
 
 # Relato de experiência de empresas certificadas ou em processo de certificação.
 
-<p> Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível.
-</p>
+Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível.
 
 # Materiais complementares, e lista de referências utilizados na pesquisa.
 
