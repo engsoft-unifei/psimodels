@@ -7,8 +7,6 @@ date: "14 Oct 2022"
 banner: "bg-emerald-400"
 ---
 
-<img src="aslkdnalk" onerror="alert()" />
-
 # Markdown Cheat Sheet (Heading 1)
 
     Markup :  # Heading 1 #
