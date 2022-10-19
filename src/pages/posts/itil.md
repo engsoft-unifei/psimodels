@@ -1,11 +1,22 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: " ITIL "
-description: "Pesquisa sobre a norma ITIL"
+description: "Pesquisa sobre o framework ITIL"
 author: "André Gomides, Enzo Vizotto, Gustavo Daniel, Vitoria Thais"
 date: "14 Oct 2022"
 banner: "bg-rose-800"
 ---
+
+- [Objetivo](#Objetivos-da-norma-ITIL)
+- [História da criação da norma](#História-da-criação-da-norma-ITIL)
+- [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software]
+- [Benefícios de usar a norma]
+- [Desafios ao implementar a norma]
+- [O que uma empresa deve fazer para obter a certificação na norma]
+- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma]
+- [Relato de experiência de alguma empresa certificada ou em processo de certificação]
+- [Material complementar]
+- [Vídeo da apresentação]
 
 # Objetivos da norma ITIL
 
@@ -87,7 +98,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  A estrutura da ITIL é baseada em um ciclo de vida de serviço e é composta por cinco etapas que oferecem as melhores práticas através de seus processos, papéis e funções.
  </p>
 
- [Imgur](https://i.imgur.com/Gs7MUps.png "Ciclo de vida do serviço de TI - ITIL (Axelos)")
+ ![Imgur](https://i.imgur.com/Gs7MUps.png "Ciclo de vida do serviço de TI - ITIL (Axelos)")
  
  
  **As 5 etapas do ciclo de vida são:**
@@ -204,7 +215,7 @@ Hoje, temos empresas como Carrefour e Makro que já adotaram o ITIL no Brasil, a
 
 Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Foundation, é de US $395, preço que pode sofrer variações de acordo com a região, cotação do dólar e impostos adicionais. Para obter a certificação, é necessário passar por provas a cada nível, além de, em caso de níveis maiores, ter conhecimento prévio. Para o nível Executive por exemplo (o último), o profissional deve ter 5 anos em função superior, o certificado ITIL Foundation em Gerenciamento de Serviço de TI e ainda apresentar para uma banca avaliativa.</p>
 
-[Imgur](https://i.imgur.com/o3k8PLR.png "Esquema de Certificação ITIL4. Copyright © AXELOS Limited 2016. Used under permission of AXELOS Limited. All rights reserved.
+![Imgur](https://i.imgur.com/o3k8PLR.png "Esquema de Certificação ITIL4. Copyright © AXELOS Limited 2016. Used under permission of AXELOS Limited. All rights reserved.
 ")
 
 # Relato de experiência de empresas certificadas ou em processo de certificação.
@@ -223,4 +234,4 @@ Chiari, Renê. Certificação ITIL: entenda os seus benefícios. Disponível em:
 Palma, Fernando. O que é ITIL?. Portalgsti, 2017. Disponível em: <https://www.portalgsti.com.br/itil/sobre/>. Acesso em: 14 de outubro de 2022
 
 # Apresentação do trabalho
-Link do video: <https://www.youtube.com/watch?v=0kGQtQdfMGU/>
+-> [LINK DO VÍDEO](https://www.youtube.com/watch?v=0kGQtQdfMGU)
