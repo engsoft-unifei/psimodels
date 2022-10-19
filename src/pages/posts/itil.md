@@ -204,4 +204,14 @@ Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Founda
 
 # RELATO DE EXPERIÊNCIA DE EMPRESAS CERTIFICADAS OU EM PROCESSO DE CERTIFICAÇÃO
 
-<p> Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível
+<p> Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível.
+
+# MATERIAIS COMPLEMENTARES, E LISTA DE REFERÊNCIAS UTILIZADOS NA PESQUISA
+
+<p> Gërvalla, Preniqi e Kopacek, Muhamet, Naim e Peter. IT Infrastructure Library (ITIL) framework approach to IT Governance. Sciencedirect, 2018. Disponível em:  < https://www.sciencedirect.com/science/article/pii/S2405896318329562/>. Acesso em: 13 de outubro de 2022
+
+Desafios para implantar ITIL na operação de T.I. microserviceit, Disponível em: <https://www.microserviceit.com.br/desafios-para-implantar-itil/>. Acesso em: 14/10/2022.
+
+Chiari, Renê. Certificação ITIL: entenda os seus benefícios. Disponível em: <https://www.itsmnapratica.com.br/certificacao-itil/>. Acesso em: 17 de outubro de 2022.
+
+Palma, Fernando. O que é ITIL?. Portalgsti, 2017. Disponível em: <https://www.portalgsti.com.br/itil/sobre/>. Acesso em: 14 de outubro de 2022
