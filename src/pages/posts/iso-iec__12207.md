@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "Norma ISO/IEC 12207"
 description: "Apresentação da Norma ISO/IEC 12207"
-author: "Guilherme Vieira, "
+author: "Augusto Lázaro Raimundo, Guilherme Vieira, "
 date: "17 Oct 2022"
 banner: "bg-yellow-200"
 ---
@@ -10,13 +10,18 @@ banner: "bg-yellow-200"
 - [Introdução](#introdução)
 - [História e Objetivo](#história-e-objetivo)
 - [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#etapas-estratégias-organização-da-norma-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
-- [Benefícios de usar a norma](#benefícios-da-norma)
-- [Desafios ao implementar a norma](#desafios-da-implementação)
-- [Obtendo a certificação ISO/IEC 12207](#obtendo-a-certificação)
-- [Tem certificação no Brasil?](#tem-certificação-no-brasil)
-- [Como obter essa certificação no Brasil?](#obtendo-a-certificação-no-brasil)
-- [Empresas Brasileiras certificadas na norma](#empresas-brasileiras-certificadas)
-- [Relato da adoção da norma pelo Banco Central](#relato-de-adoção-pelo-banco-central)
+- [Benefícios da Norma](#benefícios-da-norma)
+- [Desafios da Implementação](#desafios-da-implementação)
+- [Como obrter a Certificação  ISO/IEC 12207](#como-obrter-a-certificação--isoiec-12207)
+  - [Conformidade Total](#conformidade-total)
+  - [Conformidade personalizada](#conformidade-personalizada)
+- [Tem Certificação no Brasil?](#tem-certificação-no-brasil)
+- [Como Obter Essa Certificação no Brasil?](#como-obter-essa-certificação-no-brasil)
+- [Empresas Brasileiras Certificadas na Norma](#empresas-brasileiras-certificadas-na-norma)
+- [Relato de Adoção pelo Banco Central](#relato-de-adoção-pelo-banco-central)
+  - [Preparação para adaptação a norma](#preparação-para-adaptação-a-norma)
+  - [Atividades desempenhadas na implantação](#atividades-desempenhadas-na-implantação)
+  - [Inovação e Resultados alcançados](#inovação-e-resultados-alcançados)
 - [Conclusão](#conclusão)
 
 ## Introdução
@@ -52,11 +57,62 @@ para projetos de softwares cuja complexidade e tamanho escalam de forma exponenc
 
 ## Desafios da Implementação
 
-## Obtendo a Certificação
+## Como obrter a Certificação  ISO/IEC 12207
 
-## Obtendo a Certificação no Brasil?
+<p>
+Para obter a certificação, as empresas contratam organizações de auditoria cuja missão avalia a conformidade dos funcionários às normas ISO. Os auditores passam alguns dias no local da empresa e analisam documentos de requisitos, resultados de testes, metodologia de teste e práticas de manutenção. Frequentemente, as empresas realizam suas próprias auditorias internas para verificar a conformidade antes de trazer um avaliador externo.
 
-## Empresas Brasileiras Certificadas
+O documento oficial da ISO/IEC 12207 fornece requisitos para vários processos adequados durante o ciclo de vida do sistema ou produto de software. Reconhece-se que projetos ou organizações específicos podem não precisar usar todos os processos fornecidos por este documento. Portanto, a implementação deste documento normalmente envolve selecionar e declarar um conjunto de processos adequados à organização ou projeto. Há duas maneiras de reivindicar que uma implementação está em conformidade com as disposições deste documento: conformidade total e conformidade personalizada.
+</p>
+
+### Conformidade Total
+
+<p>
+Existem dois critérios para reivindicar a conformidade total. Atingir qualquer critério é suficiente para a conformidade, embora o escolhido (ou critérios) deva ser declarado na reivindicação. Reivindicar “conformidade total com as tarefas” afirma que todos os requisitos das atividades e tarefas do conjunto declarado de processos são atendidos. Alternativamente, alegar “conformidade total com os resultados” afirma que todos os resultados exigidos do conjunto declarado de processos são alcançados. A plena conformidade com os resultados permite maior liberdade na implementação de processos de conformidade e pode ser útil para a implementação de processos a serem usados no contexto de um modelo de ciclo de vida inovador.
+</p>
+
+<p>
+**Conformidade total com os resultados:** A total conformidade com os resultados é alcançada demonstrando que todos os resultados do conjunto declarado de processos foram alcançados. Nessa situação, as provisões para atividades e tarefas do conjunto de processos declarados são orientações e não requisitos, independentemente da forma verbal utilizada na provisão.
+Um dos objetivos do documento da norma é facilitar a avaliação e a melhoria do processo. Para tanto, os objetivos de cada processo são escritos na forma de 'resultados' compatíveis com as disposições da ISO/IEC 33002. Essa norma prevê a avaliação dos processos deste documento, fornecendo uma base para melhoria. Os usuários que pretendem avaliar e melhorar o processo podem usar os resultados do processo escritos neste documento como o “modelo de referência de processo” exigido pela ISO/IEC 33002.
+</p>
+
+<p>
+**Conformidade total com as tarefas:** A plena conformidade com as tarefas é alcançada demonstrando que todos os requisitos das atividades e tarefas do conjunto declarado de processos foram alcançados. Nessa situação, as provisões para os resultados do conjunto de processos declarados são orientações e não requisitos, independentemente da forma verbal usada na provisão.
+</p>
+
+### Conformidade personalizada
+
+Quando este documento é usado como base para estabelecer um conjunto de processos que não se qualificam para conformidade total, as cláusulas deste documento são selecionadas ou modificadas de acordo com o processo de adaptação prescrito no Anexo A. O texto adaptado, para o qual a conformidade personalizada é reivindicado, é declarado. A conformidade personalizada é alcançada demonstrando que os resultados, atividades e tarefas, conforme a personalização, foram alcançados.
+
+## Tem Certificação no Brasil?
+
+Até 2017 existia uma norma brasileira referente à ISO/IEC 12207, a  ABNT NBR ISO/IEC 12207:2009. No entanto, uma nova versão da norma internacional foi editada em 2017, que é a que temos atualmente, mas a versão brasileira foi cancelada em 30/08/2017 e não temos por enquanto uma nova edição vigente. Essa alteração da norma internacional é significativa, pois a estrutura anterior da versão 2009 era bem mais complexa com inúmeros processos a mais, que foram excluídos ou renomeados nessa nova versão.
+
+Atualmente as empresas brasileiras, como alternativa a essa norma brasileira, obtêm a certificação MPS-BR (Melhoria de Processo de Software Brasileiro). O Modelo de Referência MPS-BR tem como objetivo melhorar a qualidade e a produtividade do software brasileiro, e foi desenvolvido com base nas normas ISO 15504 e ISO 12207. O Modelo, no entanto é voltado para a realidade brasileira, oferecendo custos mais acessíveis de implantação do que outras normas e padrões como o CMMI (Capability Maturity Model Integration).
+
+## Como Obter Essa Certificação no Brasil?
+
+Para conseguir a certificação MPS-BR, a empresa precisa ser avaliada por uma instituição credenciada junto à Softex, uma organização social civil de interesse público que atua há 25 anos em prol do fomento da Transformação Digital Brasileira, criando, promovendo e executando iniciativas no âmbito nacional e internacional nas áreas de tecnologia e inovação. A ideia é seguir um protocolo padronizado que quebra esse processo em três passos principais. São eles:
+
+**Etapa de planejamento:** Nessa primeira etapa, é definido o escopo da avaliação — que envolve a definição da unidade organizacional, o local onde a empresa presta o serviço (pode até ser mais de um local) e quais de seus projetos compõem a amostra da avaliação.
+
+**Etapa de avaliação inicial:** Em um momento seguinte, a equipe da instituição avaliadora vai até a empresa e analisa os documentos e produtos relacionados à execução dos processos — como planos, relatórios, produtos técnicos relacionados à engenharia de software ou à gestão do serviço de TI. Após a avaliação inicial, a empresa tem um relatório com problemas que ela precisa resolver para a última etapa.
+
+**Etapa de avaliação final:** Na avaliação final, a equipe volta à empresa para verificar a resolução dos problemas e conduzir entrevistas com as pessoas que participaram dos processos. Com base na análise dos documentos e nas entrevistas, a equipe de avaliação atribui o nível da empresa, que pode ser desde o nível G (o mais básico) até o nível A (nível mais alto de maturidade).
+
+A escolha do nível é feita na etapa de planejamento, em que a empresa define qual nível quer atingir. Assim, a execução da avaliação é direcionada ao escopo escolhido pela empresa.
+
+## Empresas Brasileiras Certificadas na Norma
+
+Como citado anteriormente, a ISO/IEC 12207 não possui mais uma versão no Brasil, entretanto podemos citar algumas empresas que conseguiram a certificação MPS-BR, como é o caso das empresas catarinenses Poligraph, Next Millenium/Dualline, Ilog Tecnologia e CNX/Boreste. As quatro empresas participaram de um projeto cooperado organizado no início de 2007 pela Associação Catarinense de Empresas de Tecnologia (ACATE) para auxiliar as associadas no processo de conquista do MPS-BR. A Poligraph conquistou o Nível F do modelo e Dualline, Ilog e Boreste, o Nível G.
+
+O objetivo do projeto cooperado foi implementar uma série de melhorias no processo de desenvolvimento de software das empresas, especialmente nas áreas de gerenciamento de requisitos, gerenciamento de projetos, e qualidade. Dos retornos obtidos desse projeto, podemos citar:
+
+- a melhoria dos processos dentro das empresas;
+- a melhoria da qualidade final dos produtos;
+- maior controle na gestão de projetos de desenvolvimento;
+- a ampliação da competitividade das empresas; e
+- resultados para a equipe interna das empresas, como por exemplo, uma diminuição significativa no tempo e esforço de habilitar um novo colaborador para desenvolver.
 
 ## Relato de Adoção pelo Banco Central
 
