@@ -32,6 +32,8 @@ O modelo MPS estabelece dois modelos de referência de processos de software e s
 
 ![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
 
+![tenor](https://tenor.com/view/office-gif-23066448.gif)
+
 ## História da criação da norma
 
 O MPS.BR foi criado em dezembro de 2003, coordenado pela Associação para Promoção da Excelência do Software Brasileiro (SOFTEX). De acordo com dados de 2011, disponibilizados também pela SOFTEX, duzentos e setenta e quatro empresas foram certificadas, sendo cento e setenta delas no nível G.
