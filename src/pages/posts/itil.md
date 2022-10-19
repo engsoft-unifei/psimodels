@@ -3,7 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: " ITIL "
 description: "Pesquisa sobre o framework ITIL"
 author: "André Gomides, Enzo Vizotto, Gustavo Daniel, Vitoria Thais"
-date: "14 Oct 2022"
+date: "19 Oct 2022"
 banner: "bg-rose-800"
 ---
 
