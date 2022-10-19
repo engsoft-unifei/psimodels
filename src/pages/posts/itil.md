@@ -145,6 +145,17 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Gerenciamento de Operações
 * Gerenciamento de Aplicações
 
+<u>Etapa 5- Melhoria Contínua dos Serviços</u>
+
+<p>É uma etapa que documenta as melhores práticas requeridas para melhorar a eficácia e a eficiência dos processos e serviços, bem como sua relação custo-benefício, assim, Fornecendo um método de implementação de um programa de melhoria contínua, para que processos e serviços possam ser definidos, implementados e melhorados continuamente.</p>
+
+**Escopo da Melhoria Contínua de Serviços:**
+* Saúde da disciplina ITSM como um todo.
+* Continuo alinhamento do Portfólio de Serviços com os requisitos de negócio atuais e futuros.
+* Caso de Negócio (Business Case) para Retorno sobre Investimento.
+* Amadurecimento dos processos de TI que suportam cada serviço dentro do modelo ciclo de vida.
+* Suporte ao plano de melhoria contínua dos processos.
+* Como medir, interpretar e agir.
 
 
 
