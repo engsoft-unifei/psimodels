@@ -88,6 +88,20 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  * Operação de Serviços de TI
  * Melhoria Contínua dos Serviços de TI
 
+ <u>Etapa 1- Estratégia de Serviços de TI</u>
+
+ <p>É a fase do ciclo de vida que contempla as boas práticas de mercado referentes à concepção do serviço novo ou alterado. O propósito da estratégia é criar valor para os Clientes através de serviços, transformando o gerenciamento de serviços em um ativo estratégico.
+</p>
+
+**Os Processos da Estratégia de Serviços são:**
+* Gerenciamento Estratégico para serviços de TI
+* Gerenciamento do Portfólio de Serviços de TI
+* Gerenciamento Financeiro Para Serviços de TI
+* Gerenciamento da Demanda
+* Gerenciamento do Relacionamento com o Negócio
+
+
+
 
 
 
