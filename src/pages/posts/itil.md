@@ -9,14 +9,14 @@ banner: "bg-rose-800"
 
 - [Objetivo](#Objetivos-da-norma-ITIL)
 - [História da criação da norma](#História-da-criação-da-norma-ITIL)
-- [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software]
-- [Benefícios de usar a norma]
-- [Desafios ao implementar a norma]
-- [O que uma empresa deve fazer para obter a certificação na norma]
-- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma]
-- [Relato de experiência de alguma empresa certificada ou em processo de certificação]
-- [Material complementar]
-- [Vídeo da apresentação]
+- [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#Etapas-estratégias-e-organização-da-norma-ITIL-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
+- [Benefícios de usar a norma](#)
+- [Desafios ao implementar a norma](#)
+- [O que uma empresa deve fazer para obter a certificação na norma](#)
+- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma](#)
+- [Relato de experiência de alguma empresa certificada ou em processo de certificação](#)
+- [Material complementar](#)
+- [Vídeo da apresentação](#)
 
 # Objetivos da norma ITIL
 
