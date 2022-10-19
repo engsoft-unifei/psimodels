@@ -111,4 +111,4 @@ Por fim, a fase de ação é a execução do que foi planejado e avaliado nas de
 ## Vídeo sobre os níveis
 ![Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
-![tenor](https://tenor.com/view/the-office-the-office-gif-26388601)
+![tenor](https://tenor.com/view/the-office-the-office-gif-26388601.gif)
