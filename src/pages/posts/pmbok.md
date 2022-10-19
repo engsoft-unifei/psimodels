@@ -21,7 +21,7 @@ O GUIA PMBOK® (Project Management Body of Knowledge) é um guia de boas prátic
 
 Antes de continuarmos, é importante explicar o que é PMI. O Project Management Institute (PMI) é uma instituição internacional sem fins lucrativos que associa profissionais de gestão de projetos.
 
-O PMBOK® é a base de conhecimento do PMI, tendo se tornado em nível mundial como um “padrão de fato”, devido à sua divulgação e penetração em praticamente todo o planeta. O PMI tem hoje mais de 500.000 associados em 185 países. Pode-se afirmar que o Guia PMBOK® é um conjunto de processos e práticas na área de gerenciamento de projetos; entretanto, não se constitui em uma metodologia como muitos ainda insistem equivocadamente em afirmar. Aliás, o próprio Guia PMBOK® ratifica esta posição no seu primeiro capítulo, quando se intitula como sendo um “guia” e não como uma “metodologia”.
+O PMBOK® é a base de conhecimento do PMI, tendo se tornado em nível mundial como um “padrão de fato”, devido à sua divulgação e penetração em praticamente todo o planeta. O PMI tem hoje mais de 500.000 associados em 185 países. Pode-se afirmar que o Guia PMBOK® é um conjunto de processos e práticas na área de gerenciamento de projetos; entretanto, não se constitui em uma metodologia como muitos ainda insistem equivocadamente em afirmar. Aliás, o próprio Guia PMBOK® ratifica esta posição no seu primeiro capítulo, quando se intitula como sendo um “guia” e não como uma “metodologia”[¹](http://lillianalvares.fci.unb.br/phocadownload/Projeto/Aula21PMIPMBOK.pdf).
 
 ### Como surgiu?
 
@@ -186,15 +186,15 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 ## Benefícios e desafios :chart_with_downwards_trend:
 ###Benefícios:
-A metodologia do guia do PMBOK inclue vários tópicos importantes para os gerentes de projetos como  um recurso de informações, boas práticas e padronizações para a definição das diretrizes dos projetos.[9](https://mockitt.wondershare.com/product-management/pmbok.html). As principais vantagens de utiliza-lo são: 
-1. É um padrão reconhecido e usado mundialmente;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
-2. Possui o conhecimento acumulado de boas práticas de diversos gerentes de projetos; [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
-3. É um método orientado a processo;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
-4. Projetos de qualquer industria podem ser totalmente ou pelo menos parcialmente gerenciados usando o PMBOK;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
-5. Todo o processo dos projetos é definido com suas entradas, saidas, ferramentas e tecnicas; [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
-6. providencia documentação;[³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
-7. planejamento detalhado;[10](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
-8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento;[10](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
+A metodologia do guia do PMBOK inclue vários tópicos importantes para os gerentes de projetos como  um recurso de informações, boas práticas e padronizações para a definição das diretrizes dos projetos.[9](https://mockitt.wondershare.com/product-management/pmbok.html). Conforme [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf) e [¹°](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG), as principais vantagens de utiliza-lo são: 
+1. É um padrão reconhecido e usado mundialmente;
+2. Possui o conhecimento acumulado de boas práticas de diversos gerentes de projetos; 
+3. É um método orientado a processo;
+4. Projetos de qualquer industria podem ser totalmente ou pelo menos parcialmente gerenciados usando o PMBOK;
+5. Todo o processo dos projetos é definido com suas entradas, saidas, ferramentas e tecnicas; 
+6. providencia documentação;
+7. planejamento detalhado;
+8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento;
 
 ###Desafios:
 Como o PMBOK funciona mais como um guia de boas práticas e padronização de projetos suas dificuldades de implementação geralmente envolvem o tipo e as limitações do projeto, bem como o entendimento de seu uso por participantes do projeto. 
@@ -204,11 +204,6 @@ As dificuladades mais encontradas para sua implementação são encontradas na f
 2. Pode ser necessário livros e teorias complementares por ter framework genérico[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), 
 3. A comunicação entre o time pode ser dificil[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), visto que o PMBOK valoriza a eficiencia sobre a comunicação.
 4. O PMBOK é um framework de boas praticas e pode ser aplicado de diversos modos no mercado o que pode causar conflito,[¹³]( https://periodicos.uninove.br/gep/article/viewFile/9556/4300) entre equipes de lugares diferentes do mercado devido a necessidade de se usar literaturas complementares em alguns casos.
-
-
-
-
-
 
 ## Certificações :bookmark_tabs:
 
@@ -264,13 +259,15 @@ Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
 
 O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão pretende, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico "Metodologia de Gerenciamento de Projetos" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública. A MGP-SISP tem como objetivo auxiliar os órgãos do SISP no gerenciamento de seus projetos com a devida flexibilidade para adaptar a realidade de cada orgão. O guia tem como base téorica o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®), 4ª edição. Está disponível publicamente.
 
+[![PMBOK](https://i.imgur.com/8USoGOe.png)](https://www.youtube.com/watch?v=CA1_dLplOAM)
+
 ## Área de referências :link:
 
-¹ ref1
+¹ [PMBOK Guide 7ª Edição Review](http://lillianalvares.fci.unb.br/phocadownload/Projeto/Aula21PMIPMBOK.pdf)
 
 ² [Organização do PMBOK](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/)
 
-³ [Guia PMBOK](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+³ [Guia PMBOK 6ª Edição](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
 
 ⁴ [Tipos de certificação](https://www.pmi.org/brasil/tipos-de-certificacao)
 
@@ -282,15 +279,15 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 
 ⁸ [PMBOK: Por que esse guia é tão importante?](https://www.planningiscool.com.br/pmbok/)
 
-9[Qual o papel do PMBOK na gerencia de progeto e como utiliza-lo](https://mockitt.wondershare.com/product-management/pmbok.html)
+⁹[Qual o papel do PMBOK na gerencia de progeto e como utiliza-lo](https://mockitt.wondershare.com/product-management/pmbok.html)
 
-10[Vantagens da gerencia de projeto baseado no PMBOK](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
+¹°[Vantagens da gerencia de projeto baseado no PMBOK](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG)
 
-11[Resumo, forum, boas práticas, dicas experts e fonte de informações](https://www.12manage.com/methods_pmi_pmbok.html)
+¹¹[Resumo, forum, boas práticas, dicas experts e fonte de informações](https://www.12manage.com/methods_pmi_pmbok.html)
 
-12[Limitações do PMBOK e como supera-las](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/)
+¹²[Limitações do PMBOK e como supera-las](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/)
 
-13[Comparação e contraste das metodologias de gerencias de projeto PMBOK e SCRUM](https://www.researchgate.net/profile/Santiago-Obrutsky/publication/305969672_Comparison_and_contrast_of_project_management_methodologies_PMBOK_and_SCRUM/links/57a7a9cc08ae455e8546d244/Comparison-and-contrast-of-project-management-methodologies-PMBOK-and-SCRUM.pdf)
+¹³[Comparação e contraste das metodologias de gerencias de projeto PMBOK e SCRUM](https://www.researchgate.net/profile/Santiago-Obrutsky/publication/305969672_Comparison_and_contrast_of_project_management_methodologies_PMBOK_and_SCRUM/links/57a7a9cc08ae455e8546d244/Comparison-and-contrast-of-project-management-methodologies-PMBOK-and-SCRUM.pdf)
 
-14[Gerenciamento de projetos segundo o guia PMBOK: desafios para os gestores](https://periodicos.uninove.br/gep/article/viewFile/9556/4300) 
+¹⁴[Gerenciamento de projetos segundo o guia PMBOK: desafios para os gestores](https://periodicos.uninove.br/gep/article/viewFile/9556/4300) 
 
