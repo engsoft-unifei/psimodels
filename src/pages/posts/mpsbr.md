@@ -22,6 +22,8 @@ banner: "bg-emerald-400"
 - [Material complementar](Material-complementar)
 - [Vídeo Youtube sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
+[imgur](https://imgur.com/gallery/P13pIVp)
+
 ## Objetivo da norma
 
 Sua sigla, que tem como significado a “Melhoria de Processo do Software Brasileiro”, traz o seu principal objetivo que é definir e aprimorar um modelo de melhoria e avaliação de processo de software e serviços, visando preferencialmente às micro, pequenas e médias empresas (mPME), de forma a atender às suas necessidades de negócio e ser reconhecido nacional e internacionalmente como um modelo aplicável à indústria de software e serviços. 
@@ -33,7 +35,7 @@ O modelo MPS estabelece dois modelos de referência de processos de software e s
 O MPS.BR foi criado em dezembro de 2003, coordenado pela Associação para Promoção da Excelência do Software Brasileiro (SOFTEX). De acordo com dados de 2011, disponibilizados também pela SOFTEX, duzentos e setenta e quatro empresas foram certificadas, sendo cento e setenta delas no nível G.
 O programa tem apoio do Ministério da Ciência, Tecnologia e Inovação, do FINEP, do SEBRAE e do Banco Interamericano de Desenvolvimento.
 
-![photo1](../mpsbr/Screenshot_1.png)
+[Imgur](https://i.imgur.com/LKAkVvX.png)
 
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
 
@@ -41,7 +43,7 @@ O MPS.BR define 7 níveis de maturidade que estabelecem patamares de evolução 
 Esta definição (MR-MPS-SW - Modelo de Referência MPS para Software) segue os requisitos para um modelo de referência de processo apresentados na ISO/IEC 15504-2.
 Cada nível de maturidade compreende a execução de processos os quais possuem propósitos e resultados esperados. Por exemplo, o nível G (Parcialmente Gerenciado) é composto pelos processos de Gerência de Projetos e Gerência de Requisitos, sendo exigido o cumprimento dos atributos de processo AP 1.1 (O processo é executado e atinge os resultados definidos) e AP 2.1 (O processo é gerenciado, sua execução é monitorada e ajustes são realizados).
 
-![photo2](../mpsbr/Screenshot_2.png)
+[Imgur](https://i.imgur.com/aOkgflN.png)
 
 O processo GPR (Gerência de Projetos) tem como propósito o estabelecimento e manutenção de planos que definem atividades, recursos e responsabilidades do projeto. Assim, os resultados esperados incluem a definição do escopo de trabalho para o projeto, o dimensionamento apropriado das tarefas e produtos de trabalho, a definição  do modelo e fases do ciclo de vida do projeto, entre outros.
 
@@ -51,7 +53,7 @@ Havendo a comprovação dos resultados de GPR e de Gerência de Requisitos (GRE)
 
 Melhoramento na qualidade dos produtos de software, o que aumenta a competitividade da empresa no mercado, além de padronização dos processos e documentação, e gestão de equipes
 
-![photo3](../mpsbr/Screenshot_3.png)
+[Imgur](https://i.imgur.com/aOkgflN.png)
 
 ## Desafios ao implementar a norma
 
@@ -73,7 +75,7 @@ O credenciamento da instituição, quando efetivado pela SOFTEX e pelo Fórum de
 
 Dextra, Radix, Metadados Assessoria e Sistemas, Elotech Informática e Sistemas, IVIA, Lumis, Ifactory Solutions, Shift Consultoria e Sistemas, ETEG Tecnologia e BHS, são exemplos de empresas com selo MPS.BR
 
-![photo4](../mpsbr/Screenshot_4.png)
+[Imgur](https://i.imgur.com/UGvprg3.png)
 
 ## Relato de experiência de alguma empresa certificada ou em processo de certificação
 
@@ -107,6 +109,6 @@ Por fim, a fase de ação é a execução do que foi planejado e avaliado nas de
 É importante ressaltar que deve haver uma fase de aprendizado caso a transição tenha sucesso. Compreender os pontos fortes e fracos do processo é a chave para a construção de outros projetos satisfatórios futuros
 
 ## Vídeo sobre os níveis
-! [Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
+![Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
-![michael](https://imgur.com/gallery/nNWO5iu)
+[imgur](https://imgur.com/gallery/nNWO5iu)
