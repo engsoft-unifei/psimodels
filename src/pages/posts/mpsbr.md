@@ -9,8 +9,6 @@ banner: "bg-emerald-400"
 
 # MPS-BR
 
-![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
-
 ## Índice
 
 - [Objetivo da norma](#Objetivo-da-norma)
@@ -27,6 +25,8 @@ banner: "bg-emerald-400"
 
 
 ## Objetivo da norma
+
+![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
 
 Sua sigla, que tem como significado a “Melhoria de Processo do Software Brasileiro”, traz o seu principal objetivo que é definir e aprimorar um modelo de melhoria e avaliação de processo de software e serviços, visando preferencialmente às micro, pequenas e médias empresas (mPME), de forma a atender às suas necessidades de negócio e ser reconhecido nacional e internacionalmente como um modelo aplicável à indústria de software e serviços. 
 
