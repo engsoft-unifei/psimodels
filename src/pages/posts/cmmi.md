@@ -16,6 +16,7 @@ banner: "bg-[url('https://cmmiinstitute.com/getmedia/dfe1a7dd-08d6-4975-a993-089
 - [Metodologia](#metodologia)
 - [Benefícios](#benefícios)
 - [Desafios](#desafios)
+- [Vídeo de Apresentação CMMI](#vídeo-de-apresentação)
 
 ## Introdução
 <div align="center">
@@ -182,6 +183,10 @@ Essa avaliação envolve tanto a "definição" de como a empresa trabalha, como 
 > -- <cite>  Francisco Gouvea Viotti, SPRESS Informática</cite>
 
 <br>
+
+## Vídeo de Apresentação CMMI
+
+https://youtu.be/LMu1fHScU78
 
 ## Apresentação de Slides
 
