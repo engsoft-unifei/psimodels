@@ -7,9 +7,9 @@ date: "19 Oct 2022"
 banner: "bg-emerald-400"
 ---
 
-![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
-
 # MPS-BR
+
+![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
 
 ## Índice
 
@@ -102,7 +102,7 @@ A empresa Megawork foi classificada, em 2017, como nível C no MPS.BR, o que sig
 
 Segundo Adriana Casagrande, diretora de Processos e Qualidade da Megawork, o projeto trouxe maturidade para a equipe e solidificação dos processos já utilizados pela empresa. Também uma maior competitividade no mercado é adquirida quando se é certificado pelo MPS.BR, já que a qualidade e o processo dos serviços prestados é garantida pelo certificado. Completa Adriana: “Por meio da dedicação e profissionalismo de todos os envolvidos, conquistamos mais essa certificação e tenho orgulho em fazer parte desta equipe que se tornou pioneira no país, sendo a única empresa certificada MPS.Br-SV nível C do Brasil”.
 
-![tenor](https://tenor.com/view/michael-scott-office-fantastic-great-gif-25279163)
+![tenor](https://tenor.com/view/michael-scott-office-fantastic-great-gif-25279163.gif)
 
 ## Material complementar
 
