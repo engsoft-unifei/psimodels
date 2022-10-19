@@ -100,6 +100,19 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Gerenciamento da Demanda
 * Gerenciamento do Relacionamento com o Negócio
 
+<u>Etapa 2- Desenho de Serviços de TI</u>
+
+<p>É a fase em que o serviço de TI é desenhado para que cumpra seu objetivo durante todo o ciclo de vida. Tem como principal objetivo garantir uma abordagem holística em todos os aspectos do Desenho de Serviço: Funcional; Gerencial e Operacional.<p>
+
+**Os Processos do Desenho de Serviços são:**
+* Gerenciamento de Nível de Serviços
+* Gerenciamento de Catálogo de Serviços
+* Gerenciamento de Disponibilidade dos Serviços de TI
+* Gerenciamento de Capacidade dos Serviços de TI
+* Gerenciamento de Fornecedores
+* Gerenciamento de Segurança da Tecnologia da Informação
+* Gerenciamento de Continuidade dos Serviços de TI
+* Coordenação do Desenho de Serviços de TI
 
 
 
