@@ -47,6 +47,95 @@ para projetos de softwares cuja complexidade e tamanho escalam de forma exponenc
 </p>
 
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
+<p>
+    Os processos, atividades e tarefas da ISO/IEC 12207 foram planejados visando sua adaptação segundo a necessidade 
+    de cada projeto de software. A adaptação é formaliza-se, por exemplo, nas atividades de mapear processos, atividades 
+    e tarefas pertinentes ao projeto e, no mesmo momento, extingue processos, atividades e tarefas que não se aplicam ao projeto
+</p>
+
+<p>
+    Os processos desta norma são agrupados, esse agrupamento proporcionou quatro classes de processos distintas:  
+    Processos Fundamentais; Processo de Apoio;  Processos Organizacionais; e Processos de Adaptação. Os processos são 
+    combinados e classificados por questões de organização, de acordo com suas características, ou seja, suas finalidades 
+    principais. Por causa dessa combinação, os processos foram categorizados em quatro classes de processos, como supracitado.
+<p>
+
+<h4> 2.1 Processos Fundamentais</h4>
+
+<p>
+Os processos fundamentais “[...] atendem ao início, à contratação entre o  adquirente e o fornecedor e à execução do desenvolvimento, da operação ou da manutenção de produtos de software durante o ciclo de vida do software”. (ROCHA, MALDONADO e WEBER, 2001).
+Os processos fundamentais existem a fim de que seja possível a execução de
+um software. Esses processos dão início ao ciclo de vida e gerenciam outros
+processos:
+<p>
+
+<ul>
+    <li>Aquisição: visa a obtenção do produto/serviço que dê satisfação às suas necessidades;</li>
+    <li>Fornecimento: prover um produto/serviço;</li>
+    <li>Desenvolvimento: visa a transformação de um grupo de requisitos em um produto ou software.</li>
+    <li>Operação: visa a operação do produto no ambiente para o qual foi designado e visa a provisão de suporte para seus usuários.</li>
+    <li>Manutenção: visa a modificação do software e, posteriormente, sua liberação para utilização.</li>
+</ul>          
+    
+<h4> 2.2 Processos de Apoio</h4>
+<p>
+    Os processos de apoio dão auxílio a outros processos que são utilizados da medição e garantia da qualidade, porém não são fundamentais. São estes:
+<p>
+
+<ul>
+    <li>Documentação: providenciar e sustentar os registros de dados do software;</li>
+    <li>Gerência de Configuração: determinar e manter a lhaneza dos produtos de trabalho de um processo do projeto;</li>
+    <li>Garantia da Qualidade: garantir que os processos e os produtos estão de acordo com as normas e/ou os requisitos preestabelecidos;</li>
+    <li>Verificação: verificar e assegurar que o produto/serviço está de acordo com os requisitos pré-definidos;</li>
+    <li>Validação: assegurar que os requisitos específicos são atendidos;</li>
+    <li>Revisão Conjunta: proporcionar o entendimento (com os stakeholders);</li>
+    <li>Auditoria: determinar a conformidade do produto e dos processos contra os requisitos definidos;</li>
+    <li>Resolução de Problema: garantir que todos os problemas sejam verificados e corrigidos;</li>
+    <li>Usabilidade: promover a simplicidade e facilidade da utilização do produto/serviço;</li>
+    <li>Gerência de Solicitação de Mudanças: providenciar e manter os processos de gerência de mudanças.</li>
+    <li>Avaliação do Produto: assegurar, por meio de exame e medição sistemáticos, que o produto/serviço está suprindo as necessidades explícitas e implícitas dos utilizadores.</li>
+</ul>
+
+<h4> 2.3 Processos Organizacionais </h4>
+
+<P>
+    Os processos organizacionais dão suporte à organização e à gestão geral destes processos e têm a possibilidade de serem aplicados fora do domínio dos projetos e contratos específicos, o que os tornam úteis para a organização como um todo. São estes:
+</P>
+
+<ul>
+    <li>Gerência: responsável pela organização, monitoração e controle do início e controle da performance do processo.</li>
+    <li>Infraestrutura: responsável por assegurar que a estrutura tenha estabilidade e maior confiabilidade.</li>
+    <li>Melhoria: processo que define, faz avaliação, controla e provê melhorias em um processo de ciclo de vida do software.</li>
+    <li>Recursos Humanos: responsável por providenciar e dar suporte aos recursos humanos necessários que têm consistência com o negócio.</li>
+</ul>
+
+
+<h4> 2.4 Processos de Adaptação </h4>
+<p>
+    Os processos de adaptação fazem a definição das atividades que são
+    necessárias na execução das aplicações. Os processos se adaptam a:
+</p>
+<ul>    
+    <li>Projeto;</li>
+    <li>Cultura;</li>
+    <li>Organização;</li>
+    <li>Modelo de ciclo de vida, funções e técnicas, e Linguagens;</li>
+<ul>
+
+<h5>Processos de Reuso do Software</h5>
+
+<p>
+    O reúso de software, segundo Mariani (2016), “no contexto da Engenharia de
+    Software, refere-se à criação de software a partir de componentes, ideias ou
+    processos já existentes”. O reúso é “[...] relativo ao aproveitamento de soluções
+    para problemas similares” (MARIANI, 2016).
+</p>
+<p>
+    Como citado acima, o conceito de reúso de software resume-se na
+    incorporação de produtos e/ou processos existentes em novos produtos. É um
+    processo específico do desenvolvimento de software, incorporado na atualização de
+    2008 da ISO/IEC 12207.
+</p>
 
 ## Benefícios da Norma
 
