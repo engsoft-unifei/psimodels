@@ -31,17 +31,17 @@ tudo de caso sobre sua utilização</p>
 
 <p>
 A primeira vers ̃ao da ISO/IEC 12207 foi publicada em primeiro de julho de 1995, pela In-
-ternational Organization for Standardization, com o objetivo de estabelecer padr ̃oes para
+ternational Organization for Standardization, com o objetivo de estabelecer padrões para
 o processo de ciclo de vida de software [ISO 12207:2017(E) 2017]. Ela foi o primeiro
-padr ̃ao a fornecer um conjunto t ̃ao abrangente de definic ̧  ̃oes a respeito do ciclo de vida
-de software, suas atividades, tarefas e processos. A vers ̃ao mais recente desta norm ́a  ́e
+padrão a fornecer um conjunto tão abrangente de definições a respeito do ciclo de vida
+de software, suas atividades, tarefas e processos. A versão mais recente desta norma é
 a ISO/IEC/IEEE 12207: 2017 Systems and software engineering — Software life cycle
 processes.
 </p>
 <p>
-Sua idealizac ̧  ̃ao, assim como outras normas e padr ̃oes da mesma  ́epoca, foi
-motivada pelo fenˆomeno conhecido como crise do software. O termo crise do soft-
-ware  ́e utilizado para descrever a dificuldade de se fazer estimativas de tempo e escopo
+Sua idealização, assim como outras normas e padrões da mesma época, foi
+motivada pelo fenômeno conhecido como crise do software. O termo crise do soft-
+ware é utilizado para descrever a dificuldade de se fazer estimativas de tempo e escopo
 para projetos de softwares cuja complexidade e tamanho escalam de forma exponencial
 [Fitzgerald 2012].
 </p>
