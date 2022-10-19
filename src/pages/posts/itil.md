@@ -47,3 +47,9 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Melhorar a interação e o relacionamento com os clientes.
 * Coordenar a entrega de bens e serviços em toda a rede de valores.
 * Otimize e reduza custos.
+
+## HISTÓRIA DA CRIAÇÃO DA NORMA
+
+<p>
+ A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
+ </p>
