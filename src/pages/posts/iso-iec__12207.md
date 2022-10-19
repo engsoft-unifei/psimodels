@@ -46,7 +46,21 @@ para projetos de softwares cuja complexidade e tamanho escalam de forma exponenc
 
 ## Benefícios da Norma
 
+<p>
+Com a crescente busca por softwares de qualidade no mercado atual, as empresas perceberam a necessidade da utilização de normas padronizadas que especificam requisitos e boas práticas do que fazer para obter um produto de qualidade através do processo de desenvolvimento de software, visando entregar produtos para satisfazer o cliente. A Norma ISO/IEC 12207 provê uma estrutura para uma organização definir um linguajar comum em meio ao grande número de métodos, técnicas, modelos e normas que tratam da qualidade. Ela permite padronizar os processos de desenvolvimento, garantindo uma melhor qualidade no software, utilizando-se de métodos sistêmicos que diminuirão erros na modelagem, e por consequência a manutenção exagerada, poderá reduzir ou eliminar custos indevidos e acabar com o tempo desnecessário dedicado ao retrabalho. Essa norma monitora o andamento do projeto para determinar se eles estão de acordo com os padrões da qualidade, e identificar formas de prevenir as causas dos resultados insatisfatórios. Além de que as implementações das normas ISO possuem segurança dos dados, maior confiabilidade para os clientes, procedimentos claros e segurança do ciclo de vida do desenvolvimento de software.
+</p>
+
 ## Desafios da Implementação
+
+<p>
+A ISO/IEC 12207 possui grande flexibilidade, podendo acompanhar a evolução da engenharia de software nas diversas culturas organizacionais, pois não tem nenhuma ligação com métodos, ferramentas, treinamentos, métricas ou tecnologias empregadas. Ela pode ser utilizada com qualquer modelo de ciclo de vida, método ou técnica de engenharia de software e linguagem de programação.Embora flexível, ela possui algumas limitações que podem gerar desafios ou desconfortos ao ser implementada.
+</p>
+<ul>
+  <li>Ela não especifica os detalhes de como implementar ou executar as atividades e tarefas incluídas nos processos de ciclo de vida de software;</li>
+  <li>Não pretende prescrever o nome, formato ou conteúdo explícito na documentação a ser produzida. A Norma pode requerer o desenvolvimento de documentos de mesma categoria ou tipo, contudo não sugere que tais documentos sejam desenvolvidos ou emitidos separadamente ou combinados de alguma forma. Estas decisões são deixadas para o usuário da Norma;</li>
+  <li>Não prescreve um modelo específico de ciclo de vida ou método de desenvolvimento de software. As partes envolvidas com esta Norma são responsáveis pela seleção de um modelo de ciclo de vida para o projeto de software e pelo mapeamento dos processos, atividades e tarefas da Norma dentro do modelo. As partes envolvidas são também responsáveis pela seleção e aplicação dos métodos de desenvolvimento de software e pela execução das atividades e tarefas adequadas ao projeto de software;</li>
+  <li>Não pretende entrar em conflito com quaisquer políticas, normas ou procedimentos já existentes na organização. Entretanto, qualquer conflito necessita ser resolvido e quaisquer condições e situações de sobreposição precisam ser citadas por escrito como exceções para a aplicação da Norma.</li>
+</ul>
 
 ## Obtendo a Certificação
 
