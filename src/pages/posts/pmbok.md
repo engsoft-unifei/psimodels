@@ -185,7 +185,7 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 <div align="center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
 
 ## Benefícios e desafios 
-###Benefícios:
+### Benefícios:
 A metodologia do guia do PMBOK inclue vários tópicos importantes para os gerentes de projetos como  um recurso de informações, boas práticas e padronizações para a definição das diretrizes dos projetos.[9](https://mockitt.wondershare.com/product-management/pmbok.html). Conforme [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf) e [¹°](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG), as principais vantagens de utiliza-lo são: 
 1. É um padrão reconhecido e usado mundialmente;
 2. Possui o conhecimento acumulado de boas práticas de diversos gerentes de projetos; 
@@ -196,7 +196,7 @@ A metodologia do guia do PMBOK inclue vários tópicos importantes para os geren
 7. planejamento detalhado;
 8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento;
 
-###Desafios:
+### Desafios:
 Como o PMBOK funciona mais como um guia de boas práticas e padronização de projetos suas dificuldades de implementação geralmente envolvem o tipo e as limitações do projeto, bem como o entendimento de seu uso por participantes do projeto. 
 As dificuladades mais encontradas para sua implementação são encontradas na forma de:
 
