@@ -174,5 +174,6 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 **Manter e aprimorar o ITIL**
 - O ITIL é um conjunto de boas práticas e não um projeto com começo, meio e fim, desse modo precisa ser implantado e mantido de forma consistente.
 
-
-
+# O que uma empresa deve fazer para obter certificação?
+<p>A empresa deve investir no processo de certificação do ITIL, tais como treinamentos e capacitações, desse modo os funcionários ficarão aptos a adquirir os certificados ITIL. Para obter o certificado ITIL Foundation é necessário fazer uma prova de 40 questões de múltipla escolha, obtendo 65% de aproveitamento.
+</p>
