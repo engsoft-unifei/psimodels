@@ -257,7 +257,7 @@ Além dos casos de estudo do PMBOK, também é de grande importância relatos de
 Pode ser observado que as dificuldades dos gestores de maior e menor experiência variam, tendo os gestores menos experientes mais dificuldade na área de qualidade, problema que não é visto nos gestores que trabalham com o PMBOK por mais tempo. Porém, o maior desafio para todos os gerentes é a comunicação, não só em projetos que seguem as diretrizes do PMBOK, mas eu qualquer projeto, a boa comunicação entre a equipe se faz necessária e é crucial para o sucesso do projeto.
 
 Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
-<div align="center"><img src="https://imgur.com/gt9bKOl.png"  /></div> 
+<div align="center"><img src="https://imgur.com/M3aYoFo.png"  /></div> 
 
 
 ## Material complementar :books:
