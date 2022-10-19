@@ -48,7 +48,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Coordenar a entrega de bens e serviços em toda a rede de valores.
 * Otimize e reduza custos.
 
-## HISTÓRIA DA CRIAÇÃO DA NORMA
+# HISTÓRIA DA CRIAÇÃO DA NORMA
 
 <p>
  A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
@@ -72,4 +72,22 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  * Perspectiva do negócio: Fornece conselhos e serve de guia para o pessoal de TI saber como contribuir para o negócio da empresa.
  
  * Gerenciamento da segurança: Detalha o processo de planejamento e gerenciamento a um nível mais detalhado da segurança da informação e Serviços de TI.
+ 
+ # Etapas, estratégias e organização da norma ITIL para garantir a qualidade do processo de desenvolvimento de software 
+
+ ## Etapas da ITIL
+ <p>
+ A estrutura da ITIL é baseada em um ciclo de vida de serviço e é composta por cinco etapas que oferecem as melhores práticas através de seus processos, papéis e funções.
+ </p>
+ 
+ **As 5 etapas do ciclo de vida são:**
+
+ * Estratégia de Serviços de TI
+ * Desenho de Serviços de TI
+ * Transição de Serviços de TI
+ * Operação de Serviços de TI
+ * Melhoria Contínua dos Serviços de TI
+
+
+
 
