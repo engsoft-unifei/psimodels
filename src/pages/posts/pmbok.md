@@ -7,15 +7,15 @@ date: "19 Oct 2022"
 banner: "bg-blue-200"
 ---
 # PMBOK - Sumário
-- [O que é o PMBOK?](#o-que-é-o-pmbok-thinking)
-- [Etapas e estratégias do PMBOK](#etapas-e-estratégias-do-pmbok-pencil)
-- [Beneficios e desafios](#benefícios-e-desafios-chart_with_downwards_trend)
-- [Certificações](#certificações-bookmark_tabs)
-- [Relatos de experiência](#relatos-de-experiência-detective)
-- [Material complementar](#material-complementar-books)
-- [Área de referência](#área-de-referências-link)
+- [O que é o PMBOK?](#o-que-é-o-pmbok)
+- [Etapas e estratégias do PMBOK](#etapas-e-estratégias-do-pmbok)
+- [Beneficios e desafios](#benefícios-e-desafios)
+- [Certificações](#certificações)
+- [Relatos de experiência](#relatos-de-experiência)
+- [Material complementar](#material-complementar)
+- [Área de referência](#área-de-referências)
 
-## O que é o PMBOK? :thinking:
+## O que é o PMBOK?
 
 O GUIA PMBOK® (Project Management Body of Knowledge) é um guia de boas práticas, ou seja, essencial para gerentes de projetos que desejam melhorar o desempenho e os resultados de seus negócios. Conhecido como a “bíblia do gerenciamento de projetos”, o guia atualmente é seguido por empresas de todos os portes e de diversos mercados de atuação ao redor do mundo. O PMBOK é um guia de conceitos e ferramentas para descrever e fazer a gestão do “ciclo de vida” de um projeto, podendo ser utilizado em qualquer segmento. O PMBOK® é umaespécie de enciclopédia sobre gerenciamento de projetos publicada. Sua publicação é regularmente revisada pelo PMI (Project Management Institute) a cada 4 anos, aproximadamente. Atualmente o Guia se encontra na 7ª Edição.
 
@@ -38,7 +38,7 @@ Os outros objetivos também podem ser:
 - Formar padrões de gestão de projetos
 - Promover a gestão de projetos como uma profissão formalizada através de programas com certificação
 
-## Etapas e estratégias do PMBOK :pencil:
+## Etapas e estratégias do PMBOK
 
 O guia PMBOK trabalha com estratégia de definição de gerenciamento de programa ou processos, de ciclos de vida e áreas de conhecimento[²](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/).
 
@@ -184,7 +184,7 @@ O PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de D
 
 <div align="center"><img src="https://imgur.com/mQ3vP3H.png"  /></div>
 
-## Benefícios e desafios :chart_with_downwards_trend:
+## Benefícios e desafios 
 ###Benefícios:
 A metodologia do guia do PMBOK inclue vários tópicos importantes para os gerentes de projetos como  um recurso de informações, boas práticas e padronizações para a definição das diretrizes dos projetos.[9](https://mockitt.wondershare.com/product-management/pmbok.html). Conforme [³](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf) e [¹°](https://www.ipl.org/essay/Advantages-Of-Pmbok-Based-Project-Management-FJQCLZ52NSG), as principais vantagens de utiliza-lo são: 
 1. É um padrão reconhecido e usado mundialmente;
@@ -205,7 +205,7 @@ As dificuladades mais encontradas para sua implementação são encontradas na f
 3. A comunicação entre o time pode ser dificil[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), visto que o PMBOK valoriza a eficiencia sobre a comunicação.
 4. O PMBOK é um framework de boas praticas e pode ser aplicado de diversos modos no mercado o que pode causar conflito,[¹³]( https://periodicos.uninove.br/gep/article/viewFile/9556/4300) entre equipes de lugares diferentes do mercado devido a necessidade de se usar literaturas complementares em alguns casos.
 
-## Certificações :bookmark_tabs:
+## Certificações
 
 O PMBOK em si não possui certificado, sendo ele apenas um guia que serve como  base para os certificados PMP, CAPM entre outros certificados de gestão, disponibilizados pelo PMI (Project Management Institute).Além disso, os certificados são individuais concedidos a pessoas que tenham feito o treinamento e não a empresas.  
 	No Brasil é possível obter certificados PMP e CAPM através do próprio site do PMI.Assim como o guia do PMBOK que pode ser adquirido lá também[⁴](https://www.pmi.org/brasil/tipos-de-certificacao).
@@ -223,7 +223,7 @@ Ou
 
 Algumas das empresas com gestores certificados  PMP  no Brasil são  Volkswagen ,Telemar,  Oi,  Andrade Gutierrez,  HP,  Microsoft e  TIM.
 
-## Relatos de experiência :detective:
+## Relatos de experiência
 
 No próprio site do PMI (Organização criadora do PMBOK)[⁵](https://www.pmi.org/business-solutions/case-studies) existe uma seção com estudos de caso/relatos de experiência de organizações que gerenciam seus 
 projetos utilizando de produtos, programas e princípios do PMBOK. Dentre os casos gostaria de 
@@ -255,8 +255,7 @@ Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
 <div align="center"><img src="https://imgur.com/M3aYoFo.png"  /></div> 
 
 
-## Material complementar :books:
-
+## Material complementar
 O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão pretende, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico "Metodologia de Gerenciamento de Projetos" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública. A MGP-SISP tem como objetivo auxiliar os órgãos do SISP no gerenciamento de seus projetos com a devida flexibilidade para adaptar a realidade de cada orgão. O guia tem como base téorica o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®), 4ª edição. Está disponível publicamente.
 
 [![PMBOK](https://i.imgur.com/8USoGOe.png)](https://www.youtube.com/watch?v=CA1_dLplOAM)
