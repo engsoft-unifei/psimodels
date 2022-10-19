@@ -54,6 +54,9 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
  </p>
 
+ <p>Com o passar do tempo, outras empresas e entidades do governo perceberam que as práticas sugeridas pela ITIL poderiam ser aplicadas em seus processos de TI também. Assim, na década de 1990, a biblioteca tornou-se um padrão ganhando várias adaptações de grandes empresas como Microsoft, IBM e HP.
+</p>
+
 
  **Os livros são:**
  * Suporte a serviços: descreve processos de suporte utilizados no dia a dia e atividades de provisão dos Serviços de TI.
@@ -69,3 +72,4 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  * Perspectiva do negócio: Fornece conselhos e serve de guia para o pessoal de TI saber como contribuir para o negócio da empresa.
  
  * Gerenciamento da segurança: Detalha o processo de planejamento e gerenciamento a um nível mais detalhado da segurança da informação e Serviços de TI.
+
