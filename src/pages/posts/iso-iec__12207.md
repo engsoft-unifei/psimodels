@@ -21,17 +21,14 @@ banner: "bg-yellow-200"
 
 ## Introdução
 
-<p>A ISO/IEC 12207 tem como objetivo estabelecer uma estrutura co-
-mum para o processo de ciclo de vida de software. Este artigo descreve seus
-processos, atividades e tarefas, a hist ́oria de sua criação, benef ́ıcios, desafios
-comuns para sua implementação, seu processo de certificação no Brasil e es-
-tudo de caso sobre sua utilização</p>
+<p>A ISO/IEC 12207 tem como objetivo estabelecer uma estrutura comum para o processo de ciclo de vida de software. Este artigo descreve seus
+processos, atividades e tarefas, a história de sua criação, benefícios, desafios
+comuns para sua implementação, seu processo de certificação no Brasil e estudo de caso sobre sua utilização</p>
 
 ## História e Objetivo
 
 <p>
-A primeira vers ̃ao da ISO/IEC 12207 foi publicada em primeiro de julho de 1995, pela In-
-ternational Organization for Standardization, com o objetivo de estabelecer padrões para
+A primeira versão da ISO/IEC 12207 foi publicada em primeiro de julho de 1995, pela International Organization for Standardization, com o objetivo de estabelecer padrões para
 o processo de ciclo de vida de software [ISO 12207:2017(E) 2017]. Ela foi o primeiro
 padrão a fornecer um conjunto tão abrangente de definições a respeito do ciclo de vida
 de software, suas atividades, tarefas e processos. A versão mais recente desta norma é
@@ -40,8 +37,7 @@ processes.
 </p>
 <p>
 Sua idealização, assim como outras normas e padrões da mesma época, foi
-motivada pelo fenômeno conhecido como crise do software. O termo crise do soft-
-ware é utilizado para descrever a dificuldade de se fazer estimativas de tempo e escopo
+motivada pelo fenômeno conhecido como crise do software. O termo crise do software é utilizado para descrever a dificuldade de se fazer estimativas de tempo e escopo
 para projetos de softwares cuja complexidade e tamanho escalam de forma exponencial
 [Fitzgerald 2012].
 </p>
