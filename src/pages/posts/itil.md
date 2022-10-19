@@ -86,6 +86,9 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  <p>
  A estrutura da ITIL é baseada em um ciclo de vida de serviço e é composta por cinco etapas que oferecem as melhores práticas através de seus processos, papéis e funções.
  </p>
+
+ [Imgur](https://i.imgur.com/Gs7MUps.png "Ciclo de vida do serviço de TI - ITIL (Axelos)")
+ 
  
  **As 5 etapas do ciclo de vida são:**
 
@@ -200,6 +203,9 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 Hoje, temos empresas como Carrefour e Makro que já adotaram o ITIL no Brasil, além de Tribunais de Justiça de diversos estados.
 
 Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Foundation, é de US $395, preço que pode sofrer variações de acordo com a região, cotação do dólar e impostos adicionais. Para obter a certificação, é necessário passar por provas a cada nível, além de, em caso de níveis maiores, ter conhecimento prévio. Para o nível Executive por exemplo (o último), o profissional deve ter 5 anos em função superior, o certificado ITIL Foundation em Gerenciamento de Serviço de TI e ainda apresentar para uma banca avaliativa.</p>
+
+[Imgur](https://i.imgur.com/o3k8PLR.png "Esquema de Certificação ITIL4. Copyright © AXELOS Limited 2016. Used under permission of AXELOS Limited. All rights reserved.
+")
 
 # Relato de experiência de empresas certificadas ou em processo de certificação.
 
