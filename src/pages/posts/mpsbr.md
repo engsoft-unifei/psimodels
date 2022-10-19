@@ -7,6 +7,8 @@ date: "19 Oct 2022"
 banner: "bg-emerald-400"
 ---
 
+![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
+
 # MPS-BR
 
 ## Índice
@@ -61,9 +63,13 @@ O MPS.BR possui sete níveis de maturidade: G, F, E, D, C, B e A. O progresso en
 
 Outra dificuldade encontrada foi em relação à documentação, que, segundo as quatro empresas entrevistadas, apresentou clareza em relação ao objetivo que deveria ser alcançado, porém não é proposto nenhum método ou caminho para que as empresas possam chegar lá, o que refletiu na dependência de uma consultoria externa para que a certificação pudesse ocorrer. Em relação à produtividade, todas as companhias relataram uma produtividade menor durante o período de certificação devido à adaptação dos setores da empresa, o que gerou lentidão do processo produtivo
 
+![tenor](https://tenor.com/view/office-gif-23066448.gif)
+
 ## O que uma empresa deve fazer para obter a certificação na norma
 
 É necessário demonstrar experiência da instituição na área de processos de software, possui uma estratégia de implementação do MR-MPS-SW, possuir uma estratégia de seleção, capacitação e manutenção da competência dos membros da equipe de Implementação do MR-MPS, além de ter vínculo com 3 profissionais que cumpram os requisitos: aprovação na prova destinada à implementadores, graduação completa, experiência em desenvolvimento de software e implantação de processos de software.
+
+![tenor](https://tenor.com/view/the-office-gif-26388528.gif)
 
 
 ## Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma
@@ -95,6 +101,8 @@ A empresa Megawork foi classificada, em 2017, como nível C no MPS.BR, o que sig
      Gerência Organizacional (C)
 
 Segundo Adriana Casagrande, diretora de Processos e Qualidade da Megawork, o projeto trouxe maturidade para a equipe e solidificação dos processos já utilizados pela empresa. Também uma maior competitividade no mercado é adquirida quando se é certificado pelo MPS.BR, já que a qualidade e o processo dos serviços prestados é garantida pelo certificado. Completa Adriana: “Por meio da dedicação e profissionalismo de todos os envolvidos, conquistamos mais essa certificação e tenho orgulho em fazer parte desta equipe que se tornou pioneira no país, sendo a única empresa certificada MPS.Br-SV nível C do Brasil”.
+
+![tenor](https://tenor.com/view/michael-scott-office-fantastic-great-gif-25279163)
 
 ## Material complementar
 
