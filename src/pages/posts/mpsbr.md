@@ -21,8 +21,6 @@ banner: "bg-emerald-400"
 - [Relato de experiência de alguma empresa certificada ou em processo de certificação](Relato-de-experiência-de-alguma-empresa-certificada-ou-em-processo-de-certificação)
 - [Material complementar](Material-complementar)
 - [Vídeo Youtube sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
-- [Pdf com slides](MPS.BR%20(2).pdf)
-- [Pdf com o Trabalho](Engenharia_de_Software_Atividade_2___MPS_BR.pdf)
 
 ## Objetivo da norma
 
@@ -110,3 +108,5 @@ Por fim, a fase de ação é a execução do que foi planejado e avaliado nas de
 
 ## Vídeo sobre os níveis
 ! [Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
+
+![michael](https://imgur.com/gallery/nNWO5iu)
