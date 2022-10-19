@@ -7,6 +7,9 @@ date: "19 Oct 2022"
 banner: "bg-emerald-400"
 ---
 
+
+![tenor](https://tenor.com/view/good-morning-the-office-michael-scott-vietnam-steve-carell-gif-16399361.gif)
+
 # MPS-BR
 
 ## Índice
@@ -22,7 +25,7 @@ banner: "bg-emerald-400"
 - [Material complementar](Material-complementar)
 - [Vídeo Youtube sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
-
+![tenor](https://tenor.com/view/michael-scott-the-office-gif-23987751.gif)
 
 ## Objetivo da norma
 
@@ -30,9 +33,6 @@ Sua sigla, que tem como significado a “Melhoria de Processo do Software Brasil
 
 O modelo MPS estabelece dois modelos de referência de processos de software e serviços, e um processo/método de avaliação de processos. Esta estrutura fornece sustentação e garante que o modelo MPS seja empregado de forma coerente com as suas definições. O modelo estabelece também um modelo de negócio para apoiar a sua adoção pelas empresas desenvolvedoras de software e prestadores de serviços.
 
-![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
-
-![tenor](https://tenor.com/view/office-gif-23066448.gif)
 
 ## História da criação da norma
 
