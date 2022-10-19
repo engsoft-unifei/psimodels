@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "Markdown Cheat Sheet"
-description: "Mpsbr"
+title: "MPS-BR"
+description: "Post explicativo sobre o modelo de Melhoria de Processo de Software Brasileiro"
 author: "Joel Torres, Matheus Pronunciate, Ryan Ribeiro, Samuel Canellas, Victor Kruze"
 date: "19 Oct 2022"
 banner: "bg-emerald-400"
@@ -13,15 +13,15 @@ banner: "bg-emerald-400"
 
 ## Índice
 
-- [Objetivo da norma](#Objetivo-da-norma)
-- [História da criação da norma](#História-da-criação-da-norma)
-- [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#Etapas,-estratégias,-organização-da-norma-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
-- [Benefícios de usar a norma](#Benefícios-de-usar-a-norma)
-- [Desafios ao implementar a norma](#Desafios-ao-implementar-a-norma)
-- [O que uma empresa deve fazer para obter a certificação na norma](O-que-uma-empresa-deve-fazer-para-obter-a-certificação-na-norma)
-- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma](Tem-certificações-no-Brasil?-O-que-é-necessário-fazer-para-ter-a-certificação?-Exemplos-de-empresas-brasileiras-certificadas-na-norma)
-- [Relato de experiência de alguma empresa certificada ou em processo de certificação](Relato-de-experiência-de-alguma-empresa-certificada-ou-em-processo-de-certificação)
-- [Material complementar](Material-complementar)
+- [Objetivo da norma](#objetivo-da-norma)
+- [História da criação da norma](#história-da-criação-da-norma)
+- [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#etapas-estratégias-organização-da-norma-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
+- [Benefícios de usar a norma](#benefícios-de-usar-a-norma)
+- [Desafios ao implementar a norma](#desafios-ao-implementar-a-norma)
+- [O que uma empresa deve fazer para obter a certificação na norma](#o-que-uma-empresa-deve-fazer-para-obter-a-certificação-na-norma)
+- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma](#tem-certificações-no-brasil-o-que-é-necessário-fazer-para-ter-a-certificação-exemplos-de-empresas-brasileiras-certificadas-na-norma)
+- [Relato de experiência de alguma empresa certificada ou em processo de certificação](#relato-de-experiência-de-alguma-empresa-certificada-ou-em-processo-de-certificação)
+- [Material complementar](#material-complementar)
 - [Vídeo Youtube sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
 ![tenor](https://tenor.com/view/michael-scott-the-office-gif-23987751.gif)
@@ -118,6 +118,6 @@ Por fim, a fase de ação é a execução do que foi planejado e avaliado nas de
 É importante ressaltar que deve haver uma fase de aprendizado caso a transição tenha sucesso. Compreender os pontos fortes e fracos do processo é a chave para a construção de outros projetos satisfatórios futuros
 
 ## Vídeo sobre os níveis
-![Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
+[Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
 ![tenor](https://tenor.com/view/the-office-the-office-gif-26388601.gif)
