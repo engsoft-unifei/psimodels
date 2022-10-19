@@ -48,7 +48,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Coordenar a entrega de bens e serviços em toda a rede de valores.
 * Otimize e reduza custos.
 
-## HISTÓRIA DA CRIAÇÃO DA NORMA
+# HISTÓRIA DA CRIAÇÃO DA NORMA
 
 <p>
  A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
@@ -72,3 +72,107 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  * Perspectiva do negócio: Fornece conselhos e serve de guia para o pessoal de TI saber como contribuir para o negócio da empresa.
  
  * Gerenciamento da segurança: Detalha o processo de planejamento e gerenciamento a um nível mais detalhado da segurança da informação e Serviços de TI.
+ 
+ # Etapas, estratégias e organização da norma ITIL para garantir a qualidade do processo de desenvolvimento de software 
+
+ ## Etapas da ITIL
+ <p>
+ A estrutura da ITIL é baseada em um ciclo de vida de serviço e é composta por cinco etapas que oferecem as melhores práticas através de seus processos, papéis e funções.
+ </p>
+ 
+ **As 5 etapas do ciclo de vida são:**
+
+ * Estratégia de Serviços de TI
+ * Desenho de Serviços de TI
+ * Transição de Serviços de TI
+ * Operação de Serviços de TI
+ * Melhoria Contínua dos Serviços de TI
+
+ <u>Etapa 1- Estratégia de Serviços de TI</u>
+
+ <p>É a fase do ciclo de vida que contempla as boas práticas de mercado referentes à concepção do serviço novo ou alterado. O propósito da estratégia é criar valor para os Clientes através de serviços, transformando o gerenciamento de serviços em um ativo estratégico.
+</p>
+
+**Os Processos da Estratégia de Serviços são:**
+* Gerenciamento Estratégico para serviços de TI
+* Gerenciamento do Portfólio de Serviços de TI
+* Gerenciamento Financeiro Para Serviços de TI
+* Gerenciamento da Demanda
+* Gerenciamento do Relacionamento com o Negócio
+
+<u>Etapa 2- Desenho de Serviços de TI</u>
+
+<p>É a fase em que o serviço de TI é desenhado para que cumpra seu objetivo durante todo o ciclo de vida. Tem como principal objetivo garantir uma abordagem holística em todos os aspectos do Desenho de Serviço: Funcional; Gerencial e Operacional.</p>
+
+**Os Processos do Desenho de Serviços são:**
+* Gerenciamento de Nível de Serviços
+* Gerenciamento de Catálogo de Serviços
+* Gerenciamento de Disponibilidade dos Serviços de TI
+* Gerenciamento de Capacidade dos Serviços de TI
+* Gerenciamento de Fornecedores
+* Gerenciamento de Segurança da Tecnologia da Informação
+* Gerenciamento de Continuidade dos Serviços de TI
+* Coordenação do Desenho de Serviços de TI
+
+<u>Etapa 3- Transição de Serviços de TI</u>
+<p>O valor do serviço de TI é concebido na etapa Estratégica de Desenho de serviço de TI, e será percebido quando os efeitos no negócio acontecerem.</p>
+
+<p>A transição visa garantir que grandes volumes de mudanças possam ser tratadas com menor impacto, minimizando os riscos envolvidos com implantação de novos serviços e com a modificação do trabalho.</p>
+
+**Os Processos da Transição de Serviços são:**
+* Gerenciamento de Mudanças
+* Gerenciamento de Ativos e Configuração
+* Gerenciamento de Liberação
+* Validação e Teste de serviço
+* Avaliação da Mudança
+* Gerenciamento do Conhecimento
+* Planejamento e Suporte a Transição
+
+<u>Etapa 4- Operação de Serviços de TI</u>
+
+<p>A operação de serviço coordena e desempenha as atividades e os processos requeridos para entregar e gerenciar serviços para os usuários.A principal responsabilidade da operação é garantir a estabilidade dos serviços de TI para que agreguem valor ao negócio.</p>
+
+**Os Processos da Operação de Serviços são:**
+* Gerenciamento de Incidentes
+* Gerenciamento de Problemas
+* Gerenciamento de Eventos
+* Cumprimento de Requisição
+* Gerenciamento de Acesso
+
+**As Funções da Operação de Serviços são:**
+* Central de Serviços de TI (servicedesk)
+* Gerenciamento Técnico
+* Gerenciamento de Operações
+* Gerenciamento de Aplicações
+
+<u>Etapa 5- Melhoria Contínua dos Serviços</u>
+
+<p>É uma etapa que documenta as melhores práticas requeridas para melhorar a eficácia e a eficiência dos processos e serviços, bem como sua relação custo-benefício, assim, Fornecendo um método de implementação de um programa de melhoria contínua, para que processos e serviços possam ser definidos, implementados e melhorados continuamente.</p>
+
+**Escopo da Melhoria Contínua de Serviços:**
+* Saúde da disciplina ITSM como um todo.
+* Continuo alinhamento do Portfólio de Serviços com os requisitos de negócio atuais e futuros.
+* Caso de Negócio (Business Case) para Retorno sobre Investimento.
+* Amadurecimento dos processos de TI que suportam cada serviço dentro do modelo ciclo de vida.
+* Suporte ao plano de melhoria contínua dos processos.
+* Como medir, interpretar e agir.
+
+
+# DESAFIOS AO IMPLEMENTAR A NORMA
+
+**Auxílio dos gestores**
+- Na maioria dos casos os gestores aprovam o uso do ITIL, porém não prestam o suporte necessário para toda a equipe. Por isso é necessário gestores que saibam liderar e reconheçam a importância do ITIL para a empresa. 
+
+
+**Resistência dos funcionários**
+- A implementação do ITIL exige grandes mudanças, muitos colaboradores resistem a essas mudanças, podendo até boicotar os novos procedimentos. Para evitar isso deve ocorrer treinamentos específicos e explicação clara sobre como o ITIL funciona.
+
+**Conseguir os investimentos necessários**
+- A implantação de ITIL exige investimentos e nem sempre a organização consegue entender a necessidade desse aporte de recursos e como eles poderão impactar positivamente nos resultados da empresa.
+
+
+**Manter e aprimorar o ITIL**
+- O ITIL é um conjunto de boas práticas e não um projeto com começo, meio e fim, desse modo precisa ser implantado e mantido de forma consistente.
+
+
+
