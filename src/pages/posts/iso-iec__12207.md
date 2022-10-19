@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "Norma ISO/IEC 12207"
 description: "Apresentação da Norma ISO/IEC 12207"
-author: "Augusto Lázaro Raimundo, Guilherme Vieira, "
+author: "Alexsander Ventricci, Augusto Lázaro Raimundo, Carlos Henrique Silva Pinto, Guilherme Vieira, Rafael Mariano da Silva Andrade"
 date: "17 Oct 2022"
 banner: "bg-yellow-200"
 ---
@@ -121,9 +121,9 @@ processos:
     <li>Cultura;</li>
     <li>Organização;</li>
     <li>Modelo de ciclo de vida, funções e técnicas, e Linguagens;</li>
-<ul>
+</ul>
 
-<h5>Processos de Reuso do Software</h5>
+<h4>Processos de Reuso do Software</h4>
 
 <p>
     O reúso de software, segundo Mariani (2016), “no contexto da Engenharia de
