@@ -72,4 +72,3 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
  * Perspectiva do negócio: Fornece conselhos e serve de guia para o pessoal de TI saber como contribuir para o negócio da empresa.
  
  * Gerenciamento da segurança: Detalha o processo de planejamento e gerenciamento a um nível mais detalhado da segurança da informação e Serviços de TI.
-
