@@ -128,6 +128,23 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Gerenciamento do Conhecimento
 * Planejamento e Suporte a Transição
 
+<u>Etapa 4- Operação de Serviços de TI</u>
+
+<p>A operação de serviço coordena e desempenha as atividades e os processos requeridos para entregar e gerenciar serviços para os usuários.A principal responsabilidade da operação é garantir a estabilidade dos serviços de TI para que agreguem valor ao negócio.</p>
+
+**Os Processos da Operação de Serviços são:**
+* Gerenciamento de Incidentes
+* Gerenciamento de Problemas
+* Gerenciamento de Eventos
+* Cumprimento de Requisição
+* Gerenciamento de Acesso
+
+**As Funções da Operação de Serviços são:**
+* Central de Serviços de TI (servicedesk)
+* Gerenciamento Técnico
+* Gerenciamento de Operações
+* Gerenciamento de Aplicações
+
 
 
 
