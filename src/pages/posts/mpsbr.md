@@ -12,11 +12,7 @@ banner: "bg-emerald-400"
 # MPS-BR
 
 
-![tenor](https://tenor.com/view/good-morning-vietnam-the-office-michael-scott-gif-11526153.gif)
-
-
-
-
+![tenor](https://tenor.com/view/the-office-michael-scott-steve-carell-good-morning-vietnam-gif-3720949.gif)
 
 
 ## Índice
