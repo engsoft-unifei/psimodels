@@ -53,3 +53,19 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 <p>
  A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
  </p>
+
+
+ **Os livros são:**
+ * Suporte a serviços: descreve processos de suporte utilizados no dia a dia e atividades de provisão dos Serviços de TI.
+
+ * Entrega de serviços: Cobre os processos de planejamento e entrega de Serviços em TI com qualidade, bem como o aperfeiçoamento dessa qualidade ao passar do tempo.
+
+ * ICT – Gerenciamento da Infra-estrutura: Cobre requisitos de Gerenciamento de Infra-estrutura como negócio, testes, instalação, entrega e otimização das operações normais.
+ 
+ * Planejamento para Implementação do Gerenciamento de Serviços: Foca em questões de planejamento, implementação e aperfeiçoamento dos processos do Gerenciamento de Serviços em TI e em questões de Mudança Organizacional.
+
+ * Gerenciamento de aplicações: Descreve como gerenciar as aplicações a partir das necessidades iniciais dos negócios
+ 
+ * Perspectiva do negócio: Fornece conselhos e serve de guia para o pessoal de TI saber como contribuir para o negócio da empresa.
+ 
+ * Gerenciamento da segurança: Detalha o processo de planejamento e gerenciamento a um nível mais detalhado da segurança da informação e Serviços de TI.
