@@ -4,7 +4,7 @@ title: "CMMI"
 description: "Apresentação do modelo CMMI"
 author: "José, Rafael, Victor"
 date: "19 Oct 2022"
-banner: "bg-red-200"
+banner: "bg-[url('https://cmmiinstitute.com/getmedia/dfe1a7dd-08d6-4975-a993-08968e4060d2/CMMI_v2_081720_892x595.jpg')] bg-hero bg-no-repeat bg-center"
 ---
 
 # CMMI
@@ -18,6 +18,11 @@ banner: "bg-red-200"
 - [Desafios](#desafios)
 
 ## Introdução
+<div align="center">
+
+![CMMI Cicle](https://i0.wp.com/www.layermark.com/wp-content/uploads/2021/03/cmmi-circle-1.jpg?resize=427%2C427&ssl=1)
+
+</div>
 
 O método utilizado pelo framework CMMI é um conjunto de boas práticas
 organizadas e subdivididas em áreas consideradas críticas para se alcançar um nível de
@@ -60,7 +65,7 @@ Dentro da forma atual de trabalho do CMMI há alguns componentes que são utiliz
 
 Esses componentes trabalham em conjunto para representar em que estágio a organização se encontra a nível macro, mas também demonstrar de forma atômica o quão perto do funcionamento ideal está cada processo realizado.
 
-- Áreas de Prática
+- **Áreas de Prática**
 
     As áreas de prática são os processos vistos pelo CMMI como assertivos, produtivos e eficientes para se alcançar o objetivo do funcionamento da organização com excelência. Por isso, são os pontos chaves do framework que são avaliados, implementados, caso não sejam praticados, e aprimorados de forma contínua.
 
@@ -73,7 +78,7 @@ As áreas de práticas são agrupadas em Grupos de Capacidade os quais compõem 
 
 Cada Grupo de Capacidade pode aparecer em uma ou mais de uma visão do CMMI. Sendo alguns presentes em todas as visões, os tornando os Grupo de Capacidade principais. E outros, estando presente apenas nas suas visões respectivas.
 
-- Níveis de Capacitação
+- **Níveis de Capacitação**
 
 São os níveis, de 1 a 3, atribuídos a cada área de prática que está sendo trabalhada. Esse nível representa a robustez com a qual cada uma das respectivas áreas está conseguindo funcionar da maneira desejada. Os níveis de capacitação para cada Área de Prática definem as atividades que devem ser realizadas para que aquele nível de capacitação seja alcançado.
 
@@ -92,7 +97,7 @@ São os níveis, de 1 a 3, atribuídos a cada área de prática que está sendo 
 <sub>Fonte: ProMove, 2020 </sub>
 </div>
 
--  Níveis de Maturidade
+-  **Níveis de Maturidade**
 
 São os níveis, de 1 a 5, que representam em qual estágio de maturidade a organização como um todo se encontra.
 
@@ -121,3 +126,11 @@ As melhores práticas propostas pelo CMMI serão responśaveis por guiar a sua e
 A principal dificuldade com a implementação do CMMI é o aspecto e o desejo de que os novos processos, ou as novas maneiras de se realizar esses processos, se tornem institucionalizadas dentro da organização. Assim, conseguindo que essas boas práticas fiquem enraizadas na cultura da empresa e não só em documentos formais. Com isso, se cria uma recursividade de reforço, onde os processos com boas práticas reforçam a cultura e a cultura reforça a boa prática dos processos.
 
 Para que esse nível utópico seja alcançando muitos modelos mentais e culturais pré estabelecidos precisam ser quebrados para que possam ser remodelados em formas mais robustas, duradouras, assertivas e capazes de gerar resultados.
+
+## Apresentação de Slides
+
+<div align="center">
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/y7XBjm77RrPblB?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+</div>
