@@ -22,7 +22,7 @@ banner: "bg-emerald-400"
 - [Material complementar](Material-complementar)
 - [Vídeo Youtube sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
-![imgur](https://imgur.com/gallery/P13pIVp)
+
 
 ## Objetivo da norma
 
@@ -111,4 +111,4 @@ Por fim, a fase de ação é a execução do que foi planejado e avaliado nas de
 ## Vídeo sobre os níveis
 ![Youtube - Vídeo sobre os níveis](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
 
-![imgur](https://imgur.com/gallery/nNWO5iu)
+![tenor](https://tenor.com/view/the-office-the-office-gif-26388601)
