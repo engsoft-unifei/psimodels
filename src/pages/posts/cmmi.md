@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "CMMI"
 description: "Apresentação do modelo CMMI"
-author: "José, Rafael, Victor"
+author: "Jose Luiz Ferreira de Souza , 	Rafael Pereira de Castro, Victor Moras de Aragão"
 date: "19 Oct 2022"
 banner: "bg-[url('https://cmmiinstitute.com/getmedia/dfe1a7dd-08d6-4975-a993-08968e4060d2/CMMI_v2_081720_892x595.jpg')] bg-hero bg-no-repeat bg-center"
 ---
