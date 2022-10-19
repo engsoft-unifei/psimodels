@@ -47,3 +47,6 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Melhorar a interação e o relacionamento com os clientes.
 * Coordenar a entrega de bens e serviços em toda a rede de valores.
 * Otimize e reduza custos.
+
+<p>Com o passar do tempo, outras empresas e entidades do governo perceberam que as práticas sugeridas pela ITIL poderiam ser aplicadas em seus processos de TI também. Assim, na década de 1990, a biblioteca tornou-se um padrão ganhando várias adaptações de grandes empresas como Microsoft, IBM e HP.
+</p>
