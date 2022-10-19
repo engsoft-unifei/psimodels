@@ -26,11 +26,11 @@ banner: "bg-emerald-400"
 
 ## Objetivo da norma
 
-![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
-
 Sua sigla, que tem como significado a “Melhoria de Processo do Software Brasileiro”, traz o seu principal objetivo que é definir e aprimorar um modelo de melhoria e avaliação de processo de software e serviços, visando preferencialmente às micro, pequenas e médias empresas (mPME), de forma a atender às suas necessidades de negócio e ser reconhecido nacional e internacionalmente como um modelo aplicável à indústria de software e serviços. 
 
 O modelo MPS estabelece dois modelos de referência de processos de software e serviços, e um processo/método de avaliação de processos. Esta estrutura fornece sustentação e garante que o modelo MPS seja empregado de forma coerente com as suas definições. O modelo estabelece também um modelo de negócio para apoiar a sua adoção pelas empresas desenvolvedoras de software e prestadores de serviços.
+
+![tenor](https://tenor.com/view/kelly-office-birthday-theme-whats-gif-25265052.gif)
 
 ## História da criação da norma
 
