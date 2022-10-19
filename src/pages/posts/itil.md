@@ -102,7 +102,7 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 
 <u>Etapa 2- Desenho de Serviços de TI</u>
 
-<p>É a fase em que o serviço de TI é desenhado para que cumpra seu objetivo durante todo o ciclo de vida. Tem como principal objetivo garantir uma abordagem holística em todos os aspectos do Desenho de Serviço: Funcional; Gerencial e Operacional.<p>
+<p>É a fase em que o serviço de TI é desenhado para que cumpra seu objetivo durante todo o ciclo de vida. Tem como principal objetivo garantir uma abordagem holística em todos os aspectos do Desenho de Serviço: Funcional; Gerencial e Operacional.</p>
 
 **Os Processos do Desenho de Serviços são:**
 * Gerenciamento de Nível de Serviços
@@ -113,6 +113,20 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 * Gerenciamento de Segurança da Tecnologia da Informação
 * Gerenciamento de Continuidade dos Serviços de TI
 * Coordenação do Desenho de Serviços de TI
+
+<u>Etapa 3- Transição de Serviços de TI</u>
+<p>O valor do serviço de TI é concebido na etapa Estratégica de Desenho de serviço de TI, e será percebido quando os efeitos no negócio acontecerem.</p>
+
+<p>A transição visa garantir que grandes volumes de mudanças possam ser tratadas com menor impacto, minimizando os riscos envolvidos com implantação de novos serviços e com a modificação do trabalho.</p>
+
+**Os Processos da Transição de Serviços são:**
+* Gerenciamento de Mudanças
+* Gerenciamento de Ativos e Configuração
+* Gerenciamento de Liberação
+* Validação e Teste de serviço
+* Avaliação da Mudança
+* Gerenciamento do Conhecimento
+* Planejamento e Suporte a Transição
 
 
 
