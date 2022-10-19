@@ -35,7 +35,7 @@ O modelo MPS estabelece dois modelos de referência de processos de software e s
 O MPS.BR foi criado em dezembro de 2003, coordenado pela Associação para Promoção da Excelência do Software Brasileiro (SOFTEX). De acordo com dados de 2011, disponibilizados também pela SOFTEX, duzentos e setenta e quatro empresas foram certificadas, sendo cento e setenta delas no nível G.
 O programa tem apoio do Ministério da Ciência, Tecnologia e Inovação, do FINEP, do SEBRAE e do Banco Interamericano de Desenvolvimento.
 
-[Imgur](https://i.imgur.com/LKAkVvX.png)
+[Imgur](https://imgur.com/LKAkVvX.png)
 
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
 
