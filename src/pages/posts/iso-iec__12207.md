@@ -22,7 +22,6 @@ banner: "bg-yellow-200"
   - [Preparação para adaptação a norma](#preparação-para-adaptação-a-norma)
   - [Atividades desempenhadas na implantação](#atividades-desempenhadas-na-implantação)
   - [Inovação e Resultados alcançados](#inovação-e-resultados-alcançados)
-- [Conclusão](#conclusão)
 
 ## Introdução
 
@@ -328,5 +327,3 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
     <li>melhoria da imagem do Banco Central frente à sociedade.</li>
   </ul>
 </details>
-
-## Conclusão
