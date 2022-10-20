@@ -282,7 +282,7 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 
 ² [Organização do PMBOK](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/)
 
-³ [Guia PMBOK 6ª Edição](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+³ [Guia PMBOK 6ª Edição - (Fonte das imagens e tabela)](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
 
 ⁴ [Tipos de certificação](https://www.pmi.org/brasil/tipos-de-certificacao)
 
