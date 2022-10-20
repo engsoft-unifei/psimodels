@@ -2,22 +2,23 @@
 layout: ../../layouts/PostLayout.astro
 title: " ITIL "
 description: "Pesquisa sobre o framework ITIL"
-author: "André Gomides, Enzo Vizotto, Gustavo Daniel, Vitoria Thais"
+author: "André Lucca Gomides Lima, Enzo Oliveira Vizotto, Gustavo Daniel Vitor, Vitoria Thais da Silva"
 date: "14 Oct 2022"
 banner: "bg-rose-800"
 ---
 
-- [Objetivo](#Objetivos-da-norma-ITIL)
-- [História da criação da norma](#História-da-criação-da-norma-ITIL)
-- [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#Etapas-estratégias-e-organização-da-norma-ITIL-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
-- [Desafios ao implementar a norma](#Desafios-ao-implementar-a-norma)
-- [O que uma empresa deve fazer para obter a certificação na norma](#O-que-uma-empresa-deve-fazer-para-obter-certificação?)
-- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas na norma](#Empresas-com-certificação-no-Brasil-e-o-que-é-necessário-para-obter-a-certificação)
-- [Relato de experiência de alguma empresa certificada ou em processo de certificação](#Relato-de-experiência-de-empresas-certificadas-ou-em-processo-de-certificação)
-- [Material complementar](#Materiais-complementares-e-lista-de-referências-utilizados-na-pesquisa)
-- [Vídeo da apresentação](#Apresentação-do-trabalho)
+- [Objetivo](#objetivos-do-framework-itil)
+- [História da criação da framework](#história-da-criação-do-framework-itil)
+- [Etapas, estratégias, organização da framework para garantir a qualidade do processo de desenvolvimento de software](#etapas-estratégias-e-organização-do-framework-itil-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
+- [Desafios ao implementar a framework](#desafios-ao-implementar-o-framework)
+- [O que uma empresa deve fazer para obter a certificação no framework ITIL](#o-que-uma-empresa-deve-fazer-para-obter-certificação)
+- [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas no framework ITIL](#empresas-com-certificação-no-brasil-e-o-que-é-necessário-para-obter-a-certificação)
+- [Relato de experiência de alguma empresa certificada ou em processo de certificação](#relato-de-experiência-de-empresas-certificadas-ou-em-processo-de-certificação)
+- [Material complementar](#materiais-complementares-e-lista-de-referências-utilizados-na-pesquisa)
+- [Vídeo da apresentação](#apresentação-do-trabalho)
+- [Slides](#slides)
 
-# Objetivos da norma ITIL
+# Objetivos do framework ITIL
 
 ## Objetivos chave:
 
@@ -65,13 +66,14 @@ Em constante evolução: A ITIL é bem sucedida porque descreve práticas que pe
 - Coordenar a entrega de bens e serviços em toda a rede de valores.
 - Otimize e reduza custos.
 
-# História da criação da norma ITIL
+# História da criação do framework ITIL
 
 
  A ITIL (IT Infrastructure Library) surgiu na década de 1980, desenvolvida inicialmente pela CCTA (Central Computing and Telecommunications Agency), atual OGC (Office of Government Commerce), órgão do governo britânico responsável por organizar e melhorar os processos dentro dos departamentos do próprio governo.
 
 Com o passar do tempo, outras empresas e entidades do governo perceberam que as práticas sugeridas pela ITIL poderiam ser aplicadas em seus processos de TI também. Assim, na década de 1990, a biblioteca tornou-se um padrão ganhando várias adaptações de grandes empresas como Microsoft, IBM e HP.
 
+![Imgur](https://i.imgur.com/dCbtHyA.png "Linha do tempo ITIL")
 
 **Os livros são:**
 
@@ -89,7 +91,9 @@ Com o passar do tempo, outras empresas e entidades do governo perceberam que as 
 
 - Gerenciamento da segurança: Detalha o processo de planejamento e gerenciamento a um nível mais detalhado da segurança da informação e Serviços de TI.
 
-# Etapas, estratégias e organização da norma ITIL para garantir a qualidade do processo de desenvolvimento de software
+![Imgur](https://i.imgur.com/tcrDSTe.jpg "Os cinco principais livros da ITIL (Axelos)")
+
+# Etapas, estratégias e organização do framework ITIL para garantir a qualidade do processo de desenvolvimento de software
 
 ## Etapas da ITIL
 
@@ -195,7 +199,7 @@ A operação de serviço coordena e desempenha as atividades e os processos requ
 * Orientações para melhorar a eficiência de custos de TI.
 
 
-# Desafios ao implementar a norma
+# Desafios ao implementar o framework
 
 **Auxílio dos gestores**
 
@@ -242,5 +246,10 @@ Chiari, Renê. Certificação ITIL: entenda os seus benefícios. Disponível em:
 
 Palma, Fernando. O que é ITIL?. Portalgsti, 2017. Disponível em: <https://www.portalgsti.com.br/itil/sobre/>. Acesso em: 14 de outubro de 2022
 
+Hofrimann, ITIL – O que é e por que usar a biblioteca de gerenciamento de serviços de TI?. holmesdoc, 2020. Disponível em: <https://holmesdoc.com.br/blog/itil-o-gerenciamento-de-servicos-de-ti/>. Acesso em: 20 de outubro de 2022
+
 # Apresentação do trabalho
--> [LINK DO VÍDEO](https://www.youtube.com/watch?v=0kGQtQdfMGU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kGQtQdfMGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Slides
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xLxcGp91hsjEo5" width="500" height="332" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe> 
