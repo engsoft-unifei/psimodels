@@ -262,6 +262,7 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 <div align="center">
 
 ### Vídeo sobre o PMBOK
+
 [![PMBOK](https://i.imgur.com/8USoGOe.png)](https://www.youtube.com/watch?v=CA1_dLplOAM)
 
 </div>
@@ -270,6 +271,7 @@ O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigl
 <div align="center">
 
 ### Slides
+
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/7TswGmM1sVasJt?hostedIn=slideshare&page=upload" width="580" height="440" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 </div>
