@@ -14,7 +14,8 @@ banner: "bg-rose-800"
 - [O que uma empresa deve fazer para obter a certificação no framework ITIL](#o-que-uma-empresa-deve-fazer-para-obter-certificação)
 - [Tem certificações no Brasil? O que é necessário fazer para ter a certificação? Exemplos de empresas brasileiras certificadas no framework ITIL](#empresas-com-certificação-no-brasil-e-o-que-é-necessário-para-obter-a-certificação)
 - [Relato de experiência de alguma empresa certificada ou em processo de certificação](#relato-de-experiência-de-empresas-certificadas-ou-em-processo-de-certificação)
-- [Material complementar](#materiais-complementares-e-lista-de-referências-utilizados-na-pesquisa)
+- [Material complementar](#material-complementar)
+- [Referências](#lista-de-referências-utilizados-na-pesquisa)
 - [Vídeo da apresentação](#apresentação-do-trabalho)
 - [Slides](#slides)
 
@@ -236,7 +237,14 @@ Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Founda
 
 Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível.
 
-# Materiais complementares, e lista de referências utilizados na pesquisa.
+# Material complementar
+
+- [Ebook gratuito de ITIL na prática](https://www.portalgsti.com.br/2016/10/ebook-itil-na-pratica.html) por Fernando Palma
+
+- [Ebook gratuito sobre ITIL](https://www.portalgsti.com.br/2012/07/ebook-itil-v3.html) pela Escola superior de redes
+
+
+# Lista de referências utilizados na pesquisa.
 
 Gërvalla, Preniqi e Kopacek, Muhamet, Naim e Peter. IT Infrastructure Library (ITIL) framework approach to IT Governance. Sciencedirect, 2018. Disponível em:  <https://www.sciencedirect.com/science/article/pii/S2405896318329562/>. Acesso em: 13 de outubro de 2022
 
@@ -246,7 +254,7 @@ Chiari, Renê. Certificação ITIL: entenda os seus benefícios. Disponível em:
 
 Palma, Fernando. O que é ITIL?. Portalgsti, 2017. Disponível em: <https://www.portalgsti.com.br/itil/sobre/>. Acesso em: 14 de outubro de 2022
 
-Hofrimann, ITIL – O que é e por que usar a biblioteca de gerenciamento de serviços de TI?. holmesdoc, 2020. Disponível em: <https://holmesdoc.com.br/blog/itil-o-gerenciamento-de-servicos-de-ti/>. Acesso em: 20 de outubro de 2022
+Hofrimann, Suelen. ITIL – O que é e por que usar a biblioteca de gerenciamento de serviços de TI?. holmesdoc, 2020. Disponível em: <https://holmesdoc.com.br/blog/itil-o-gerenciamento-de-servicos-de-ti/>. Acesso em: 20 de outubro de 2022
 
 # Apresentação do trabalho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kGQtQdfMGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
