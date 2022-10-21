@@ -46,6 +46,8 @@ para projetos de softwares cuja complexidade e tamanho escalam de forma exponenc
 [Fitzgerald 2012].
 </p>
 
+[Imgur](https://i.imgur.com/xdslfzY.jpg)
+
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
 <p>
     Os processos, atividades e tarefas da ISO/IEC 12207 foram planejados visando sua adaptação segundo a necessidade 
@@ -136,6 +138,8 @@ processos:
     processo específico do desenvolvimento de software, incorporado na atualização de
     2008 da ISO/IEC 12207.
 </p>
+
+[Imgur](https://i.imgur.com/1oG1k80.png)
 
 ## Benefícios da Norma
 
