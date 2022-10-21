@@ -4,7 +4,7 @@ title: "PMBOK"
 description: "Post para apresentação da norma PMBOK"
 author: "Augusto Benteu Pombo da Silva, Breno Oliveira Dias, Lucas Dias Rosa, Mateus de Freitas Bonette, Matheus Henrique Souza Araujo e Matheus Martins Batista"
 date: "19 Oct 2022"
-banner: "bg-[url('https://i.imgur.com/T0xu0NR.png')] bg-hero bg-no-repeat bg-center"
+banner: "bg-[url('https://i.imgur.com/xPx81ms.png')] bg-hero bg-no-repeat bg-center"
 ---
 # PMBOK - Sumário
 - [O que é o PMBOK?](#o-que-é-o-pmbok)
