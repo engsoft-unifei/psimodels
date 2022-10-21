@@ -4,7 +4,7 @@ title: "PMBOK"
 description: "Post para apresentação da norma PMBOK"
 author: "Augusto Benteu Pombo da Silva, Breno Oliveira Dias, Lucas Dias Rosa, Mateus de Freitas Bonette, Matheus Henrique Souza Araujo e Matheus Martins Batista"
 date: "19 Oct 2022"
-banner: "bg-[url('https://www.4pmti.com/images/pmbok-guide-sixth-edition-time-line.jpg)] bg-hero bg-no-repeat bg-center"
+banner: "bg-[url('https://i.imgur.com/xPx81ms.png')] bg-hero bg-no-repeat bg-center"
 ---
 # PMBOK - Sumário
 - [O que é o PMBOK?](#o-que-é-o-pmbok)
@@ -194,16 +194,16 @@ A metodologia do guia do PMBOK inclue vários tópicos importantes para os geren
 5. Todo o processo dos projetos é definido com suas entradas, saidas, ferramentas e tecnicas; 
 6. providencia documentação;
 7. planejamento detalhado;
-8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento;
+8. facilidade na troca das pessoas trabalhando no projeto devido ao alto nivel de documentação e planejamento.
 
 ### Desafios:
 Como o PMBOK funciona mais como um guia de boas práticas e padronização de projetos suas dificuldades de implementação geralmente envolvem o tipo e as limitações do projeto, bem como o entendimento de seu uso por participantes do projeto. 
 As dificuladades mais encontradas para sua implementação são encontradas na forma de:
 
-1. O PMBOK pode ser muito complexo para projetos pequenos,[¹¹](https://www.12manage.com/methods_pmi_pmbok.html) devido ao fato ter de planejar desde o começo ao fim do projeto, uma metodologia menos rigorosa pode-se mostrar mais eficiente.
-2. Pode ser necessário livros e teorias complementares por ter framework genérico[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), 
-3. A comunicação entre o time pode ser dificil[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), visto que o PMBOK valoriza a eficiencia sobre a comunicação.
-4. O PMBOK é um framework de boas praticas e pode ser aplicado de diversos modos no mercado o que pode causar conflito,[¹³]( https://periodicos.uninove.br/gep/article/viewFile/9556/4300) entre equipes de lugares diferentes do mercado devido a necessidade de se usar literaturas complementares em alguns casos.
+1. O PMBOK pode ser muito complexo para projetos pequenos[¹¹](https://www.12manage.com/methods_pmi_pmbok.html) devido ao fato ter de planejar desde o começo ao fim do projeto, uma metodologia menos rigorosa pode-se mostrar mais eficiente;
+2. Pode ser necessário livros e teorias complementares por ter framework genérico[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/);
+3. A comunicação entre o time pode ser difícil[¹²](https://projectmanager.com.au/3-limitations-of-pmbok-and-how-to-overcome-them/), visto que o PMBOK valoriza a eficiencia sobre a comunicação;
+4. O PMBOK é um framework de boas praticas e pode ser aplicado de diversos modos no mercado o que pode causar conflito[¹³]( https://periodicos.uninove.br/gep/article/viewFile/9556/4300) entre equipes de lugares diferentes do mercado devido a necessidade de se usar literaturas complementares em alguns casos.
 
 ## Certificações
 
@@ -252,7 +252,7 @@ Além dos casos de estudo do PMBOK, também é de grande importância relatos de
 Pode ser observado que as dificuldades dos gestores de maior e menor experiência variam, tendo os gestores menos experientes mais dificuldade na área de qualidade, problema que não é visto nos gestores que trabalham com o PMBOK por mais tempo. Porém, o maior desafio para todos os gerentes é a comunicação, não só em projetos que seguem as diretrizes do PMBOK, mas eu qualquer projeto, a boa comunicação entre a equipe se faz necessária e é crucial para o sucesso do projeto.
 
 Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
-<div align="center"><img src="https://imgur.com/M3aYoFo.png"  /></div> 
+<div align="center"><img src="https://imgur.com/M3aYoFo.png" width="700" height="300" /></div> 
 
 
 ## Material complementar
