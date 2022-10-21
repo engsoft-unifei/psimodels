@@ -16,6 +16,7 @@ banner: "bg-rose-800"
 - [Relato de experiência de alguma empresa certificada ou em processo de certificação](#relato-de-experiência-de-empresas-certificadas-ou-em-processo-de-certificação)
 - [Material complementar](#material-complementar)
 - [Referências](#lista-de-referências-utilizados-na-pesquisa)
+- [Conclusão](#conclusão)
 - [Vídeo da apresentação](#apresentação-do-trabalho)
 - [Slides](#slides)
 
@@ -236,6 +237,13 @@ Existem 4 níveis de certificação ITIL, e  o valor, iniciando no nível Founda
 # Relato de experiência de empresas certificadas ou em processo de certificação.
 
 Na rede de supermercados de atacado Makro, a implantação do ITIL ajudou na gerência dos seus processos de TI e resolveu a questão da prioridade de atendimento de seus usuários. Além disso, graças ao ITIL a documentação de processos foi eliminada e os problemas passaram a ser impessoais, dessa forma, não era preciso uma pessoa específica para resolver. O ITIL também permitiu que a taxa de erros em mudanças mantivesse sempre em baixo nível.
+
+# Conclusão
+Neste trabalho, foram exibidos os resultados de uma revisão acerca do framework ITIL. Uma busca por meio da plataforma Google e de alguns materiais adicionais foi realizada nesta revisão. A pesquisa procurou responder como o framework é implementado, seus objetivos e características, suas etapas, desafios, benefícios e de que forma a área de Tecnologia da Informação poderia gerenciar as mudanças do seu ambiente. Após a busca, foram encontrados alguns resultados que foram incluídos para a extração de dados.
+
+Perante o exposto, pode-se concluir que para que a área de Tecnologia da Informação agregue valor ao negócio com a provisão de serviços de TI, a organização deve ser capaz de executar o gerenciamento de serviços com qualidade e estar sempre alinhada aos interesses do negócio, e que O ITIL resulta em melhores controles da gestão do ambiente de TI, redução de custos operacionais de TI, aumento da satisfação de usuários através do aperfeiçoamento dos serviços, redução do risco operacional e falhas de planejamento das mudanças de TI, redução do tempo de execução dos serviços, nível de serviços negociáveis, eficácia eficiência na entrega de serviço, bem como, facilita a comunicação com as demais áreas do negócio e identifica oportunidades de melhoria.
+
+O que se pode concluir ainda, foi como é feito o processo de certificação do framework ITIL no Brasil, e as empresas que implementam seu processo de certificação e documentação, permitindo assim um baixo nível  na taxa de erros em mudanças.
 
 # Material complementar
 
