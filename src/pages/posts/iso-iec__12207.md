@@ -340,7 +340,7 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 [Etapas](https://i.imgur.com/Y95Akfj.png),
 [Atividades](https://i.imgur.com/Sg65N6f.png),
 [Processos](https://i.imgur.com/1oG1k80.png) e
-[ISO 12207](https://i.imgur.com/xdslfzY.jpg),
+[ISO 12207](https://i.imgur.com/xdslfzY.jpg).
 
 <p>Vídeo: </p>
 
