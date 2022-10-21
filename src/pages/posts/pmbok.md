@@ -2,9 +2,9 @@
 layout: ../../layouts/PostLayout.astro
 title: "PMBOK"
 description: "Post para apresentação da norma PMBOK"
-author: "Augusto Benteu Pombo da Silva, Breno Oliveira Dias, Lucas Dias Rosa, Matheus Henrique Souza Araujo, Mateus de Freitas Bonette e Matheus Henrique Souza Araujo"
+author: "Augusto Benteu Pombo da Silva, Breno Oliveira Dias, Lucas Dias Rosa, Mateus de Freitas Bonette, Matheus Henrique Souza Araujo e Matheus Martins Batista"
 date: "19 Oct 2022"
-banner: "bg-blue-200"
+banner: "bg-[url('https://artia.com/wp-content/uploads/2014/10/pmbok.jpg')] bg-hero bg-no-repeat bg-center"
 ---
 # PMBOK - Sumário
 - [O que é o PMBOK?](#o-que-é-o-pmbok)
@@ -258,15 +258,31 @@ Segue abaixo um gráfico que representa as respostas dos gestores entrevistados:
 ## Material complementar
 O Sistema de Administração dos Recursos de Tecnologia da Informação, da sigla SISP foi instituído em 2011 pelo governo da presidenta Dilma Rousseff, com o objetivo de criar padrões de gerência para as equipes de tecnologia da informação sob a administração direta do Poder Executivo Federal. Esse orgão pretende, por exemplo, estimular o uso racional dos recursos de tecnologia da informação visando à melhoria da qualidade e da produtividade do ciclo da informação. O SISP utiliza do guia técnico "Metodologia de Gerenciamento de Projetos" (MGP-SISP), que é um conjunto de boas práticas em gerenciamento de projetos para os órgãos da administração pública. A MGP-SISP tem como objetivo auxiliar os órgãos do SISP no gerenciamento de seus projetos com a devida flexibilidade para adaptar a realidade de cada orgão. O guia tem como base téorica o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®), 4ª edição. Está disponível publicamente.
 
+
+<div align="center">
+
+### Vídeo sobre o PMBOK
+
 [![PMBOK](https://i.imgur.com/8USoGOe.png)](https://www.youtube.com/watch?v=CA1_dLplOAM)
 
-## Área de referências :link:
+</div>
+
+
+<div align="center">
+
+### Slides
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/7TswGmM1sVasJt?hostedIn=slideshare&page=upload" width="580" height="440" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+</div>
+
+## Área de referências
 
 ¹ [PMBOK Guide 7ª Edição Review](http://lillianalvares.fci.unb.br/phocadownload/Projeto/Aula21PMIPMBOK.pdf)
 
 ² [Organização do PMBOK](https://www.sydle.com/blog/pmbok-61e80383f41fbf069eb3ef2b/)
 
-³ [Guia PMBOK 6ª Edição](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
+³ [Guia PMBOK 6ª Edição - (Fonte das imagens e tabela)](https://dicasliderancagp.com.br/wp-content/uploads/2018/04/Guia-PMBOK-6%C2%AA-Edi%C3%A7%C3%A3o.pdf)
 
 ⁴ [Tipos de certificação](https://www.pmi.org/brasil/tipos-de-certificacao)
 
