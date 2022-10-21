@@ -269,7 +269,6 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 
 <p> A infra estrutura foi outro ponto de atenção, nesse quesito uma nova solução arquitetural foi criada, bem como gerência de configuração, atenção maior com tratamento de erros, soluções de segurança, publicação e monitoramento, acesso ao legado, biblioteca de componentes corporativos e toda a solução feita, levando em consideração tanto o processo quanto a infra-estrutura buscou maximizar a reutilização dos componentes, participação dos clientes no projeto das aplicações e qualidade do produto final. </p>
 
-
 ### Inovação e Resultados alcançados
 
 <p>O Banco central foi o pioneiro a aplicar as mudanças no processo de software buscando as melhores práticas, sendo o destaque até quando se trata de empresas privadas, as mudanças iniciadas anos atrás, segundo a <a href="https://docplayer.com.br/81749182-Experiencia-de-implantacao-de-um-processo-de-desenvolvimento-de-software-no-banco-central-do-brasil.html">implementação feita pelo Banco Central</a> estão sendo implementadas atualmente por diversas instituições públicas.</p>
@@ -333,6 +332,39 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
   </ul>
 </details>
 
+## Conclusão
+
+<p> globalização da economia tem influenciado as empresas produtoras e prestadoras de serviços de software a alcançar um patamar de qualidade e produtividade internacional para poder enfrentar a competitividade que a cada dia é maior.
+
+A Norma Internacional ISO/IEC 12207 é uma referência utilizada em muito países, inclusive no Brasil, para alcançar o diferencial competitivo na produção de software. Ela estabelece uma estrutura comum para os processos de ciclo de vida de software, com terminologia bem definida, que pode ser referenciada pela indústria de software. Desta forma, ela proporcionar às organizações que a utilizam um melhor entendimento das atividades a serem executadas nas operações que envolvem, de alguma forma, o software.</p>
+
+## Referências:
+
+https://www.acate.com.br/noticias/empresas-catarinenses-sao-certificadas-pela-qualidade-de-software/
+
+Fitzgerald, B. (2012). Software crisis 2.0. Software Technologies, (10):89–91.
+
+https://blog.grancursosonline.com.br/t-i-em-foco-iso-iec-12207/
+
+Intercursos Revista Cient ́ıfica (2003). Um Estudo dos Processos de Ciclo de Vida de
+Software a Partir da Norma ISO 12207. Standard, Feit Intercursos Revista Cient ́ıfica,
+Ituiutaba, MG.
+
+ISO 12207:2017(E) (2017). Systems and software engineering — Software life cycle
+processes. Standard, International Organization for Standardization, Geneva, CH.
+
+https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:12207:ed-1:v1:en
+
+https://promovesolucoes.com/descubra-as-vantagens-da-avaliacao-mps/
+
+https://www.researchgate.net/publication/291147146_QUAL_A_IMPORTANCIA_DA_ADOCAO_DA_NORMA_ISO_12207_NAS_EMPRESAS_DE_DESENVOLVIMENTO_DE_SOFTWARE
+
+https://docplayer.com.br/81749182-Experiencia-de-implantacao-de-um-processo-de-desenvolvimento-de-software-no-banco-central-do-brasil.html
+
+https://softex.br/mpsbr/
+
+https://en.wikipedia.org/wiki/ISO/IEC_12207
+
 ## Material Complementar
 
 <p>Imagens: </p>
@@ -345,3 +377,7 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 <p>Vídeo: </p>
 
 [Vídeo com slides](https://youtu.be/Tz_fWtEzZlc)
+
+<p>Slides: </p>
+
+[Slides](https://docs.google.com/presentation/d/18TuNXxDsaEVJvtuCCDKIi2eLs0YDWNtQJbwK3Tm0im4/edit?usp=sharing)
