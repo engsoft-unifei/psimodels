@@ -337,10 +337,10 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 
 <p>Imagens: </p>
 
-[Imgur](https://i.imgur.com/Y95Akfj.png)
-[Imgur](https://i.imgur.com/Sg65N6f.png)
-[Imgur](https://i.imgur.com/1oG1k80.png)
-[Imgur](https://i.imgur.com/xdslfzY.jpg)
+[Etapas](https://i.imgur.com/Y95Akfj.png)
+[Atividades](https://i.imgur.com/Sg65N6f.png)
+[Processos](https://i.imgur.com/1oG1k80.png)
+[ISIO 12207](https://i.imgur.com/xdslfzY.jpg)
 
 <p>Vídeo: </p>
 
