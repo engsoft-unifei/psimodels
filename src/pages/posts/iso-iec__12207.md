@@ -12,7 +12,7 @@ banner: "bg-yellow-200"
 - [Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software](#etapas-estratégias-organização-da-norma-para-garantir-a-qualidade-do-processo-de-desenvolvimento-de-software)
 - [Benefícios da Norma](#benefícios-da-norma)
 - [Desafios da Implementação](#desafios-da-implementação)
-- [Como obrter a Certificação  ISO/IEC 12207](#como-obrter-a-certificação--isoiec-12207)
+- [Como obrter a Certificação ISO/IEC 12207](#como-obrter-a-certificação--isoiec-12207)
   - [Conformidade Total](#conformidade-total)
   - [Conformidade personalizada](#conformidade-personalizada)
 - [Tem Certificação no Brasil?](#tem-certificação-no-brasil)
@@ -46,9 +46,10 @@ para projetos de softwares cuja complexidade e tamanho escalam de forma exponenc
 [Fitzgerald 2012].
 </p>
 
-[Imgur](https://i.imgur.com/xdslfzY.jpg)
+[ISO](https://i.imgur.com/xdslfzY.jpg)
 
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
+
 <p>
     Os processos, atividades e tarefas da ISO/IEC 12207 foram planejados visando sua adaptação segundo a necessidade 
     de cada projeto de software. A adaptação é formaliza-se, por exemplo, nas atividades de mapear processos, atividades 
@@ -111,7 +112,6 @@ processos:
     <li>Recursos Humanos: responsável por providenciar e dar suporte aos recursos humanos necessários que têm consistência com o negócio.</li>
 </ul>
 
-
 <h4> 2.4 Processos de Adaptação </h4>
 <p>
     Os processos de adaptação fazem a definição das atividades que são
@@ -139,7 +139,7 @@ processos:
     2008 da ISO/IEC 12207.
 </p>
 
-[Imgur](https://i.imgur.com/1oG1k80.png)
+[Processos](https://i.imgur.com/1oG1k80.png)
 
 ## Benefícios da Norma
 
@@ -159,12 +159,13 @@ A ISO/IEC 12207 possui grande flexibilidade, podendo acompanhar a evolução da 
   <li>Não pretende entrar em conflito com quaisquer políticas, normas ou procedimentos já existentes na organização. Entretanto, qualquer conflito necessita ser resolvido e quaisquer condições e situações de sobreposição precisam ser citadas por escrito como exceções para a aplicação da Norma.</li>
 </ul>
 
-## Como obrter a Certificação  ISO/IEC 12207
+## Como obrter a Certificação ISO/IEC 12207
 
 <p>
 Para obter a certificação, as empresas contratam organizações de auditoria cuja missão avalia a conformidade dos funcionários às normas ISO. Os auditores passam alguns dias no local da empresa e analisam documentos de requisitos, resultados de testes, metodologia de teste e práticas de manutenção. Frequentemente, as empresas realizam suas próprias auditorias internas para verificar a conformidade antes de trazer um avaliador externo.
 
 O documento oficial da ISO/IEC 12207 fornece requisitos para vários processos adequados durante o ciclo de vida do sistema ou produto de software. Reconhece-se que projetos ou organizações específicos podem não precisar usar todos os processos fornecidos por este documento. Portanto, a implementação deste documento normalmente envolve selecionar e declarar um conjunto de processos adequados à organização ou projeto. Há duas maneiras de reivindicar que uma implementação está em conformidade com as disposições deste documento: conformidade total e conformidade personalizada.
+
 </p>
 
 ### Conformidade Total
@@ -238,7 +239,6 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
     <li> agilizar ao máximo o trabalho dos desenvolvedores com as soluções de infra-estrutura</li>
   </ul>
 </details>
-
 
 <details>
   <summary>As principais vantagens buscadas com a adoção da nova tecnologia</summary>
@@ -331,3 +331,10 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
     <li>melhoria da imagem do Banco Central frente à sociedade.</li>
   </ul>
 </details>
+
+## Material Complementar
+
+<ul>
+<li>Imagens: [Etapas](https://i.imgur.com/Sg65N6f.png), [Processos](https://i.imgur.com/1oG1k80.png) e [Estados](https://i.imgur.com/Y95Akfj.png)</li>
+<li>Vídeo: [Vídeo com slides](https://youtu.be/Tz_fWtEzZlc)</li>
+</ul>
