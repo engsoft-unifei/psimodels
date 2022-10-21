@@ -184,6 +184,10 @@ Essa avaliação envolve tanto a "definição" de como a empresa trabalha, como 
 
 <br>
 
+## Conclusão
+
+A norma CMMI tem como intuito decretar a qualidade de uma empresa, com ela se ganha além de mais credibilidade, também confiança pro seu produto e serviço. A organização que obtém seu certificado se destaca e tem vantagens em por maior controle produtivo, mais produtividade, mais agilidade para atender demandas, menos riscos no planejamento e maior satisfação do cliente.
+
 ## Vídeo de Apresentação CMMI
 
 <div align="center">
