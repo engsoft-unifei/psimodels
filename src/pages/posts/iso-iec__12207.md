@@ -377,3 +377,7 @@ https://en.wikipedia.org/wiki/ISO/IEC_12207
 <p>Vídeo: </p>
 
 [Vídeo com slides](https://youtu.be/Tz_fWtEzZlc)
+
+<p>Slides: </p>
+
+[Slides](https://docs.google.com/presentation/d/18TuNXxDsaEVJvtuCCDKIi2eLs0YDWNtQJbwK3Tm0im4/edit?usp=sharing)
