@@ -269,6 +269,7 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 
 <p> A infra estrutura foi outro ponto de atenção, nesse quesito uma nova solução arquitetural foi criada, bem como gerência de configuração, atenção maior com tratamento de erros, soluções de segurança, publicação e monitoramento, acesso ao legado, biblioteca de componentes corporativos e toda a solução feita, levando em consideração tanto o processo quanto a infra-estrutura buscou maximizar a reutilização dos componentes, participação dos clientes no projeto das aplicações e qualidade do produto final. </p>
 
+
 ### Inovação e Resultados alcançados
 
 <p>O Banco central foi o pioneiro a aplicar as mudanças no processo de software buscando as melhores práticas, sendo o destaque até quando se trata de empresas privadas, as mudanças iniciadas anos atrás, segundo a <a href="https://docplayer.com.br/81749182-Experiencia-de-implantacao-de-um-processo-de-desenvolvimento-de-software-no-banco-central-do-brasil.html">implementação feita pelo Banco Central</a> estão sendo implementadas atualmente por diversas instituições públicas.</p>
@@ -335,9 +336,12 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 ## Material Complementar
 
 <p>Imagens: </p>
+
 [Imgur](https://i.imgur.com/Y95Akfj.png)
 [Imgur](https://i.imgur.com/Sg65N6f.png)
 [Imgur](https://i.imgur.com/1oG1k80.png)
 [Imgur](https://i.imgur.com/xdslfzY.jpg)
+
 <p>Vídeo: </p>
+
 [Vídeo com slides](https://youtu.be/Tz_fWtEzZlc)
