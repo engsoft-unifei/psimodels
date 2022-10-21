@@ -334,5 +334,10 @@ O objetivo do projeto cooperado foi implementar uma série de melhorias no proce
 
 ## Material Complementar
 
-<p>Imagens: </p>[Imgur](https://i.imgur.com/Y95Akfj.png), [Imgur](https://i.imgur.com/Sg65N6f.png),  [Imgur](https://i.imgur.com/1oG1k80.png), [Imgur](https://i.imgur.com/xdslfzY.jpg)
-<p>Vídeo: </p>![Vídeo com slides](https://youtu.be/Tz_fWtEzZlc)
+<p>Imagens: </p>
+[Imgur](https://i.imgur.com/Y95Akfj.png)
+[Imgur](https://i.imgur.com/Sg65N6f.png)
+[Imgur](https://i.imgur.com/1oG1k80.png)
+[Imgur](https://i.imgur.com/xdslfzY.jpg)
+<p>Vídeo: </p>
+[Vídeo com slides](https://youtu.be/Tz_fWtEzZlc)
