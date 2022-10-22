@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "Lean Six Sigma"
 description: "Apresentação do modelo Lean Six Sigma"
-author: "Luis Ricardo Santos"
+author: "Luis Ricardo Santos, Bruna Delmouro da Silva"
 date: "20 Oct 2022"
 banner: "bg-[url('https://i.ytimg.com/vi/s2HCrhNVfak/maxresdefault.jpg')] bg-hero bg-no-repeat bg-center"
 ---
