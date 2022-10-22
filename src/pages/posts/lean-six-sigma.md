@@ -16,7 +16,7 @@ banner: "bg-[url('https://i.ytimg.com/vi/s2HCrhNVfak/maxresdefault.jpg')] bg-her
 - [Etapas](#etapas)
 - [Benefícios](#benefícios)
 - [Desafios](#desafios)
-- [Certificação](#certificação)
+- [Certificação](#certificações)
 - [Cases](#cases)
 - [Conclusão](#conclusão)
 
@@ -68,7 +68,37 @@ Outro problema é relacionado ao tempo, uma vez que a estratégia funciona a lon
 
 ## Certificações
 
+A certificação Lean Six Sigma é uma especialização em gestão baseada na Filosofia Lean. O curso e o certificado comprovam que o profissional está apto para coordenar e administrar diferentes tipos de projetos. Ademais, o  Six Sigma está relacionado com o envolvimento de pessoas na empresa. Logo, o treinamento é o ponto-chave da metodologia. 
+Dessa forma, para que obtenha se a certificação o profissional terá contato com diversos conteúdos teóricos, tais como: modelos de melhoria contínua, ferramentas de qualidade, análises de variações e tendências, estatísticas descritivas, análise de dados, teste e implementação de mudanças e entre outros. Ao final,  será preciso executar e apresentar um projeto Lean Seis Sigma que, se aprovado por avaliadores, resultará na referida certificação. 
+
+A certificação Six Sigma, ou Certificação Belt, é classificada por faixas, sendo elas: 
+
+**White Belt:** trata-se do nível operacional dos projetos e o profissional pode auxiliar os Yellow, Green e Black Belt na execução de iniciativas mais rotineiras na empresa, como a coleta de dados.
+
+**Yellow Belt:** os profissionais do nível Yellow estão aptos a gerenciar ações mais táticas dentro dos fundamentos Six-Sigma além de desenvolver pequenos projetos de melhoria em sua área de atuação. Também podem assumir funções de suporte aos Green e aos Black, com foco na utilização de ferramentas Lean.
+
+**Green Belt:** os profissionais assumem posições de liderança e gerenciamento de projetos menos complexos. Dentro das empresas, são eles que detêm mais conhecimento sobre ferramentas e modelos de análise de dados para coordenar equipes de qualidade, além de serem responsáveis por decisões estratégicas.
+
+**Black Belt:** os profissionais são especialistas em Six-Sigma e sendo assim, assumem cargos hierárquicos superiores na empresa, dedicando 100% de seu tempo à implementação e acompanhamento de programas mais avançados da filosofia Lean.
+
+**Master Black Belt:** os profissionais são o nível mais alto da hierarquia e, portanto, podem até mesmo assumir cargos superiores aos dos Black Belts. São eles que direcionam estratégias, coordenam iniciativas e desenvolvem as competências e habilidades da equipe com foco em mudanças mais profundas.
+
 ## Cases
+
+### **Ambev**
+A Ambev é uma das maiores empresas brasileiras fabricante de bebidas, e pertencente à multinacional belga Anheuser-Busch InBev. 
+
+<img align="bottom" width="350" height="180" src="https://logosmarcas.net/wp-content/uploads/2022/03/Anheuser-Busch-InBev-Logo-500x281.png">
+
+Não é de hoje que a cultura empresarial Ambev está em pauta no mercado. A metodologia organizacional da empresa já foi contestada muitas vezes, por sua rigidez e busca obsessiva pela perfeição e dessa forma, a mesma possui uma forte relação com o modelo Lean Six Sigma.
+
+Ao utilizar a metodologia Six Sigma, a Ambev busca a <u>melhoria contínua dos processos</u>, atingindo níveis de defeito próximos de zero, ou seja, seus erros na linha de produção aproximam-se do tão sonhado 0,1%. Essa redução é um elemento importantíssimo, por ter impacto direto na <u>redução dos custos</u> e <u>melhoria da qualidade</u>.
+
+Ademais, a empresa busca o envolvimento completo de todas as áreas, com participação ativa do líder. O gerenciamento é feito com base em dados obtidos de formas confiáveis, junto de especialistas na metodologia dentro da empresa.
+
+Entretanto, nada disso acontece sem uma <u>gestão cuidadosa dos riscos</u>, para assegurar que os recursos sejam liberados de forma consciente, de forma <u>rentável</u> e <u>segura ambientalmente</u>. A Ambev vem apresentando essa preocupação. Na metodologia, custos que não possibilitem melhorias significativas para os clientes são eliminados, o que traz impactos no serviço ofertado aos clientes. Como exemplo, a empresa obteve grandes resultados nas transformações das embalagens, chamadas de _rollpack_. Dessa forma, a embalagem é produzida com rejeitos agrícolas de forma 100% mecânica, sem químicos e influentes e a produção do material, acaba consumindo 80% menos água, 25% menos energia elétrica e no ano de 2020, a Ambev atingiu 45% de conteúdo reciclado nas embalagens de pet, 47% nas embalagens de vidro e 74% nas latas de alumínio.
+
+A cultura forte da Ambev se mostra na busca constante por resultados, o que representa a melhoria contínua de seus processos, característica da metodologia apresentada neste trabalho.
 
 ## Conclusão
 
