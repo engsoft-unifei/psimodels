@@ -4,6 +4,7 @@ title: " ITIL "
 description: "Pesquisa sobre o framework ITIL"
 author: "André Lucca Gomides Lima, Enzo Oliveira Vizotto, Gustavo Daniel Vitor, Vitoria Thais da Silva"
 date: "14 Oct 2022"
+
 banner: "bg-rose-800"
 ---
 
@@ -265,7 +266,9 @@ Palma, Fernando. O que é ITIL?. Portalgsti, 2017. Disponível em: <https://www.
 Hofrimann, Suelen. ITIL – O que é e por que usar a biblioteca de gerenciamento de serviços de TI?. holmesdoc, 2020. Disponível em: <https://holmesdoc.com.br/blog/itil-o-gerenciamento-de-servicos-de-ti/>. Acesso em: 20 de outubro de 2022
 
 # Apresentação do trabalho
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kGQtQdfMGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Slides
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/xLxcGp91hsjEo5" width="500" height="332" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe> 
+
