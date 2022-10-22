@@ -16,7 +16,8 @@ banner: "bg-[url('https://i.ytimg.com/vi/s2HCrhNVfak/maxresdefault.jpg')] bg-her
 - [Etapas](#etapas)
 - [Benefícios](#benefícios)
 - [Desafios](#desafios)
-- [Certificação](#certificações)
+- [Certificações](#certificações)
+- [Certificações no Brasil](#certificação-no-brasil)
 - [Cases](#cases)
 - [Conclusão](#conclusão)
 
@@ -83,6 +84,15 @@ A certificação Six Sigma, ou Certificação Belt, é classificada por faixas, 
 
 **Master Black Belt:** os profissionais são o nível mais alto da hierarquia e, portanto, podem até mesmo assumir cargos superiores aos dos Black Belts. São eles que direcionam estratégias, coordenam iniciativas e desenvolvem as competências e habilidades da equipe com foco em mudanças mais profundas.
 
+## Certificações no Brasil
+
+Muitas empresas brasileiras oferecem cursos e treinamentos na metodologia. Entretanto, ainda faz-se necessário atentar-se para a credibilidade da instituição escolhida. 
+
+A fim de padronizar a qualidade dos cursos ao redor do mundo, formaram-se instituições internacionais, com o intuito de avaliar os mais diversos treinamentos oferecidos, conferindo-lhes um selo de qualidade.
+
+A mais tradicional instituição acreditadora é o **The Council for Six Sigma**. Os selos conferidos pelo conselho são extensos, exigindo uma grade curricular diversa dos cursos, como apresentação de projetos, provas escritas e/ou digitais, além da utilização de várias ferramentas fornecidas pela metodologia Lean.
+
+
 ## Cases
 
 ### **Ambev**
@@ -99,6 +109,29 @@ Ademais, a empresa busca o envolvimento completo de todas as áreas, com partici
 Entretanto, nada disso acontece sem uma <u>gestão cuidadosa dos riscos</u>, para assegurar que os recursos sejam liberados de forma consciente, de forma <u>rentável</u> e <u>segura ambientalmente</u>. A Ambev vem apresentando essa preocupação. Na metodologia, custos que não possibilitem melhorias significativas para os clientes são eliminados, o que traz impactos no serviço ofertado aos clientes. Como exemplo, a empresa obteve grandes resultados nas transformações das embalagens, chamadas de _rollpack_. Dessa forma, a embalagem é produzida com rejeitos agrícolas de forma 100% mecânica, sem químicos e influentes e a produção do material, acaba consumindo 80% menos água, 25% menos energia elétrica e no ano de 2020, a Ambev atingiu 45% de conteúdo reciclado nas embalagens de pet, 47% nas embalagens de vidro e 74% nas latas de alumínio.
 
 A cultura forte da Ambev se mostra na busca constante por resultados, o que representa a melhoria contínua de seus processos, característica da metodologia apresentada neste trabalho.
+
+### **Honeywell**
+
+Em 1999, a AlliedSignal Inc. e a Honeywell decidiram fundir suas operações comerciais que uniram dois sistemas de gerenciamento de qualidade (SGQ) eficazes.
+
+<img align="bottom" width="350" height="180" src="https://voenews.com.br/wp-content/uploads/2019/08/honeywell-logo-approved.png">
+
+A AlliedSignal trouxe a experiência Six Sigma para a Honeywell, que já havia desenvolvido o Honeywell Quality Value (HQV) até então. A fusão reformulou e renomeou o programa Six Sigma existente, que mais tarde foi introduzido como Six Sigma Plus.
+
+O sistema Six Sigma Plus trouxe mudanças positivas para a empresa. O sistema é centrado no método de melhoria do projeto, o processo DMAIC que é a sigla para Definir, Medir, Analisar, Melhorar e Controlar que escala melhorias em todos os processos, produtos e serviços da empresa. Honeywell International Inc., produto da fusão, conseguiu economizar US$ 2,2 bilhões em 1999. De acordo com Hajikordestan (2010), o programa Six Sigma Plus, que foca no conceito Lean na eliminação de desperdícios e redução de variação em Six Sigma, ganhou um total de US$ 1,2 bilhão em melhorias de produtividade em 2012.
+
+### **3M**
+
+A 3M, uma multinacional americana, foi apresentada ao Seis Sigma em 2001 por Jim McNerney, ex-vice-presidente da General Electric (GE) (Hurren, 2015).
+
+<img align="bottom" width="175" height="90" src="https://logodownload.org/wp-content/uploads/2015/12/3m-logo-1-1.png">
+
+O Seis Sigma trouxe mudanças positivas temporárias para a empresa, mas resultou em tensão depois de um tempo devido à mudança na cultura corporativa.
+
+Segundo Gunther (2010), o método de melhoria, que se supunha impulsionar a produtividade, de alguma forma interrompeu os esforços inovadores da empresa. McNerney conseguiu agilizar a operação da empresa usando Six Sigma, mas os cientistas e engenheiros pensaram que a técnica de gerenciamento era difícil de implementar.
+
+Em 2005, a 3M nomeou um novo CEO, George Buckley, que preservou os benefícios de redução de custos e esforços de melhoria de eficiência do Seis Sigma e reestimulou os esforços inovadores da 3M. Essa abordagem híbrida resultou na metodologia Lean Six Sigma, na qual os elementos considerados menos úteis foram descartados, enquanto os elementos específicos e personalizados foram mantidos. Em 2017, a 3M faturou US$ 31,7 bilhões em vendas totais e a empresa ficou em 97º lugar na lista Fortune 500 de 2018.
+
 
 ## Conclusão
 
