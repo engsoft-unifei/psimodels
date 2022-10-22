@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "Lean Six Sigma"
 description: "Apresentação do modelo Lean Six Sigma"
-author: "Luis Ricardo Santos, Bruna Delmouro da Silva"
+author: "Alex Silva Rodrigues, Bruna Delmouro da Silva, Elisa Faria Almeida, Luis Ricardo Santos, Mariana dos Santos"
 date: "20 Oct 2022"
 banner: "bg-[url('https://i.ytimg.com/vi/s2HCrhNVfak/maxresdefault.jpg')] bg-hero bg-no-repeat bg-center"
 ---
@@ -57,13 +57,14 @@ A designação, ou título, Seis Sigma, está relacionada à ligação entre a q
 
 ## Benefícios
 
-A utilização da norma pode trazer inúmeras vantagens para uma organização. Sendo uma junção dos métodos Lean e Six Sigma, a metodologia Lean Six Sigma traz os benefícios de ambas as abordagens. Dentre as principais vantagens, pode-se destacar o aprimoramento dos processos e do controle de qualidade, permitindo a redução de custo e tempo dos processos, a diminuição do percentual de fabricação de produtos defeituosos, otimização e organização dos custos, além do aumento da produtividade e eficiência dos colaboradores e da gestão. Sendo assim, é possível aumentar o rendimento da empresa e o volume de vendas.
-Por consequência, o uso da norma contribui para a satisfação e fidelidade do cliente, uma vez que haverá maior consistência na qualidade do produto ou serviço ofertado.
+A utilização da norma pode trazer inúmeras vantagens para uma organização. Sendo uma junção dos métodos Lean e Six Sigma, a metodologia Lean Six Sigma traz os benefícios de ambas as abordagens. Dentre as principais vantagens, pode-se destacar o aprimoramento dos processos e do controle de qualidade, permitindo a redução de custo e tempo dos processos, a diminuição do percentual de fabricação de produtos defeituosos, otimização e organização dos custos, além do aumento da produtividade e eficiência dos colaboradores e da gestão. Sendo assim, é possível aumentar o rendimento da empresa e o volume de vendas. Por consequência, o uso da norma contribui para a satisfação e fidelidade do cliente, uma vez que haverá maior consistência na qualidade do produto ou serviço ofertado.
 
 ## Desafios
 
 A metodologia Lean Six Sigma está consolidada como uma ferramenta muito eficiente para o aumento de produtividade, lucratividade e excelência operacional. Entretanto, muitas empresas possuem dificuldades em implementá-la. Nesse processo de execução da norma, a corporação pode se deparar com algumas barreiras, pois exige uma mudança na cultura organizacional.
-Uma das dificuldades que a empresa pode encontrar é a resistência a essas mudanças por parte dos colaboradores, gerada pela falta de compreensão sobre como a metodologia funciona. Desse modo, o treinamento dos profissionais é essencial para a prática do Lean Six Sigma. Além disso, problemas na identificação de itens prioritários para melhoria podem gerar sobrecarga, fazendo com que haja mudanças demais ou até poucas mudanças em algumas áreas. 
+
+Uma das dificuldades que a empresa pode encontrar é a resistência a essas mudanças por parte dos colaboradores, gerada pela falta de compreensão sobre como a metodologia funciona. Desse modo, o treinamento dos profissionais é essencial para a prática do Lean Six Sigma. Além disso, problemas na identificação de itens prioritários para melhoria podem gerar sobrecarga, fazendo com que haja mudanças demais ou até poucas mudanças em algumas áreas.
+
 Outro problema é relacionado ao tempo, uma vez que a estratégia funciona a longo prazo. A necessidade de resultados em um curto período de tempo pode levar a uma aplicação incorreta do método. Evitar estoques e, ao mesmo tempo, suprir a demanda da produção também é uma dificuldade encontrada porque a confecção estará mais acelerada. Por esse motivo é necessário o alinhamento com fornecedores. Barreiras relacionadas aos recursos financeiros, humanos e de infraestrutura também podem ser citadas.
 
 ## Certificações
@@ -103,9 +104,26 @@ A cultura forte da Ambev se mostra na busca constante por resultados, o que repr
 ## Conclusão
 
 Diante das informações pontuadas acima, conclui-se que a metodologia Lean Six Sigma pode ser uma grande aliada para otimizar os processos de uma empresa. Consolidada no ano de 2001, o método surgiu através da junção das técnicas Lean Manufacturing e Six Sigma, tornando-se um dos principais modelos de melhoria contínua de processos do mundo.
+
 As fases que compõem a metodologia podem ser sintetizadas pela sigla DMAIC, que significa “definir, medir, analisar, melhorar e controlar”. Durante essas etapas, o problema a ser solucionado é compreendido do ponto de vista do negócio e do cliente. Posteriormente, dados do processo são coletados e analisados a fim de identificar pontos de otimização. Por fim, serão criadas soluções para eliminar ou regular o problema, além de um plano de controle para garantir a durabilidade das melhorias implantadas.
+
 A utilização da norma pode trazer vários benefícios como a redução de custo e tempo dos processos, eliminação de desperdícios e aumento da produtividade dos colaboradores, o que implica no aumento do rendimento, qualidade e volume de vendas da empresa. Referindo acerca dos desafios em implementar a norma em uma organização, pode-se citar a resistência por parte dos funcionários, uma vez que a norma exige mudanças na cultura da empresa. Outro ponto é a necessidade de treinamento para que todos os envolvidos compreendam o funcionamento da técnica, bem como a necessidade de controlar a execução da norma a longo prazo.
-Para obter a certificação da norma, a  empresa deve realizar cursos e treinamentos que discorrem sobre a técnica e suas ferramentas. A certificação Six Sigma, também conhecida como Certificação Belt, é dividida por faixas, sendo a primeira a White Belt, seguida da Yellow, Green, Black e por último a Master Black Belt, tratando-se do nível mais alto da hierarquia. No Brasil, a instituição mais tradicional para a capacitação da metodologia é o The Council for Six Sigma. 
+
+Para obter a certificação da norma, a  empresa deve realizar cursos e treinamentos que discorrem sobre a técnica e suas ferramentas. A certificação Six Sigma, também conhecida como Certificação Belt, é dividida por faixas, sendo a primeira a White Belt, seguida da Yellow, Green, Black e por último a Master Black Belt, tratando-se do nível mais alto da hierarquia. No Brasil, a instituição mais tradicional para a capacitação da metodologia é o The Council for Six Sigma.
+
 Grandes empresas como Honeywell, 3M e Ambev são exemplos de organizações que adotaram a norma e relataram melhorias significativas em seus processos. 
 
 ## Referências
+
+[Vantagens estratégicas do método Lean Six Sigma](https://www.nortegubisian.com.br/blog/conheca-as-vantagens-estrategicas-do-metodo-lean-six-sigma/)
+[O que é Six Sigma e suas vantagens para a empresa](https://gembagroup.com.br/2019/09/03/entenda-o-que-e-six-sigma-e-suas-vantagens-para-a-empresa/)
+[O Lean pode falhar?](https://excelenciaempauta.com.br/o-lean-pode-falhar/)
+[Desafios do Lean Six Sigma](https://www.fm2s.com.br/5-desafios-lean-six-sigma/)
+[É difícil implementar o Lean Six Sigma?](https://www.youtube.com/watch?v=BEaWFzXmqKg)
+[Seis Sigma: dificuldades, limitações, fatores críticos e perspectivas futuras](https://revista.feb.unesp.br/index.php/gepros/article/view/1244/688)
+[Pré-requisitos para tirar a certificação Six Sigma](https://www.escolaedti.com.br/quais-os-pre-requisitos-para-tirar-a-certificacao-six-sigma)
+[Certificação Six Sigma](https://www.voitto.com.br/blog/artigo/certificacao-seis-sigma)
+[Seis Sigma em empresas brasileiras](https://caetreinamentos.com.br/blog/seis-sigma/seis-sigma-em-empresas-brasileiras/)
+[Lean Seis Sigma: o que são os Yellow Belts, Green Belts e Black Belts no Seis Sigma?](https://www.youtube.com/watch?v=PgBGOVayqAY)
+[Cultura AMBEV e o Six Sigma](https://caetreinamentos.com.br/blog/gestao-empresarial/cultura-ambev/ )
+[Lean 6 Sigma: Fases e benefícios](https://atlasfacil.com.br/blog/lean-6-sigma-fases-e-beneficios/)
