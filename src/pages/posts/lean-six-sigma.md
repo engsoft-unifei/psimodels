@@ -116,14 +116,25 @@ Grandes empresas como Honeywell, 3M e Ambev são exemplos de organizações que 
 ## Referências
 
 [Vantagens estratégicas do método Lean Six Sigma](https://www.nortegubisian.com.br/blog/conheca-as-vantagens-estrategicas-do-metodo-lean-six-sigma/)
+
 [O que é Six Sigma e suas vantagens para a empresa](https://gembagroup.com.br/2019/09/03/entenda-o-que-e-six-sigma-e-suas-vantagens-para-a-empresa/)
+
 [O Lean pode falhar?](https://excelenciaempauta.com.br/o-lean-pode-falhar/)
+
 [Desafios do Lean Six Sigma](https://www.fm2s.com.br/5-desafios-lean-six-sigma/)
+
 [É difícil implementar o Lean Six Sigma?](https://www.youtube.com/watch?v=BEaWFzXmqKg)
+
 [Seis Sigma: dificuldades, limitações, fatores críticos e perspectivas futuras](https://revista.feb.unesp.br/index.php/gepros/article/view/1244/688)
+
 [Pré-requisitos para tirar a certificação Six Sigma](https://www.escolaedti.com.br/quais-os-pre-requisitos-para-tirar-a-certificacao-six-sigma)
+
 [Certificação Six Sigma](https://www.voitto.com.br/blog/artigo/certificacao-seis-sigma)
+
 [Seis Sigma em empresas brasileiras](https://caetreinamentos.com.br/blog/seis-sigma/seis-sigma-em-empresas-brasileiras/)
+
 [Lean Seis Sigma: o que são os Yellow Belts, Green Belts e Black Belts no Seis Sigma?](https://www.youtube.com/watch?v=PgBGOVayqAY)
+
 [Cultura AMBEV e o Six Sigma](https://caetreinamentos.com.br/blog/gestao-empresarial/cultura-ambev/ )
+
 [Lean 6 Sigma: Fases e benefícios](https://atlasfacil.com.br/blog/lean-6-sigma-fases-e-beneficios/)
