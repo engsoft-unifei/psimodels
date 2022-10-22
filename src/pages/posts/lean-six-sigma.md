@@ -53,7 +53,30 @@ A designação, ou título, Seis Sigma, está relacionada à ligação entre a q
 
 ## Como Funciona
 
+Para realmente conseguir compreender o que é e como funciona o Lean 6 sigma, é essencial saber quais são as cinco fases que compõem a metodologia. O DMAIC é muitas vezes considerado como os blocos de construção da metodologia Six Sigma. A sigla significa definir, medir, analisar, melhorar e controlar e isso ajudou muitas empresas a reduzir erros e fazer melhorias sem experimentações desnecessárias.
+
 ## Etapas
+
+Definir
+
+A fase de definição é a primeira da metodologia. A pergunta-chave que deve ser respondida é: “Definimos o problema de uma perspectiva de negócios?” .A equipe do projeto precisa obter informações das partes interessadas e dos clientes para entender o problema de sua perspectiva. Com a compreensão do problema do ponto de vista do negócio e do cliente, os limites do processo – e de qualquer produto ou serviço entregue – podem ser determinados. As ferramentas úteis para usar durante essa fase são um termo de abertura do projeto ou um diagrama de fluxo de trabalho.
+
+Medir
+
+A pergunta que é feita nesta fase é: “Nós entendemos o trabalho e o fluxo de cada uma das etapas do processo atual e medimos o desempenho do processo em cada etapa?” Por meio de coleta de dados, melhorar a compreensão sobre o fluxo de processo, localizar gargalos, permitir medir tempo de ciclo de atividades, identificar complexidades e desperdícios, identificar oportunidades para reduzir custos de processamento. Um plano de coleta de dados é uma ferramenta útil para ter em mãos durante esta fase.
+
+Analisar
+
+Nesta fase, o líder do projeto aplica as ferramentas analíticas nos dados colatados na fase anterior para determinar a causa raiz de desperdício e erro. . A pergunta-chave a ser respondida é apenas: “Identificamos claramente o problema e determinamos a(s) causa(s) verdadeira(s)?”. Em alguns casos, a análise apontará para uma área que requer um estudo mais aprofundado e pode ser necessário coletar dados adicionais. Um diagrama de causa e efeito é uma boa ferramenta para usar durante esta fase.
+
+Melhorar
+
+Agora que o problema foi identificado, é hora de pensar em possíveis soluções. A pergunta a ser respondida é: “Criamos uma solução viável para o problema que está pronta para ser implementada?”. O objetivo desta fase é criar uma solução para o problema que o elimine ou contenha. A solução deve ser exaustivamente testada e os materiais de treinamento e implementação que os acompanham, desenvolvidos e prontos para serem implantados. Ao final dessa fase, a solução está pronta.
+
+Controlar
+
+A fase de controle é a fase final de um projeto Lean 6 Sigma e agora é hora de manter esse processo de inovação. Nela, a solução está totalmente implantada. A fase não termina até que a solução esteja estável e todos os aspectos do negócio afetados pela mudança estejam operacionais. A pergunta a ser respondida é: “Estabelecemos um novo normal que eliminou ou controlou o problema que o cliente experimentou?”. É útil criar um plano de controle e definir claramente as funções e responsabilidades de todos que ajudarão a manter o processo. Essa fase é concluída quando os operadores e gestores do processo não precisam mais do suporte da equipe do projeto.
+
 
 ## Benefícios
 
