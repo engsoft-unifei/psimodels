@@ -9,6 +9,7 @@ banner: "bg-[url('https://i.ytimg.com/vi/s2HCrhNVfak/maxresdefault.jpg')] bg-her
 
 # Lean Six Sigma
 
+- [Vídeo de apresentação](#video)
 - [Introdução](#introdução)
 - [História](#história)
 - [Objetivo](#objetivo)
@@ -20,6 +21,10 @@ banner: "bg-[url('https://i.ytimg.com/vi/s2HCrhNVfak/maxresdefault.jpg')] bg-her
 - [Certificações no Brasil](#certificação-no-brasil)
 - [Cases](#cases)
 - [Conclusão](#conclusão)
+
+## Vídeo de apresentação
+
+[Youtube - Apresentação](https://www.youtube.com/watch?v=KA9y-Nj8Sjw)
 
 ## Introdução
 
