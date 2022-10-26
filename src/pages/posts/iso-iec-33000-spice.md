@@ -27,7 +27,7 @@ banner: "bg-red-400"
 
 Como uma ISO - organização internacional para padronização - e IEC - comissão eletrotécnica internacional -, a SPICE fornece uma forma estruturada para avaliação de processos e maturidade organizacional, dessa forma, a norma tem o objetivo de construir uma estrutura definitiva para a integração de processos de melhoria e sistemas de gestão dentro do setor.
 
-
+![Imgur](https://imgur.com/unqvRDQ)
 ## História da criação da norma
 
 A série de normas internacionais ISO/IEC 33000 (ISO/IEC, 2015) surgiu em 2015, sediada atualmente em Genebra, na Suíça. Conforme a norma foi evoluindo, ela acabou substituindo a norma ISO/IEC 15504 (ISO/IEC, 2008), conhecida como Software Process Improvement and Capability Determination (SPICE), em português, Melhoria de Processo de Software e Determinação da Capacidade. 
@@ -38,7 +38,7 @@ Segundo a evolução das publicações, a antiga norma internacional ISO/IEC 155
 ## Etapas, estratégias, organização da norma para garantir a qualidade do processo de desenvolvimento de software
 
 A ISO/IEC 33000 possibilita a determinação dos pontos fortes e pontos fracos de um software, permitindo a incorporação desses em ciclos de melhoria. A SPICE permite a integração de normas específicas da indústria, como a Automotive SPICE® 3.0, a qual se alinha com as necessidades do ambiente na indústria. Sendo assim, a estratégia para garantir a qualidade do processo de desenvolvimento de software adotada por essa norma, trata da melhoria de processos em três níveis: O estratégico, onde são definidos os objetivos que precisam ser alcançados, quais as motivações e qual a direção a ser tomada. O tático, onde é definido como atingir as metas de melhoria do processo. Por fim, o operacional, onde é definido como realizar a melhoria do processo.
-
+![Imgur](https://imgur.com/N8itpeO)
 
 ## Benefícios de usar a norma
 
@@ -59,6 +59,8 @@ Para a certificação da norma, conduzida por membros ou organizações credenci
     <li>Avaliação do sistema: Após auditar o âmbito do sistema, é iniciada a avaliação pelo comitê credenciado, se todos os requisitos forem cumpridos será concedida a certificação ISO/IEC 33xxx.</li>
     <li>Auditorias de manutenção: Para manter a eficácia do sistema de gestão e melhoria contínua, auditorias de manutenção devem ser realizadas na empresa, permitindo a verificação dos processos principais, a fim de garantir que a empresa sempre cumpra todos os requisitos. Vale ressaltar que as manutenções são realizadas, geralmente, semestralmente ou anualmente.</li>
 </ul>
+
+![Imgur](https://imgur.com/M1fkR4H)
 
 
 ## Relato de experiência de alguma empresa certificada ou em processo de certificação
